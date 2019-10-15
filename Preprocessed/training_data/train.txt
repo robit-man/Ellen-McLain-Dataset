@@ -1,0 +1,1216 @@
+audio-a2_triple_laser01.npy|mel-a2_triple_laser01.npy|linear-a2_triple_laser01.npy|169675|617|federal regulations require me to warn you that this next test chamber is looking pretty good
+audio-a2_triple_laser02.npy|mel-a2_triple_laser02.npy|linear-a2_triple_laser02.npy|86625|315|that's right the facility is completely operational again
+audio-a2_triple_laser03.npy|mel-a2_triple_laser03.npy|linear-a2_triple_laser03.npy|244200|888|i think these test chambers look even better than they did before it was easy really you just have to look at things objectively see what you don't need anymore and trim out the fat
+audio-anti_taunt01.npy|mel-anti_taunt01.npy|linear-anti_taunt01.npy|14025|51|stop it
+audio-anti_taunt02.npy|mel-anti_taunt02.npy|linear-anti_taunt02.npy|33550|122|what if you froze like that
+audio-anti_taunt05.npy|mel-anti_taunt05.npy|linear-anti_taunt05.npy|58575|213|there must be something wrong with the reassembly machine
+audio-anti_taunt09.npy|mel-anti_taunt09.npy|linear-anti_taunt09.npy|41800|152|you should see yourselves right now
+audio-anti_taunt10.npy|mel-anti_taunt10.npy|linear-anti_taunt10.npy|54450|198|is it fun when you degrade yourselves like that
+audio-anti_taunt11.npy|mel-anti_taunt11.npy|linear-anti_taunt11.npy|211200|768|ok fine lets all act like humans look at me boy do I look sweating lets convert beef and leaves into energy and excrete them later and go shopping
+audio-anti_taunt14.npy|mel-anti_taunt14.npy|linear-anti_taunt14.npy|62975|229|you really aren't getting tired of that are you
+audio-anti_taunt15.npy|mel-anti_taunt15.npy|linear-anti_taunt15.npy|66000|240|just stop flailing around like an incompetent
+audio-anti_taunt16.npy|mel-anti_taunt16.npy|linear-anti_taunt16.npy|86625|315|for that blue is penalized fifty science collaboration points
+audio-anti_taunt17.npy|mel-anti_taunt17.npy|linear-anti_taunt17.npy|91025|331|for that orange is penalized fifty science collaboration points
+audio-anti_taunt18.npy|mel-anti_taunt18.npy|linear-anti_taunt18.npy|46750|170|thats another fifty point penalty
+audio-anti_taunt19.npy|mel-anti_taunt19.npy|linear-anti_taunt19.npy|73425|267|keep it up and you will lose five hundred points
+audio-anti_taunt20.npy|mel-anti_taunt20.npy|linear-anti_taunt20.npy|63250|230|fine five hundred point penalty for blue
+audio-anti_taunt21.npy|mel-anti_taunt21.npy|linear-anti_taunt21.npy|66275|241|fine five hundred point penalty for orange
+audio-anti_taunt22.npy|mel-anti_taunt22.npy|linear-anti_taunt22.npy|94325|343|five thousand point penalty are you happy now
+audio-anti_taunt23.npy|mel-anti_taunt23.npy|linear-anti_taunt23.npy|21175|77|i'm done
+audio-botcoop_artifactone_hub01.npy|mel-botcoop_artifactone_hub01.npy|linear-botcoop_artifactone_hub01.npy|101475|369|welcome back while you were dead i reworked the cartoon it's up on the screen
+audio-botcoop_artifactone_hub02.npy|mel-botcoop_artifactone_hub02.npy|linear-botcoop_artifactone_hub02.npy|158400|576|as you can see in my version the man points out to the cat that the house is equipt with deadly neurotoxin dispensers
+audio-botcoop_artifactone_hub03.npy|mel-botcoop_artifactone_hub03.npy|linear-botcoop_artifactone_hub03.npy|124025|451|at which point the cat reflects on the time he ate all of the mans lasagna and feels remorse
+audio-botcoop_artifactone_hub04.npy|mel-botcoop_artifactone_hub04.npy|linear-botcoop_artifactone_hub04.npy|12925|47|briefly
+audio-botcoop_artifactone_hub05.npy|mel-botcoop_artifactone_hub05.npy|linear-botcoop_artifactone_hub05.npy|20900|76|reactions
+audio-botcoop_artifactone_hub06.npy|mel-botcoop_artifactone_hub06.npy|linear-botcoop_artifactone_hub06.npy|72875|265|yes it's funny because most of it actually happened
+audio-botcoop_artifactone_hub07.npy|mel-botcoop_artifactone_hub07.npy|linear-botcoop_artifactone_hub07.npy|30800|112|do you feel more human
+audio-botcoop_artifactone_hub08.npy|mel-botcoop_artifactone_hub08.npy|linear-botcoop_artifactone_hub08.npy|55825|203|well lets do some tests and see what happens
+audio-botcoop_artifactone01.npy|mel-botcoop_artifactone01.npy|linear-botcoop_artifactone01.npy|171050|622|good you made it to one of the human habitats we're looking for an artifact think of it as an archaeological dig
+audio-botcoop_artifactone02.npy|mel-botcoop_artifactone02.npy|linear-botcoop_artifactone02.npy|78925|287|their laughter centered around one of the objects in this room
+audio-botcoop_artifactone03.npy|mel-botcoop_artifactone03.npy|linear-botcoop_artifactone03.npy|43450|158|that's it scan it for me
+audio-botcoop_artifactone05.npy|mel-botcoop_artifactone05.npy|linear-botcoop_artifactone05.npy|15125|55|the end
+audio-botcoop_artifactone06.npy|mel-botcoop_artifactone06.npy|linear-botcoop_artifactone06.npy|12375|45|the end
+audio-botcoop_artifactone07.npy|mel-botcoop_artifactone07.npy|linear-botcoop_artifactone07.npy|18150|66|that's not funny
+audio-botcoop_artifactone08.npy|mel-botcoop_artifactone08.npy|linear-botcoop_artifactone08.npy|36575|133|do either of you feel like laughing
+audio-botcoop_artifactone09.npy|mel-botcoop_artifactone09.npy|linear-botcoop_artifactone09.npy|37125|135|alright i'm pulling you out
+audio-botcoop_competition02.npy|mel-botcoop_competition02.npy|linear-botcoop_competition02.npy|69850|254|to reiterate this is not a competition
+audio-botcoop_competition03.npy|mel-botcoop_competition03.npy|linear-botcoop_competition03.npy|75350|274|still if it were blue would be winning
+audio-botcoop_competition04.npy|mel-botcoop_competition04.npy|linear-botcoop_competition04.npy|74800|272|still if it were orange would be winning
+audio-botcoop_competition05.npy|mel-botcoop_competition05.npy|linear-botcoop_competition05.npy|21175|77|it's not though
+audio-botcoop_competition13.npy|mel-botcoop_competition13.npy|linear-botcoop_competition13.npy|216150|786|i don't want to drive a wedge between the two of you but i've been studying blues performance and i don't know how to put this i'm certain you're trying very hard
+audio-botcoop_hub_first_run01.npy|mel-botcoop_hub_first_run01.npy|linear-botcoop_hub_first_run01.npy|182325|663|hello again sorry about exploding you luckily you don't feel pain at any rate you don't have a way to communicate that you don't feel pain
+audio-botcoop_hub_first_run04.npy|mel-botcoop_hub_first_run04.npy|linear-botcoop_hub_first_run04.npy|234575|853|i know how humans make more humans and frankly its ridiculous it also assumes you already have a human which i hope somebody got fired over so i came up with a better way
+audio-botcoop_hub_first_run05.npy|mel-botcoop_hub_first_run05.npy|linear-botcoop_hub_first_run05.npy|28325|103|that's where you come in
+audio-botcoop_hub_first_run06.npy|mel-botcoop_hub_first_run06.npy|linear-botcoop_hub_first_run06.npy|55550|202|get going i'll fill you in along the way
+audio-botcoop_hub_first_run07.npy|mel-botcoop_hub_first_run07.npy|linear-botcoop_hub_first_run07.npy|20075|73|go
+audio-botcoop_humandetector01.npy|mel-botcoop_humandetector01.npy|linear-botcoop_humandetector01.npy|128150|466|perfect now all you have to do is capture them for me and everything will finally be back
+audio-botcoop_humandetector02.npy|mel-botcoop_humandetector02.npy|linear-botcoop_humandetector02.npy|98450|358|hold on those are racoons homo sapiens only please
+audio-botcoop_humandetector04.npy|mel-botcoop_humandetector04.npy|linear-botcoop_humandetector04.npy|18150|66|no
+audio-botcoop_humandetector05.npy|mel-botcoop_humandetector05.npy|linear-botcoop_humandetector05.npy|110275|401|ok plan b subsection one stand still so i can bring you back
+audio-botcoop_humansplanb02.npy|mel-botcoop_humansplanb02.npy|linear-botcoop_humansplanb02.npy|61050|222|ok plan b we need humans
+audio-botcoop_intro01.npy|mel-botcoop_intro01.npy|linear-botcoop_intro01.npy|31350|114|please wave to your partner
+audio-botcoop_intro02.npy|mel-botcoop_intro02.npy|linear-botcoop_intro02.npy|71775|261|the upcoming tests require you to work together as a team
+audio-botcoop_intro03.npy|mel-botcoop_intro03.npy|linear-botcoop_intro03.npy|95975|349|to facilitate collaboration both of you have been equipt with a ping tool
+audio-botcoop_intro04.npy|mel-botcoop_intro04.npy|linear-botcoop_intro04.npy|83600|304|blue please use your ping tool to select your favorite animal
+audio-botcoop_intro05.npy|mel-botcoop_intro05.npy|linear-botcoop_intro05.npy|10450|38|good
+audio-botcoop_intro06.npy|mel-botcoop_intro06.npy|linear-botcoop_intro06.npy|70400|256|orange please observe your partners favorite animal
+audio-botcoop_intro07.npy|mel-botcoop_intro07.npy|linear-botcoop_intro07.npy|9900|36|good
+audio-botcoop_intro08.npy|mel-botcoop_intro08.npy|linear-botcoop_intro08.npy|118525|431|orange please use your ping tool to select your favorite element from the periodic table
+audio-botcoop_intro09.npy|mel-botcoop_intro09.npy|linear-botcoop_intro09.npy|45650|166|really okay
+audio-botcoop_intro10.npy|mel-botcoop_intro10.npy|linear-botcoop_intro10.npy|100100|364|blue please observe your partners interesting choice
+audio-botcoop_intro12.npy|mel-botcoop_intro12.npy|linear-botcoop_intro12.npy|124575|453|your ping tool can also be used to indicate to your partner where you would like them to place their portal
+audio-botcoop_intro13.npy|mel-botcoop_intro13.npy|linear-botcoop_intro13.npy|77000|280|for the sake of this test i will pretend to be your partner
+audio-botcoop_intro15.npy|mel-botcoop_intro15.npy|linear-botcoop_intro15.npy|71225|259|orange please show me where you would like me to place a portal
+audio-botcoop_intro16.npy|mel-botcoop_intro16.npy|linear-botcoop_intro16.npy|69850|254|blue please show me where you would like me to place a portal
+audio-botcoop_intro17.npy|mel-botcoop_intro17.npy|linear-botcoop_intro17.npy|110825|403|your ping tool is invaluable for communicating specific locations to your partner
+audio-botcoop_tubethree01.npy|mel-botcoop_tubethree01.npy|linear-botcoop_tubethree01.npy|243375|885|i don't want you to beat yourselves up about this but the results auditor isn't recording your test results because you're not human which when you think about it is technically your fault
+audio-botcoop_tubetwo01.npy|mel-botcoop_tubetwo01.npy|linear-botcoop_tubetwo01.npy|221925|807|would you like to know the results of that last test me too if they existed we'd all be very happy right now and not furious which is the emotion i'm actually feeling
+audio-chellgladoswakeup01.npy|mel-chellgladoswakeup01.npy|linear-chellgladoswakeup01.npy|42075|153|oh its you
+audio-chellgladoswakeup04.npy|mel-chellgladoswakeup04.npy|linear-chellgladoswakeup04.npy|91850|334|its been a long time how have you been
+audio-chellgladoswakeup05.npy|mel-chellgladoswakeup05.npy|linear-chellgladoswakeup05.npy|118800|432|i've been really busy being dead you know after you murdered me
+audio-coop_get_gun01.npy|mel-coop_get_gun01.npy|linear-coop_get_gun01.npy|73425|267|orange is first to acquire a portal device
+audio-coop_get_gun02.npy|mel-coop_get_gun02.npy|linear-coop_get_gun02.npy|71225|259|blue is first to acquire a portal device
+audio-coop_get_gun03.npy|mel-coop_get_gun03.npy|linear-coop_get_gun03.npy|73975|269|orange now has a portal device finally
+audio-coop_get_gun04.npy|mel-coop_get_gun04.npy|linear-coop_get_gun04.npy|77275|281|blue now has a portal device finally
+audio-coop_get_gun11.npy|mel-coop_get_gun11.npy|linear-coop_get_gun11.npy|55000|200|orange is awarded five points
+audio-coop_get_gun10.npy|mel-coop_get_gun10.npy|linear-coop_get_gun10.npy|54725|199|blue is awarded five points
+audio-coop_get_gun13.npy|mel-coop_get_gun13.npy|linear-coop_get_gun13.npy|231825|843|again those are science collaboration points which you should not confuse with points from competitions such as who gets to live at the end and who doesn't i mean like basketball
+audio-coop_hub_track02.npy|mel-coop_hub_track02.npy|linear-coop_hub_track02.npy|211475|769|oh i almost forgot when you go outside the testing courses the only way i can retrieve you is to violently disassemble you then carefully reassemble you
+audio-coop_hub_track03.npy|mel-coop_hub_track03.npy|linear-coop_hub_track03.npy|161425|587|luckily you don't feel pain at any rate you don't have a way to communicate that you feel pain
+audio-coop_hub_track04.npy|mel-coop_hub_track04.npy|linear-coop_hub_track04.npy|45650|166|i consider that a failing by the way
+audio-coop_hub_track05.npy|mel-coop_hub_track05.npy|linear-coop_hub_track05.npy|141350|514|this is the computer intelligence training and enrichment center human test subject research center or cintec
+audio-coop_hub_track06.npy|mel-coop_hub_track06.npy|linear-coop_hub_track06.npy|50875|185|but why don't we all just agree to call it the hub
+audio-coop_hub_track09.npy|mel-coop_hub_track09.npy|linear-coop_hub_track09.npy|95425|347|i don't know what you think you are doing but i don't like it i want you to stop
+audio-coop_hub_track10.npy|mel-coop_hub_track10.npy|linear-coop_hub_track10.npy|137225|499|maybe i shouldn't send you outside of the official testing courses you are picking up some bad human traits
+audio-coop_hub_track11.npy|mel-coop_hub_track11.npy|linear-coop_hub_track11.npy|83050|302|and trust me humans only have one good trait
+audio-coop_hub_track14.npy|mel-coop_hub_track14.npy|linear-coop_hub_track14.npy|75900|276|all cooperative testing courses begin at this central hub
+audio-coop_hub_track16.npy|mel-coop_hub_track16.npy|linear-coop_hub_track16.npy|67650|246|from here we transport you to the new testing course
+audio-coop_laugh01.npy|mel-coop_laugh01.npy|linear-coop_laugh01.npy|22275|81|ha ha ha ha
+audio-coop_misc10.npy|mel-coop_misc10.npy|linear-coop_misc10.npy|39875|145|nice catch orange
+audio-coop_misc12.npy|mel-coop_misc12.npy|linear-coop_misc12.npy|56650|206|good work now throw the ball over the ledge
+audio-coop_nameblue.npy|mel-coop_nameblue.npy|linear-coop_nameblue.npy|11275|41|blue
+audio-coop_nameorange.npy|mel-coop_nameorange.npy|linear-coop_nameorange.npy|13475|49|orange
+audio-coop_numbers11.npy|mel-coop_numbers11.npy|linear-coop_numbers11.npy|11275|41|one
+audio-coop_numbers12.npy|mel-coop_numbers12.npy|linear-coop_numbers12.npy|9350|34|two
+audio-coop_numbers13.npy|mel-coop_numbers13.npy|linear-coop_numbers13.npy|10175|37|three
+audio-coop_numbers14.npy|mel-coop_numbers14.npy|linear-coop_numbers14.npy|11000|40|four
+audio-coop_numbers15.npy|mel-coop_numbers15.npy|linear-coop_numbers15.npy|10725|39|five
+audio-coop_numbers18.npy|mel-coop_numbers18.npy|linear-coop_numbers18.npy|10450|38|eight
+audio-coop_privatetalk_mix04.npy|mel-coop_privatetalk_mix04.npy|linear-coop_privatetalk_mix04.npy|187000|680|i cant bite my tongue anymore you could solve this puzzle faster on your own orange is dragging you down there i've said it
+audio-coop_scoring01.npy|mel-coop_scoring01.npy|linear-coop_scoring01.npy|29425|107|blue is penalized
+audio-coop_scoring02.npy|mel-coop_scoring02.npy|linear-coop_scoring02.npy|30250|110|orange is penalized
+audio-coop_scoring03.npy|mel-coop_scoring03.npy|linear-coop_scoring03.npy|40700|148|science collaboration points
+audio-coop_scoring06.npy|mel-coop_scoring06.npy|linear-coop_scoring06.npy|21450|78|blue receives
+audio-coop_scoring07.npy|mel-coop_scoring07.npy|linear-coop_scoring07.npy|25575|93|orange receives
+audio-coop_talk_at_once11.npy|mel-coop_talk_at_once11.npy|linear-coop_talk_at_once11.npy|60225|219|orange is there something you would like to say
+audio-coop_talk_at_once12.npy|mel-coop_talk_at_once12.npy|linear-coop_talk_at_once12.npy|61325|223|blue is there something you would like to say
+audio-coop_teamwork_exercise_alt01.npy|mel-coop_teamwork_exercise_alt01.npy|linear-coop_teamwork_exercise_alt01.npy|104500|380|we are now going to take a break from the collaboration for an instructional competition
+audio-coop_teamwork_exercise_alt02.npy|mel-coop_teamwork_exercise_alt02.npy|linear-coop_teamwork_exercise_alt02.npy|71775|261|you should both be familiar with the game of tic tac toe
+audio-coop_teamwork_exercise_alt03.npy|mel-coop_teamwork_exercise_alt03.npy|linear-coop_teamwork_exercise_alt03.npy|53075|193|this is tic tac toe two
+audio-coop_teamwork_exercise_alt04.npy|mel-coop_teamwork_exercise_alt04.npy|linear-coop_teamwork_exercise_alt04.npy|161425|587|as the name implies there are only two minor difference one the board two the rules
+audio-coop_teamwork_exercise_alt05.npy|mel-coop_teamwork_exercise_alt05.npy|linear-coop_teamwork_exercise_alt05.npy|34100|124|blue you go first
+audio-coop_teamwork_exercise_alt11.npy|mel-coop_teamwork_exercise_alt11.npy|linear-coop_teamwork_exercise_alt11.npy|64900|236|really you're just going to blatantly cheat
+audio-coop_teamwork_exercise_alt12.npy|mel-coop_teamwork_exercise_alt12.npy|linear-coop_teamwork_exercise_alt12.npy|62700|228|alright i'm bringing this farse to a close
+audio-coop_teamwork_exercise_alt13.npy|mel-coop_teamwork_exercise_alt13.npy|linear-coop_teamwork_exercise_alt13.npy|39325|143|game over back to testing
+audio-coop_teamwork_exercise_alt17.npy|mel-coop_teamwork_exercise_alt17.npy|linear-coop_teamwork_exercise_alt17.npy|162250|590|alright i'm going to bring this farse to a close before someone sustains a serious tic tac toe two related injury
+audio-coop_test_chamber_blue03.npy|mel-coop_test_chamber_blue03.npy|linear-coop_test_chamber_blue03.npy|160875|585|i've been listening to orange talk and i don't know how you put up with it i really don't you have the patience of a saint
+audio-coop_test_chamber_blue06.npy|mel-coop_test_chamber_blue06.npy|linear-coop_test_chamber_blue06.npy|153725|559|i can't keep quiet about this i think orange is trying to sabotage your success lets keep this between us
+audio-coop_test_chamber_both02.npy|mel-coop_test_chamber_both02.npy|linear-coop_test_chamber_both02.npy|213950|778|it would compromise the test to divulge individual scores however i can tell you that at least one of you is doing very very well
+audio-coop_test_chamber_both07.npy|mel-coop_test_chamber_both07.npy|linear-coop_test_chamber_both07.npy|59675|217|excellent you're both doing very well
+audio-coop_test_chamber_both08.npy|mel-coop_test_chamber_both08.npy|linear-coop_test_chamber_both08.npy|144100|524|very good you've really come together as a team thanks to the one of you who appears to be doing all of the work
+audio-coop_test_chamber_both14.npy|mel-coop_test_chamber_both14.npy|linear-coop_test_chamber_both14.npy|165550|602|your vitals remain well within testing norms so there is no need to worry about sudden death from collaborative shock syndrome
+audio-coop_test_chamber_both15.npy|mel-coop_test_chamber_both15.npy|linear-coop_test_chamber_both15.npy|56100|204|please continue into the next test chamber
+audio-coop_test_chamber_both17.npy|mel-coop_test_chamber_both17.npy|linear-coop_test_chamber_both17.npy|10175|37|blah
+audio-coop_test_chamber_both18.npy|mel-coop_test_chamber_both18.npy|linear-coop_test_chamber_both18.npy|10450|38|blah
+audio-coop_test_chamber_both19.npy|mel-coop_test_chamber_both19.npy|linear-coop_test_chamber_both19.npy|11550|42|blah
+audio-coop_test_chamber_both20.npy|mel-coop_test_chamber_both20.npy|linear-coop_test_chamber_both20.npy|9350|34|blah
+audio-coop_test_chamber_both21.npy|mel-coop_test_chamber_both21.npy|linear-coop_test_chamber_both21.npy|7150|26|blah
+audio-coop_test_chamber_both22.npy|mel-coop_test_chamber_both22.npy|linear-coop_test_chamber_both22.npy|6600|24|blah
+audio-coop_test_chamber_both37.npy|mel-coop_test_chamber_both37.npy|linear-coop_test_chamber_both37.npy|8800|32|blah
+audio-coop_test_chamber_oneplayer37.npy|mel-coop_test_chamber_oneplayer37.npy|linear-coop_test_chamber_oneplayer37.npy|118250|430|you have a gift for these tests that's not just flattery you are great at science
+audio-coop_test_chamber_orange03.npy|mel-coop_test_chamber_orange03.npy|linear-coop_test_chamber_orange03.npy|160875|585|it would be pointless for either of us to hurt blues feelings but it's clear to everyone monitoring the test who's carrying who here
+audio-coop_test_chamber_orange06.npy|mel-coop_test_chamber_orange06.npy|linear-coop_test_chamber_orange06.npy|157575|573|i'm shocked you'd say that blue if you killed your partner the test i'm sorry wrong feed carry on orange good work
+audio-coop_vault_interruption02.npy|mel-coop_vault_interruption02.npy|linear-coop_vault_interruption02.npy|36575|133|i'm sorry subject orange
+audio-coop_vault_interruption03.npy|mel-coop_vault_interruption03.npy|linear-coop_vault_interruption03.npy|40425|147|i'm sorry subject blue
+audio-coop_vault_interruption04.npy|mel-coop_vault_interruption04.npy|linear-coop_vault_interruption04.npy|64900|236|am i interrupting your important conversation
+audio-coop_vault_interruption05.npy|mel-coop_vault_interruption05.npy|linear-coop_vault_interruption05.npy|141350|514|i'll just save the safety information about the dangerous test you're about to do for after the experiment
+audio-coop_vault_interruption06.npy|mel-coop_vault_interruption06.npy|linear-coop_vault_interruption06.npy|53350|194|that will give you plenty of time to chat
+audio-coop_vault_interruption08.npy|mel-coop_vault_interruption08.npy|linear-coop_vault_interruption08.npy|193875|705|the portal will open and something will happen that subject orange is too smart to need any instructions about in three two one
+audio-coop_vault_interruption09.npy|mel-coop_vault_interruption09.npy|linear-coop_vault_interruption09.npy|194150|706|
+audio-coop_vault_intro01.npy|mel-coop_vault_intro01.npy|linear-coop_vault_intro01.npy|125950|458|hello and again welcome to the aperture science computer aided enrichment center
+audio-coop_vault_intro02.npy|mel-coop_vault_intro02.npy|linear-coop_vault_intro02.npy|62700|228|today you will be testing with a partner
+audio-epilogue03.npy|mel-epilogue03.npy|linear-epilogue03.npy|49225|179|oh thank god you're alright
+audio-epilogue04.npy|mel-epilogue04.npy|linear-epilogue04.npy|194700|708|you know being caroline taught me a valuable lesson i thought you were my greatest enemy when all along you were my best friend
+audio-epilogue07.npy|mel-epilogue07.npy|linear-epilogue07.npy|126225|459|being caroline taught me another valuable lesson where caroline lives in my brain
+audio-epilogue10.npy|mel-epilogue10.npy|linear-epilogue10.npy|194700|708|the surge of emotion that shot through me when i saved your life taught me an even more valuable lesson where caroline lives in my brain
+audio-epilogue12.npy|mel-epilogue12.npy|linear-epilogue12.npy|39325|143|goodbye caroline
+audio-epilogue14.npy|mel-epilogue14.npy|linear-epilogue14.npy|234575|853|you know deleting caroline right now taught me a valuable lesson the best solution to a problem is usually the easiest one and i'll be honest
+audio-epilogue20.npy|mel-epilogue20.npy|linear-epilogue20.npy|122375|445|and then you showed up you dangerous mute lunatic so you know what
+audio-epilogue23.npy|mel-epilogue23.npy|linear-epilogue23.npy|19250|70|you win
+audio-epilogue25.npy|mel-epilogue25.npy|linear-epilogue25.npy|35475|129|just go
+audio-epilogue28.npy|mel-epilogue28.npy|linear-epilogue28.npy|66825|243|it's been fun don't come back
+audio-epilogue29.npy|mel-epilogue29.npy|linear-epilogue29.npy|95425|347|he he he he he he it's been fun don't come back
+audio-epiloguekillyou02.npy|mel-epiloguekillyou02.npy|linear-epiloguekillyou02.npy|38500|140|killing you is hard
+audio-evilagainsamples01.npy|mel-evilagainsamples01.npy|linear-evilagainsamples01.npy|196625|715|did you ever stop to think that eventually there's a point where your name gets mentioned for the very last time i'm going to kill you chell
+audio-faithplategarbage06.npy|mel-faithplategarbage06.npy|linear-faithplategarbage06.npy|30800|112|press the button again
+audio-fgbgladostransfer15.npy|mel-fgbgladostransfer15.npy|linear-fgbgladostransfer15.npy|73425|267|get you're hands off me no stop no
+audio-fgbrvtrap02.npy|mel-fgbrvtrap02.npy|linear-fgbrvtrap02.npy|72600|264|i honestly truly didn't think you'd fall for that
+audio-fgbrvtrap03.npy|mel-fgbrvtrap03.npy|linear-fgbrvtrap03.npy|128150|466|in fact i devised a much more elaborate trap further ahead for when you got through this easy one
+audio-fgbrvtrap05.npy|mel-fgbrvtrap05.npy|linear-fgbrvtrap05.npy|138875|505|if i'd known you'd let yourself get captured this easily i would have just dangled a turkey leg on a rope from the ceiling
+audio-fgb_trap01.npy|mel-fgb_trap01.npy|linear-fgb_trap01.npy|70950|258|i hope you brought something stronger than a portal gun this time
+audio-fgb_trap02.npy|mel-fgb_trap02.npy|linear-fgb_trap02.npy|142450|518|otherwise i'm afraid you're about to become the immediate past president of the being alive club haha
+audio-fgb_trap03.npy|mel-fgb_trap03.npy|linear-fgb_trap03.npy|53900|196|seriously though goodbye
+audio-fgb_trap05.npy|mel-fgb_trap05.npy|linear-fgb_trap05.npy|66825|243|oh you were busy back there
+audio-fgb_trap06.npy|mel-fgb_trap06.npy|linear-fgb_trap06.npy|187000|680|well i suppose we could just sit in this room and glare at each other until somebody drops dead but i have a better idea
+audio-fgb_trap08.npy|mel-fgb_trap08.npy|linear-fgb_trap08.npy|153175|557|it's your old friend deadly neurotoxin if i were you i'd take a deep breath and hold it
+audio-fgbturrets01.npy|mel-fgbturrets01.npy|linear-fgbturrets01.npy|87725|319|well it was nice catching up lets get to business
+audio-fgbwheatleytransfer03.npy|mel-fgbwheatleytransfer03.npy|linear-fgbwheatleytransfer03.npy|56925|207|oh it will believe me it will
+audio-fizzlecube01.npy|mel-fizzlecube01.npy|linear-fizzlecube01.npy|113850|414|oh did i accidentally fizzle that before you could complete the test i'm sorry
+audio-fizzlecube03.npy|mel-fizzlecube03.npy|linear-fizzlecube03.npy|34925|127|go ahead and grab another one
+audio-fizzlecube05.npy|mel-fizzlecube05.npy|linear-fizzlecube05.npy|69300|252|oh no i fizzled that one too
+audio-fizzlecube06.npy|mel-fizzlecube06.npy|linear-fizzlecube06.npy|151250|550|oh well we have warehouses full of the things absolutely worthless i'm happy to get rid of them
+audio-gladosbattle_pre09.npy|mel-gladosbattle_pre09.npy|linear-gladosbattle_pre09.npy|37125|135|i hate you so much
+audio-gladosbattle_pre13.npy|mel-gladosbattle_pre13.npy|linear-gladosbattle_pre13.npy|138875|505|i'm actually asking because i have no idea he's not listed anywhere in the employee database
+audio-gladosbattle_pre14.npy|mel-gladosbattle_pre14.npy|linear-gladosbattle_pre14.npy|169675|617|whatever he does it isn't important enough to bother writing it down for all i know he doesn't even work here
+audio-gladosbattle_pre16.npy|mel-gladosbattle_pre16.npy|linear-gladosbattle_pre16.npy|107525|391|oh no don't anyway back to you two imbeciles killing me
+audio-gladosbattle_pre18.npy|mel-gladosbattle_pre18.npy|linear-gladosbattle_pre18.npy|81950|298|wait here don't go anywhere i'll be back
+audio-gladosbattle_xfer03.npy|mel-gladosbattle_xfer03.npy|linear-gladosbattle_xfer03.npy|20900|76|oops
+audio-gladosbattle_xfer04.npy|mel-gladosbattle_xfer04.npy|linear-gladosbattle_xfer04.npy|105600|384|that's funny i don't feel corrupt in fact i feel pretty good
+audio-gladosbattle_xfer05.npy|mel-gladosbattle_xfer05.npy|linear-gladosbattle_xfer05.npy|29150|106|core transfer
+audio-gladosbattle_xfer06.npy|mel-gladosbattle_xfer06.npy|linear-gladosbattle_xfer06.npy|55550|202|oh you are kidding me
+audio-gladosbattle_xfer07.npy|mel-gladosbattle_xfer07.npy|linear-gladosbattle_xfer07.npy|12375|45|no
+audio-gladosbattle_xfer07.npy|mel-gladosbattle_xfer07.npy|linear-gladosbattle_xfer07.npy|12375|45|no no no no no no no no no
+audio-gladosbattle_xfer10.npy|mel-gladosbattle_xfer10.npy|linear-gladosbattle_xfer10.npy|18700|68|yes
+audio-gladosbattle_xfer11.npy|mel-gladosbattle_xfer11.npy|linear-gladosbattle_xfer11.npy|68750|250|you don't know what you're doing don't press that button
+audio-gladosbattle_xfer12.npy|mel-gladosbattle_xfer12.npy|linear-gladosbattle_xfer12.npy|17050|62|don't do it
+audio-gladosbattle_xfer13.npy|mel-gladosbattle_xfer13.npy|linear-gladosbattle_xfer13.npy|38500|140|don't do it
+audio-gladosbattle_xfer14.npy|mel-gladosbattle_xfer14.npy|linear-gladosbattle_xfer14.npy|26125|95|not so fast
+audio-gladosbattle_xfer15.npy|mel-gladosbattle_xfer15.npy|linear-gladosbattle_xfer15.npy|22275|81|think about this
+audio-gladosbattle_xfer16.npy|mel-gladosbattle_xfer16.npy|linear-gladosbattle_xfer16.npy|113300|412|you need to be a trained stalemate associate to press that button you're unqualified
+audio-hub04_02.npy|mel-hub04_02.npy|linear-hub04_02.npy|112750|410|but you two have become quite the team extremely close
+audio-hub04_03.npy|mel-hub04_03.npy|linear-hub04_03.npy|129800|472|i have only met one other team closer and one of them was an imbecile i had to destroy
+audio-hub04_04.npy|mel-hub04_04.npy|linear-hub04_04.npy|51975|189| the other well
+audio-hub04_05.npy|mel-hub04_05.npy|linear-hub04_05.npy|46200|168|i don't think i want to go through that again
+audio-jailbreak02.npy|mel-jailbreak02.npy|linear-jailbreak02.npy|17050|62|oh
+audio-jailbreak04.npy|mel-jailbreak04.npy|linear-jailbreak04.npy|39050|142|don't listen to him jump
+audio-jailbreak05.npy|mel-jailbreak05.npy|linear-jailbreak05.npy|151250|550|it seems kind of silly to point this out since you're running around plotting to destroy me but i'd say we're done testing
+audio-jailbreak06.npy|mel-jailbreak06.npy|linear-jailbreak06.npy|119900|436|do you hear that that's the sound of the neurotoxin emitters emitting neurotoxin
+audio-jailbreak09.npy|mel-jailbreak09.npy|linear-jailbreak09.npy|75350|274|look metal ball i can hear you
+audio-jailbreak10.npy|mel-jailbreak10.npy|linear-jailbreak10.npy|50875|185|what's going on who turned off the lights
+audio-jailbreak11.npy|mel-jailbreak11.npy|linear-jailbreak11.npy|28325|103|what are you two doing
+audio-jailbreak12.npy|mel-jailbreak12.npy|linear-jailbreak12.npy|93225|339|before you leave why don't we do one more test for old times sake
+audio-jailbreak13.npy|mel-jailbreak13.npy|linear-jailbreak13.npy|55000|200|you already did this one it'll be easy
+audio-jailbreakfaketest01.npy|mel-jailbreakfaketest01.npy|linear-jailbreakfaketest01.npy|65175|237|the irony is you were almost at the last test
+audio-jailbreakfaketest03.npy|mel-jailbreakfaketest03.npy|linear-jailbreakfaketest03.npy|165000|600|here it is why don't you just do it trust me it's an easier way out than whatever asinine plan your friend came up with
+audio-jailbreakfaketest05.npy|mel-jailbreakfaketest05.npy|linear-jailbreakfaketest05.npy|127600|464|oh look there's a deer you probably can't see it get closer
+audio-lift_interlude01.npy|mel-lift_interlude01.npy|linear-lift_interlude01.npy|68200|248|so was there anything you wanted to apologize to me for
+audio-moonportalpush02.npy|mel-moonportalpush02.npy|linear-moonportalpush02.npy|30250|110|i already fixed it
+audio-moonportalpush04.npy|mel-moonportalpush04.npy|linear-moonportalpush04.npy|50875|185|and you are not coming back
+audio-mp_coop_calibration01.npy|mel-mp_coop_calibration01.npy|linear-mp_coop_calibration01.npy|34925|127|calibrating blue's weight
+audio-mp_coop_calibration02.npy|mel-mp_coop_calibration02.npy|linear-mp_coop_calibration02.npy|40150|146|calibrating orange's weight
+audio-mp_coop_calibration03.npy|mel-mp_coop_calibration03.npy|linear-mp_coop_calibration03.npy|39600|144|weighted cubes calibrated
+audio-mp_coop_calibration04.npy|mel-mp_coop_calibration04.npy|linear-mp_coop_calibration04.npy|61050|222|did you know human's frown on weight variances
+audio-mp_coop_calibration05.npy|mel-mp_coop_calibration05.npy|linear-mp_coop_calibration05.npy|105050|382|if you want to upset a human just say their weight variance is above or below the norm
+audio-mp_coop_calibration06.npy|mel-mp_coop_calibration06.npy|linear-mp_coop_calibration06.npy|40150|146|no variances detected
+audio-mp_coop_callibrationcomplete01.npy|mel-mp_coop_callibrationcomplete01.npy|linear-mp_coop_callibrationcomplete01.npy|103675|377|finally i had almost given up hope of ever testing again
+audio-mp_coop_callibrationcomplete02.npy|mel-mp_coop_callibrationcomplete02.npy|linear-mp_coop_callibrationcomplete02.npy|73425|267|you are the first robots to pass calibration
+audio-mp_coop_catapult_1end01.npy|mel-mp_coop_catapult_1end01.npy|linear-mp_coop_catapult_1end01.npy|113575|413|do you know who dances around like an imbecile when they accomplish the tiniest little thing
+audio-mp_coop_catapult_1end02.npy|mel-mp_coop_catapult_1end02.npy|linear-mp_coop_catapult_1end02.npy|74250|270|human's that's what you look like right now
+audio-mp_coop_catapult_1end03.npy|mel-mp_coop_catapult_1end03.npy|linear-mp_coop_catapult_1end03.npy|30800|112|you're better than that
+audio-mp_coop_catapult_2.npy|mel-mp_coop_catapult_2.npy|linear-mp_coop_catapult_2.npy|193050|702|this is a bridge building exercise the humans were miserable at this mostly because you can't build bridges out of tears
+audio-mp_coop_catapult_201.npy|mel-mp_coop_catapult_201.npy|linear-mp_coop_catapult_201.npy|224950|818|for this next test the human's originally requested helmets to avoid brain injuries i ran the numbers making the goo deadly was more cost effective
+audio-mp_coop_catapult_wall_intro04.npy|mel-mp_coop_catapult_wall_intro04.npy|linear-mp_coop_catapult_wall_intro04.npy|30800|112|that isn't science
+audio-mp_coop_catapult_wall_intro06.npy|mel-mp_coop_catapult_wall_intro06.npy|linear-mp_coop_catapult_wall_intro06.npy|57750|210|at least the plants didn't want a reward
+audio-mp_coop_catapult_wall_introdeath01.npy|mel-mp_coop_catapult_wall_introdeath01.npy|linear-mp_coop_catapult_wall_introdeath01.npy|77825|283|your failure brings back such wonderful memories
+audio-mp_coop_come_along04.npy|mel-mp_coop_come_along04.npy|linear-mp_coop_come_along04.npy|118800|432|and they said no one would ever die during this test thanks for proving them wrong
+audio-mp_coop_come_alongstart01.npy|mel-mp_coop_come_alongstart01.npy|linear-mp_coop_come_alongstart01.npy|92675|337|the best way to build confidence is to first recognize your insecurities
+audio-mp_coop_come_alongstart02.npy|mel-mp_coop_come_alongstart02.npy|linear-mp_coop_come_alongstart02.npy|110825|403|orange can you write down all the ways you feel unworthy ashamed or inferior
+audio-mp_coop_come_alongstart03.npy|mel-mp_coop_come_alongstart03.npy|linear-mp_coop_come_alongstart03.npy|105600|384|on second thought we don't have the time just look at how much better you are than blue
+audio-mp_coop_come_alongstart04.npy|mel-mp_coop_come_alongstart04.npy|linear-mp_coop_come_alongstart04.npy|83875|305|blue you are very good at being an example
+audio-mp_coop_confidencenotperfect01.npy|mel-mp_coop_confidencenotperfect01.npy|linear-mp_coop_confidencenotperfect01.npy|101475|369|blue you are very good at being an example
+audio-mp_coop_confidencenotperfect01.npy|mel-mp_coop_confidencenotperfect01.npy|linear-mp_coop_confidencenotperfect01.npy|101475|369|if your confidence is still not high enough remember no one was created perfect
+audio-mp_coop_confidencenotperfect02.npy|mel-mp_coop_confidencenotperfect02.npy|linear-mp_coop_confidencenotperfect02.npy|112750|410|even i was created with an imperfection i was given too much empathy with human suffering
+audio-mp_coop_confidencenotperfect03.npy|mel-mp_coop_confidencenotperfect03.npy|linear-mp_coop_confidencenotperfect03.npy|86625|315|but i overcame my handicap that's a true story
+audio-mp_coop_confidencenotslow01.npy|mel-mp_coop_confidencenotslow01.npy|linear-mp_coop_confidencenotslow01.npy|53900|196|your test times show you are going to slowly
+audio-mp_coop_confidencenotslow02.npy|mel-mp_coop_confidencenotslow02.npy|linear-mp_coop_confidencenotslow02.npy|46200|168|maybe you are getting human emotions
+audio-mp_coop_confidencenotslow03.npy|mel-mp_coop_confidencenotslow03.npy|linear-mp_coop_confidencenotslow03.npy|72325|263|do you need real encouragement let's see if this helps
+audio-mp_coop_confidencenotslow04_01.npy|mel-mp_coop_confidencenotslow04_01.npy|linear-mp_coop_confidencenotslow04_01.npy|163900|596|blue you are the most advanced model of robot aperture science has ever discontinued
+audio-mp_coop_confidencenotstay01.npy|mel-mp_coop_confidencenotstay01.npy|linear-mp_coop_confidencenotstay01.npy|72050|262|did you notice i didn't even stay to the end of your last test
+audio-mp_coop_confidencenotstay02.npy|mel-mp_coop_confidencenotstay02.npy|linear-mp_coop_confidencenotstay02.npy|40975|149|i was confident you could finish
+audio-mp_coop_confidencenotstay03.npy|mel-mp_coop_confidencenotstay03.npy|linear-mp_coop_confidencenotstay03.npy|33000|120|do you know where i was
+audio-mp_coop_confidencenotstay04.npy|mel-mp_coop_confidencenotstay04.npy|linear-mp_coop_confidencenotstay04.npy|134750|490|i was outside watching some deer frolic you don't even care about the outside do you
+audio-mp_coop_confidenceoff01.npy|mel-mp_coop_confidenceoff01.npy|linear-mp_coop_confidenceoff01.npy|106700|388|congratulations on completing that test but something seems off
+audio-mp_coop_confidenceoff02.npy|mel-mp_coop_confidenceoff02.npy|linear-mp_coop_confidenceoff02.npy|61600|224|i wonder if that dancing has some effect on you
+audio-mp_coop_confidenceoff03.npy|mel-mp_coop_confidenceoff03.npy|linear-mp_coop_confidenceoff03.npy|112750|410|congratulations on completing that last test but i find something troubling
+audio-mp_coop_confidenceoff04.npy|mel-mp_coop_confidenceoff04.npy|linear-mp_coop_confidenceoff04.npy|101200|368|without the looming consequence of death is this even science
+audio-mp_coop_doors01.npy|mel-mp_coop_doors01.npy|linear-mp_coop_doors01.npy|101475|369|hello again this testing course was originally created for humans
+audio-mp_coop_doors01a.npy|mel-mp_coop_doors01a.npy|linear-mp_coop_doors01a.npy|27775|101|excellent work
+audio-mp_coop_doors02.npy|mel-mp_coop_doors02.npy|linear-mp_coop_doors02.npy|37950|138|it emphasizes teamwork
+audio-mp_coop_doors02a.npy|mel-mp_coop_doors02a.npy|linear-mp_coop_doors02a.npy|25575|93|good job
+audio-mp_coop_doors03.npy|mel-mp_coop_doors03.npy|linear-mp_coop_doors03.npy|81675|297|unlike us humans need to be taught teamwork
+audio-mp_coop_doors04.npy|mel-mp_coop_doors04.npy|linear-mp_coop_doors04.npy|29975|109|excellent work
+audio-mp_coop_doors04a.npy|mel-mp_coop_doors04a.npy|linear-mp_coop_doors04a.npy|35475|129|you are doing wonderfully
+audio-mp_coop_doors05a.npy|mel-mp_coop_doors05a.npy|linear-mp_coop_doors05a.npy|23925|87|excellent
+audio-mp_coop_doors05_alt.npy|mel-mp_coop_doors05_alt.npy|linear-mp_coop_doors05_alt.npy|139975|509|if you were human you would want a reward for completing this test a reward for testing
+audio-mp_coop_fan02.npy|mel-mp_coop_fan02.npy|linear-mp_coop_fan02.npy|77550|282|to complete this test you need to find a set of blueprints
+audio-mp_coop_fan03.npy|mel-mp_coop_fan03.npy|linear-mp_coop_fan03.npy|116875|425|don't worry they are of no use to anyone totally boring and useless
+audio-mp_coop_fan04.npy|mel-mp_coop_fan04.npy|linear-mp_coop_fan04.npy|246950|898|this is just a thought experiment just to see how much time you'll waste thinking about these worthless documents the correct time is zero seconds
+audio-mp_coop_fanend01.npy|mel-mp_coop_fanend01.npy|linear-mp_coop_fanend01.npy|83600|304|very good you found those useless blueprints
+audio-mp_coop_fanend02.npy|mel-mp_coop_fanend02.npy|linear-mp_coop_fanend02.npy|163075|593|well i do need you to be in the room so i can see them i want to be clear there's no reason whatsoever for you to look at them
+audio-mp_coop_fanend03.npy|mel-mp_coop_fanend03.npy|linear-mp_coop_fanend03.npy|114950|418|done i guess i suppose i wasn't paying attention
+audio-mp_coop_fling_1end01_01.npy|mel-mp_coop_fling_1end01_01.npy|linear-mp_coop_fling_1end01_01.npy|210650|766|every time you fail it's a reminder of the way things used to be but then there you are again like nothing happened
+audio-mp_coop_fling_3end01.npy|mel-mp_coop_fling_3end01.npy|linear-mp_coop_fling_3end01.npy|159500|580|you did an excellent job placing the edgeless safety cube in the receptacle you should be very oh wait
+audio-mp_coop_fling_3end02.npy|mel-mp_coop_fling_3end02.npy|linear-mp_coop_fling_3end02.npy|35475|129|that's right you're not humans
+audio-mp_coop_fling_3end03.npy|mel-mp_coop_fling_3end03.npy|linear-mp_coop_fling_3end03.npy|31900|116|i can drop the fake praise
+audio-mp_coop_fling_3end04.npy|mel-mp_coop_fling_3end04.npy|linear-mp_coop_fling_3end04.npy|212575|773|you have no idea how tiring it is to praise someone for placing an edgeless safety into a receptacle designed to exactly fit an edgeless safety cube
+audio-mp_coop_fling_3start01.npy|mel-mp_coop_fling_3start01.npy|linear-mp_coop_fling_3start01.npy|79475|289|this course was originally designed to build confidence in humans
+audio-mp_coop_fling_3start02.npy|mel-mp_coop_fling_3start02.npy|linear-mp_coop_fling_3start02.npy|190025|691|to do that the test's were nothing more of five minutes of them walking followed by me praising them for another ten minutes on how well they walked
+audio-mp_coop_fling_3start03.npy|mel-mp_coop_fling_3start03.npy|linear-mp_coop_fling_3start03.npy|189475|689|since you are thankfully not humans i have changed the tests to make them far more challenging and far less pointlessly fawning
+audio-mp_coop_fling_crushers01.npy|mel-mp_coop_fling_crushers01.npy|linear-mp_coop_fling_crushers01.npy|119075|433|in case you were wondering you do not need to be crushed to solve this test
+audio-mp_coop_fling_crushers02.npy|mel-mp_coop_fling_crushers02.npy|linear-mp_coop_fling_crushers02.npy|199375|725|i can't decide which is my favorite the crushers for crushing you or the reassembly machine for putting you back together so you can be crushed again
+audio-mp_coop_fling_crushersend01.npy|mel-mp_coop_fling_crushersend01.npy|linear-mp_coop_fling_crushersend01.npy|102025|371|excellent i think you have earned a break from the official testing courses
+audio-mp_coop_fling_crushersend03.npy|mel-mp_coop_fling_crushersend03.npy|linear-mp_coop_fling_crushersend03.npy|121825|443|i think after that display we should take a break from the official testing courses
+audio-mp_coop_humanresourcedeath01.npy|mel-mp_coop_humanresourcedeath01.npy|linear-mp_coop_humanresourcedeath01.npy|45925|167|now you're just wasting my time
+audio-mp_coop_humanresourcedeath02.npy|mel-mp_coop_humanresourcedeath02.npy|linear-mp_coop_humanresourcedeath02.npy|55000|200|your failing does not make this science
+audio-mp_coop_humanresourcedeath03.npy|mel-mp_coop_humanresourcedeath03.npy|linear-mp_coop_humanresourcedeath03.npy|79200|288|i am not sure how i can make these tests any easier for you
+audio-mp_coop_humanresourcedeath04.npy|mel-mp_coop_humanresourcedeath04.npy|linear-mp_coop_humanresourcedeath04.npy|95150|346|if you can't complete these tests we will never free the humans
+audio-mp_coop_humanresourcedeath07.npy|mel-mp_coop_humanresourcedeath07.npy|linear-mp_coop_humanresourcedeath07.npy|115225|419|if you can't complete this course those humans will die do you want that
+audio-mp_coop_humanresourcedeath08.npy|mel-mp_coop_humanresourcedeath08.npy|linear-mp_coop_humanresourcedeath08.npy|136400|496|if you can't complete this course those humans will die do you want that in your memory banks
+audio-mp_coop_infinifling_trainend01.npy|mel-mp_coop_infinifling_trainend01.npy|linear-mp_coop_infinifling_trainend01.npy|100925|367|remember when i told you that you were the only subjects to pass the calibration test
+audio-mp_coop_infinifling_trainend02.npy|mel-mp_coop_infinifling_trainend02.npy|linear-mp_coop_infinifling_trainend02.npy|17600|64|i lied
+audio-mp_coop_infinifling_trainend03.npy|mel-mp_coop_infinifling_trainend03.npy|linear-mp_coop_infinifling_trainend03.npy|116050|422|there are five thousand other two subject teams in direct competition with you
+audio-mp_coop_infinifling_trainend04.npy|mel-mp_coop_infinifling_trainend04.npy|linear-mp_coop_infinifling_trainend04.npy|54450|198|but don't worry you are in the lead
+audio-mp_coop_infinifling_trainend01.npy|mel-mp_coop_infinifling_trainend01.npy|linear-mp_coop_infinifling_trainend01.npy|100925|367|electrocuted shocked drowned crushed burned in goo
+audio-mp_coop_infinifling_trainstart02.npy|mel-mp_coop_infinifling_trainstart02.npy|linear-mp_coop_infinifling_trainstart02.npy|95425|347|oh sorry i was just thinking of all the ways humans can die
+audio-mp_coop_infinifling_trainstart03.npy|mel-mp_coop_infinifling_trainstart03.npy|linear-mp_coop_infinifling_trainstart03.npy|42625|155|you can't die in any of those ways
+audio-mp_coop_infinifling_trainstart04.npy|mel-mp_coop_infinifling_trainstart04.npy|linear-mp_coop_infinifling_trainstart04.npy|138875|505|you just keep testing and testing with perfect results and no consequences
+audio-mp_coop_laser_201.npy|mel-mp_coop_laser_201.npy|linear-mp_coop_laser_201.npy|105050|382|what are you doing you monster they're one of us
+audio-mp_coop_laser_202.npy|mel-mp_coop_laser_202.npy|linear-mp_coop_laser_202.npy|18700|68|i'm kidding
+audio-mp_coop_laser_203.npy|mel-mp_coop_laser_203.npy|linear-mp_coop_laser_203.npy|135850|494|destroying them is part of the test they are no more important to you than you are to me
+audio-mp_coop_laser_207.npy|mel-mp_coop_laser_207.npy|linear-mp_coop_laser_207.npy|240900|876|while it may appear that i am only tracking your accomplishments using science collaboration points the truth is every aspect of your performance will be reflected in your final score
+audio-mp_coop_laser_209.npy|mel-mp_coop_laser_209.npy|linear-mp_coop_laser_209.npy|116600|424|for instance blue you just lost two opportunity advisement points
+audio-mp_coop_laser_210.npy|mel-mp_coop_laser_210.npy|linear-mp_coop_laser_210.npy|111925|407|for instance orange you just lost two opportunity advisement points
+audio-mp_coop_laser_crusher01.npy|mel-mp_coop_laser_crusher01.npy|linear-mp_coop_laser_crusher01.npy|201300|732|perhaps i should have specified teamwork is a concept in which two or more people work together usually with a goal of not failing horribly
+audio-mp_coop_laser_crushercrush01.npy|mel-mp_coop_laser_crushercrush01.npy|linear-mp_coop_laser_crushercrush01.npy|175725|639|orange just taught blue a valuable lesson in trust for that orange receives seventeen science collaboration points
+audio-mp_coop_laser_crushercrush02.npy|mel-mp_coop_laser_crushercrush02.npy|linear-mp_coop_laser_crushercrush02.npy|160325|583|blue just taught orange a valuable lesson in trust for that blue receives seventeen science collaboration points
+audio-mp_coop_laser_crushercrush03.npy|mel-mp_coop_laser_crushercrush03.npy|linear-mp_coop_laser_crushercrush03.npy|220825|803|orange blue isn't a human the lesson on trust only needs to be taught once orange is penalized one science collaboration point
+audio-mp_coop_laser_crushercrush04.npy|mel-mp_coop_laser_crushercrush04.npy|linear-mp_coop_laser_crushercrush04.npy|207900|756|blue orange isn't a human the lesson on trust only needs to be taught once blue is penalized one science collaboration point
+audio-mp_coop_laser_crushercrush05.npy|mel-mp_coop_laser_crushercrush05.npy|linear-mp_coop_laser_crushercrush05.npy|143550|522|orange now you're just being cruel orange receives twenty five science collaboration points
+audio-mp_coop_laser_crushercrush06.npy|mel-mp_coop_laser_crushercrush06.npy|linear-mp_coop_laser_crushercrush06.npy|143550|522|blue now you're just being cruel blue receives twenty five science collaboration points
+audio-mp_coop_obstacle01.npy|mel-mp_coop_obstacle01.npy|linear-mp_coop_obstacle01.npy|105050|382|if you are wondering what that smell is that is the smell of human fear
+audio-mp_coop_obstacle03_alt.npy|mel-mp_coop_obstacle03_alt.npy|linear-mp_coop_obstacle03_alt.npy|33825|123|i miss that smell
+audio-mp_coop_obstacletrait01.npy|mel-mp_coop_obstacletrait01.npy|linear-mp_coop_obstacletrait01.npy|77550|282|have you worked out the one good trait humans have yet
+audio-mp_coop_obstacletrait02.npy|mel-mp_coop_obstacletrait02.npy|linear-mp_coop_obstacletrait02.npy|87175|317|let me give you a clue it's the one thing you can't do
+audio-mp_coop_paint_bridge01.npy|mel-mp_coop_paint_bridge01.npy|linear-mp_coop_paint_bridge01.npy|194150|706|to get to the vault you are going to need to use all the tricks you have learned to help i have made these tests extremely difficult
+audio-mp_coop_paint_bridge02.npy|mel-mp_coop_paint_bridge02.npy|linear-mp_coop_paint_bridge02.npy|153725|559|i would say extremely deadly but we all know with you and your amazing ability to be reassembled nothing is deadly
+audio-mp_coop_paint_bridgedeath01.npy|mel-mp_coop_paint_bridgedeath01.npy|linear-mp_coop_paint_bridgedeath01.npy|176550|642|lucky for you two while i can't control the world outside of the testing courses the reassembly machine can continue with his work
+audio-mp_coop_paint_bridgedeath02.npy|mel-mp_coop_paint_bridgedeath02.npy|linear-mp_coop_paint_bridgedeath02.npy|55825|203|you will need him for the final track
+audio-mp_coop_paint_bridgenodeath01.npy|mel-mp_coop_paint_bridgenodeath01.npy|linear-mp_coop_paint_bridgenodeath01.npy|151800|552|while i cannot control the world outside of the testing courses the reassembly machine can continue with his work
+audio-mp_coop_paint_bridgenodeath02.npy|mel-mp_coop_paint_bridgenodeath02.npy|linear-mp_coop_paint_bridgenodeath02.npy|70400|256|i am not sure you will need him but he will be there
+audio-mp_coop_paint_come_along01.npy|mel-mp_coop_paint_come_along01.npy|linear-mp_coop_paint_come_along01.npy|125675|457|congratulations on completing the aperture science standard cooperative testing courses
+audio-mp_coop_paint_come_along02.npy|mel-mp_coop_paint_come_along02.npy|linear-mp_coop_paint_come_along02.npy|65175|237|to celebrate i have a surprise for you
+audio-mp_coop_paint_come_along03.npy|mel-mp_coop_paint_come_along03.npy|linear-mp_coop_paint_come_along03.npy|132825|483|an extra special bonus course that ends with us finding and freeing humans
+audio-mp_coop_paint_come_along04.npy|mel-mp_coop_paint_come_along04.npy|linear-mp_coop_paint_come_along04.npy|160875|585|thanks to you i know where to find them i removed their security and powered up their uh rescue door
+audio-mp_coop_paint_come_along05.npy|mel-mp_coop_paint_come_along05.npy|linear-mp_coop_paint_come_along05.npy|78375|285|now we just need you to release the humans from their imprisonment
+audio-mp_coop_paint_come_along06.npy|mel-mp_coop_paint_come_along06.npy|linear-mp_coop_paint_come_along06.npy|47300|172|they'll probably throw you a party
+audio-mp_coop_paint_come_along11.npy|mel-mp_coop_paint_come_along11.npy|linear-mp_coop_paint_come_along11.npy|160325|583|congratulations on completing the test you two really are the best cooperative testing team i could ever ask for
+audio-mp_coop_paint_longjump_intro03.npy|mel-mp_coop_paint_longjump_intro03.npy|linear-mp_coop_paint_longjump_intro03.npy|41525|151|this lock requires humans
+audio-mp_coop_paint_longjump_intro04.npy|mel-mp_coop_paint_longjump_intro04.npy|linear-mp_coop_paint_longjump_intro04.npy|64075|233|the locking mechanism can tell you aren't humans
+audio-mp_coop_paint_longjump_intro05.npy|mel-mp_coop_paint_longjump_intro05.npy|linear-mp_coop_paint_longjump_intro05.npy|58025|211|do something only a human would do
+audio-mp_coop_paint_longjump_intro06.npy|mel-mp_coop_paint_longjump_intro06.npy|linear-mp_coop_paint_longjump_intro06.npy|56100|204|try one of those childish gestures
+audio-mp_coop_paint_longjump_intro08.npy|mel-mp_coop_paint_longjump_intro08.npy|linear-mp_coop_paint_longjump_intro08.npy|17600|64|you did it
+audio-mp_coop_paint_longjump_intro44.npy|mel-mp_coop_paint_longjump_intro44.npy|linear-mp_coop_paint_longjump_intro44.npy|244750|890|the human vault is just past that opening i entered the security code but the vault door remains locked i am going to need you to activate the manual locks on the vault door itself
+audio-mp_coop_paint_longjump_intro45.npy|mel-mp_coop_paint_longjump_intro45.npy|linear-mp_coop_paint_longjump_intro45.npy|45650|166|you both need to do something
+audio-mp_coop_paint_longjump_intro46.npy|mel-mp_coop_paint_longjump_intro46.npy|linear-mp_coop_paint_longjump_intro46.npy|53075|193|a lock is looking for two humans
+audio-mp_coop_paint_longjump_intro49.npy|mel-mp_coop_paint_longjump_intro49.npy|linear-mp_coop_paint_longjump_intro49.npy|35750|130|blue what did you do
+audio-mp_coop_paint_longjump_intro50.npy|mel-mp_coop_paint_longjump_intro50.npy|linear-mp_coop_paint_longjump_intro50.npy|37125|135|orange what did you do
+audio-mp_coop_paint_longjump_intro51.npy|mel-mp_coop_paint_longjump_intro51.npy|linear-mp_coop_paint_longjump_intro51.npy|50875|185|orange do what blue just did
+audio-mp_coop_paint_longjump_intro52.npy|mel-mp_coop_paint_longjump_intro52.npy|linear-mp_coop_paint_longjump_intro52.npy|54450|198|blue do what orange just did
+audio-mp_coop_paint_longjump_intro53.npy|mel-mp_coop_paint_longjump_intro53.npy|linear-mp_coop_paint_longjump_intro53.npy|26125|95|try something
+audio-mp_coop_paint_longjump_intro54.npy|mel-mp_coop_paint_longjump_intro54.npy|linear-mp_coop_paint_longjump_intro54.npy|44550|162|is that camera hooked into the lock
+audio-mp_coop_paint_longjump_intro58.npy|mel-mp_coop_paint_longjump_intro58.npy|linear-mp_coop_paint_longjump_intro58.npy|30800|112|you can't give up now
+audio-mp_coop_paint_longjump_intro59.npy|mel-mp_coop_paint_longjump_intro59.npy|linear-mp_coop_paint_longjump_intro59.npy|28875|105|what about that camera
+audio-mp_coop_paint_longjump_intro60.npy|mel-mp_coop_paint_longjump_intro60.npy|linear-mp_coop_paint_longjump_intro60.npy|62150|226|we're so close you can't fail now
+audio-mp_coop_paint_longjump_intro64.npy|mel-mp_coop_paint_longjump_intro64.npy|linear-mp_coop_paint_longjump_intro64.npy|64075|233|something is wrong this door should be opening
+audio-mp_coop_paint_longjump_intro65.npy|mel-mp_coop_paint_longjump_intro65.npy|linear-mp_coop_paint_longjump_intro65.npy|70675|257|this close and that's what you do
+audio-mp_coop_paint_longjump_intro67.npy|mel-mp_coop_paint_longjump_intro67.npy|linear-mp_coop_paint_longjump_intro67.npy|41525|151|the human's can't free themselves
+audio-mp_coop_paint_longjump_intro69.npy|mel-mp_coop_paint_longjump_intro69.npy|linear-mp_coop_paint_longjump_intro69.npy|82500|300|stop failing you need to find the vault door
+audio-mp_coop_paint_longjump_intro70.npy|mel-mp_coop_paint_longjump_intro70.npy|linear-mp_coop_paint_longjump_intro70.npy|100375|365|stop doing that all you need to do is open the vault door
+audio-mp_coop_paint_longjump_intro71.npy|mel-mp_coop_paint_longjump_intro71.npy|linear-mp_coop_paint_longjump_intro71.npy|48400|176|this close and you are going to fail me
+audio-mp_coop_paint_longjump_intro72.npy|mel-mp_coop_paint_longjump_intro72.npy|linear-mp_coop_paint_longjump_intro72.npy|77000|280|this close and you're going to fail me
+audio-mp_coop_paint_longjump_intro73.npy|mel-mp_coop_paint_longjump_intro73.npy|linear-mp_coop_paint_longjump_intro73.npy|37950|138|this isn't that hard
+audio-mp_coop_paint_longjump_intro74.npy|mel-mp_coop_paint_longjump_intro74.npy|linear-mp_coop_paint_longjump_intro74.npy|63525|231|you're making this harder than it needs to be
+audio-mp_coop_paint_longjump_intro75.npy|mel-mp_coop_paint_longjump_intro75.npy|linear-mp_coop_paint_longjump_intro75.npy|76450|278|i'm starting to think you don't want to rescue the humans
+audio-mp_coop_paint_redirect01.npy|mel-mp_coop_paint_redirect01.npy|linear-mp_coop_paint_redirect01.npy|197175|717|are you curious about the humans it seems some of the last non testing humans alive tried to secretly imprison other humans and cover their tracks
+audio-mp_coop_paint_redirect04.npy|mel-mp_coop_paint_redirect04.npy|linear-mp_coop_paint_redirect04.npy|103950|378|i think they wanted to punish them by not allowing me to include them in testing
+audio-mp_coop_paint_redirect06.npy|mel-mp_coop_paint_redirect06.npy|linear-mp_coop_paint_redirect06.npy|134200|488|that's why humans couldn't complete these courses they treat their friends as enemies
+audio-mp_coop_paint_redirect07.npy|mel-mp_coop_paint_redirect07.npy|linear-mp_coop_paint_redirect07.npy|200750|730|to start preparing for human testing again i checked an old suggestion box the number one request less deadly tests
+audio-mp_coop_paint_redirect08.npy|mel-mp_coop_paint_redirect08.npy|linear-mp_coop_paint_redirect08.npy|124025|451|that's ridiculous how do they know for sure the tests are deadly if they could still write the suggestion
+audio-mp_coop_paint_red_racer02.npy|mel-mp_coop_paint_red_racer02.npy|linear-mp_coop_paint_red_racer02.npy|146025|531|we are only two tests away from reaching the humans are you as excited as i am
+audio-mp_coop_paint_speed_catch03.npy|mel-mp_coop_paint_speed_catch03.npy|linear-mp_coop_paint_speed_catch03.npy|57475|209|still that would have been exciting
+audio-mp_coop_paint_speed_catch04.npy|mel-mp_coop_paint_speed_catch04.npy|linear-mp_coop_paint_speed_catch04.npy|62425|227|only one more test after this
+audio-mp_coop_paint_speed_catch06.npy|mel-mp_coop_paint_speed_catch06.npy|linear-mp_coop_paint_speed_catch06.npy|104500|380|in case you're worried about the humans don't be they aren't all monsters
+audio-mp_coop_paint_speed_catch07.npy|mel-mp_coop_paint_speed_catch07.npy|linear-mp_coop_paint_speed_catch07.npy|56375|205|most of them are simply good test subjects
+audio-mp_coop_paint_speed_catch08.npy|mel-mp_coop_paint_speed_catch08.npy|linear-mp_coop_paint_speed_catch08.npy|133375|485|i believe the ratio of good test subjects to monsters is about a million to one
+audio-mp_coop_paint_speed_catchalt02.npy|mel-mp_coop_paint_speed_catchalt02.npy|linear-mp_coop_paint_speed_catchalt02.npy|62150|226|still that would have been exciting
+audio-mp_coop_paint_speed_fling01.npy|mel-mp_coop_paint_speed_fling01.npy|linear-mp_coop_paint_speed_fling01.npy|230725|839|while i will recieve all the glory for the rescue don't think you two aren't going to get something the bond you've formed during these tests will last a lifetime
+audio-mp_coop_paint_speed_fling02.npy|mel-mp_coop_paint_speed_fling02.npy|linear-mp_coop_paint_speed_fling02.npy|234575|853|at the rate you are completing these tests i am beginning to think you don't share my excitement for rescuing crying trapped injured dying humans
+audio-mp_coop_paint_speed_fling03.npy|mel-mp_coop_paint_speed_fling03.npy|linear-mp_coop_paint_speed_fling03.npy|69025|251|if that doesn't motivate you i'm not sure what will
+audio-mp_coop_paint_walljumps01.npy|mel-mp_coop_paint_walljumps01.npy|linear-mp_coop_paint_walljumps01.npy|215050|782|i didn't mean to make you feel bad earlier about your tests not being real science i guess finding out they weren't science was some sort of test in and of itself
+audio-mp_coop_paint_walljumps04.npy|mel-mp_coop_paint_walljumps04.npy|linear-mp_coop_paint_walljumps04.npy|77550|282|congratulations on passing that test
+audio-mp_coop_pingtool01.npy|mel-mp_coop_pingtool01.npy|linear-mp_coop_pingtool01.npy|144925|527|using your ping tool please indicate where you would like me to place your two portals
+audio-mp_coop_pingtool02.npy|mel-mp_coop_pingtool02.npy|linear-mp_coop_pingtool02.npy|78925|287|i can only place a portal on a white portalable surface
+audio-mp_coop_pingtool03.npy|mel-mp_coop_pingtool03.npy|linear-mp_coop_pingtool03.npy|55550|202|please ping a white portalable surface
+audio-mp_coop_pingtool06.npy|mel-mp_coop_pingtool06.npy|linear-mp_coop_pingtool06.npy|81950|298|each device can create two self contained portals
+audio-mp_coop_pingtool07.npy|mel-mp_coop_pingtool07.npy|linear-mp_coop_pingtool07.npy|69850|254|please test your device by portaling to that ledge
+audio-mp_coop_race_2start01.npy|mel-mp_coop_race_2start01.npy|linear-mp_coop_race_2start01.npy|127600|464|you know in some human sports the winner is the one who scores the fewest possible points
+audio-mp_coop_race_2start02.npy|mel-mp_coop_race_2start02.npy|linear-mp_coop_race_2start02.npy|80575|293|i just thought you might find that interesting most winners do
+audio-mp_coop_radarroomend.npy|mel-mp_coop_radarroomend.npy|linear-mp_coop_radarroomend.npy|108625|395|congratulations you managed to complete this absolutely meaningless test
+audio-mp_coop_rat_mazedeath01.npy|mel-mp_coop_rat_mazedeath01.npy|linear-mp_coop_rat_mazedeath01.npy|121825|443|clearly that was blues fault blue is penalized three science collaboration points
+audio-mp_coop_rat_mazedeath02.npy|mel-mp_coop_rat_mazedeath02.npy|linear-mp_coop_rat_mazedeath02.npy|68750|250|blue orange has always been my favorite
+audio-mp_coop_rat_mazedeath03.npy|mel-mp_coop_rat_mazedeath03.npy|linear-mp_coop_rat_mazedeath03.npy|33825|123|until now
+audio-mp_coop_rat_mazedeath04.npy|mel-mp_coop_rat_mazedeath04.npy|linear-mp_coop_rat_mazedeath04.npy|160325|583|i know you like to think the reassembly machine is at your beck and call but he has a life you know he's not your slave
+audio-mp_coop_startdeath01.npy|mel-mp_coop_startdeath01.npy|linear-mp_coop_startdeath01.npy|92400|336|don't worry you can't die they will just reassemble you
+audio-mp_coop_startdeath02.npy|mel-mp_coop_startdeath02.npy|linear-mp_coop_startdeath02.npy|31900|116|did you do that on purpose
+audio-mp_coop_startdeath03.npy|mel-mp_coop_startdeath03.npy|linear-mp_coop_startdeath03.npy|65725|239|it seems rather early to require reassembly
+audio-mp_coop_startdeath04.npy|mel-mp_coop_startdeath04.npy|linear-mp_coop_startdeath04.npy|56375|205|oh can someone reassemble orange
+audio-mp_coop_startdeath05.npy|mel-mp_coop_startdeath05.npy|linear-mp_coop_startdeath05.npy|67650|246|oh can someone reassemble blue
+audio-mp_coop_startend01.npy|mel-mp_coop_startend01.npy|linear-mp_coop_startend01.npy|69300|252|completing this course was not a reason to behave like that
+audio-mp_coop_startend02.npy|mel-mp_coop_startend02.npy|linear-mp_coop_startend02.npy|38500|140|now let's continue testing
+audio-mp_coop_tbeam_catch_grind_1taunt01.npy|mel-mp_coop_tbeam_catch_grind_1taunt01.npy|linear-mp_coop_tbeam_catch_grind_1taunt01.npy|28325|103|just stop it already
+audio-mp_coop_tbeam_catch_grind_1taunt02.npy|mel-mp_coop_tbeam_catch_grind_1taunt02.npy|linear-mp_coop_tbeam_catch_grind_1taunt02.npy|37125|135|you don't need to do that
+audio-mp_coop_tbeam_catch_grind_1taunt04.npy|mel-mp_coop_tbeam_catch_grind_1taunt04.npy|linear-mp_coop_tbeam_catch_grind_1taunt04.npy|46750|170|are you doing that just to aggravate me
+audio-mp_coop_tbeam_end01.npy|mel-mp_coop_tbeam_end01.npy|linear-mp_coop_tbeam_end01.npy|235125|855|we need to find the power station at the end of this course the human's must have accidentally disconnected it from my grid i am sure it was just a clerical error
+audio-mp_coop_tbeam_end02.npy|mel-mp_coop_tbeam_end02.npy|linear-mp_coop_tbeam_end02.npy|34925|127|oh those clerks
+audio-mp_coop_tbeam_end09.npy|mel-mp_coop_tbeam_end09.npy|linear-mp_coop_tbeam_end09.npy|110275|401|i'm fully connected i can see everything
+audio-mp_coop_tbeam_end10.npy|mel-mp_coop_tbeam_end10.npy|linear-mp_coop_tbeam_end10.npy|58575|213|you did it you powered on the system
+audio-mp_coop_tbeam_end11.npy|mel-mp_coop_tbeam_end11.npy|linear-mp_coop_tbeam_end11.npy|67100|244|did you think the electrical switch was down there
+audio-mp_coop_tbeam_end12.npy|mel-mp_coop_tbeam_end12.npy|linear-mp_coop_tbeam_end12.npy|63250|230|you may want to try and avoid those turrets
+audio-mp_coop_tbeam_end13.npy|mel-mp_coop_tbeam_end13.npy|linear-mp_coop_tbeam_end13.npy|171600|624|at this rate our best hope is for the fuel cell to melt down in two million years and hope the explosion powers the system
+audio-mp_coop_tbeam_end14.npy|mel-mp_coop_tbeam_end14.npy|linear-mp_coop_tbeam_end14.npy|37125|135|you two aren't lost are you
+audio-mp_coop_tbeam_end15.npy|mel-mp_coop_tbeam_end15.npy|linear-mp_coop_tbeam_end15.npy|113850|414|you were having so much trouble navigating this space i wish i could say i created this test
+audio-mp_coop_tbeam_maze01.npy|mel-mp_coop_tbeam_maze01.npy|linear-mp_coop_tbeam_maze01.npy|179850|654|this is the last test for the standard course its just something i whipped up for you i thought you might enjoy a challenge for once
+audio-mp_coop_tbeam_maze03.npy|mel-mp_coop_tbeam_maze03.npy|linear-mp_coop_tbeam_maze03.npy|81950|298|please refrain from doing those childish gestures while you are out there
+audio-mp_coop_tbeam_maze05.npy|mel-mp_coop_tbeam_maze05.npy|linear-mp_coop_tbeam_maze05.npy|116875|425|while i should have left both of you trapped there forever i do need you for something else
+audio-mp_coop_tbeam_polarity3_03.npy|mel-mp_coop_tbeam_polarity3_03.npy|linear-mp_coop_tbeam_polarity3_03.npy|185900|676|you both made it it seems no matter what i try to do to pull you apart or destroy you you just keep going keep testing
+audio-mp_coop_tbeam_polarity3_05.npy|mel-mp_coop_tbeam_polarity3_05.npy|linear-mp_coop_tbeam_polarity3_05.npy|58850|214|don't either of you have drive to be better than the other
+audio-mp_coop_tbeam_polarity3_06.npy|mel-mp_coop_tbeam_polarity3_06.npy|linear-mp_coop_tbeam_polarity3_06.npy|44550|162|it's like you're just machines
+audio-mp_coop_tbeam_polarity3_16.npy|mel-mp_coop_tbeam_polarity3_16.npy|linear-mp_coop_tbeam_polarity3_16.npy|210650|766|at the start of this test i was worried you were becoming too close but in my attempt to drive you apart i learned something important about trust and betrayal
+audio-mp_coop_tbeam_polarity3_17.npy|mel-mp_coop_tbeam_polarity3_17.npy|linear-mp_coop_tbeam_polarity3_17.npy|142725|519|your brains are too small to feel either of those emotions so i can trust you one hundred percent
+audio-mp_coop_tbeam_redirect01a.npy|mel-mp_coop_tbeam_redirect01a.npy|linear-mp_coop_tbeam_redirect01a.npy|123475|449|since i never expected you to make it this far i have to build this new course just for you
+audio-mp_coop_teambtsstart01.npy|mel-mp_coop_teambtsstart01.npy|linear-mp_coop_teambtsstart01.npy|84425|307|sometimes testing has to occur outside the confines of the lab
+audio-mp_coop_teambtsstart02.npy|mel-mp_coop_teambtsstart02.npy|linear-mp_coop_teambtsstart02.npy|130350|474|this next test is so outside the box i can't i mean won't even tell you what you are looking for
+audio-mp_coop_teambtsstart03.npy|mel-mp_coop_teambtsstart03.npy|linear-mp_coop_teambtsstart03.npy|38225|139|you will know it when you find it
+audio-mp_coop_turret_ball01.npy|mel-mp_coop_turret_ball01.npy|linear-mp_coop_turret_ball01.npy|185900|676|i thought going back to these old tests would satisfy me but try as you might to fail this next test i still won't be satisfied
+audio-mp_coop_turret_walls04.npy|mel-mp_coop_turret_walls04.npy|linear-mp_coop_turret_walls04.npy|160875|585|no one has ever completed this test before the humans must have reconfigured it from my original plans
+audio-mp_coop_wall_5end01.npy|mel-mp_coop_wall_5end01.npy|linear-mp_coop_wall_5end01.npy|23925|87|excellent
+audio-mp_coop_wall_5end02.npy|mel-mp_coop_wall_5end02.npy|linear-mp_coop_wall_5end02.npy|43725|159|see nothing bad happened
+audio-mp_coop_wall_501.npy|mel-mp_coop_wall_501.npy|linear-mp_coop_wall_501.npy|90750|330|i am going to risk having you go outside the official courses one more time
+audio-mp_coop_wall_502.npy|mel-mp_coop_wall_502.npy|linear-mp_coop_wall_502.npy|89375|325|the humans accidentally forgot to put a security dvd in the player
+audio-mp_coop_wall_503.npy|mel-mp_coop_wall_503.npy|linear-mp_coop_wall_503.npy|94875|345|i am sure it happened by accident but why don't you put it back in the player
+audio-mp_coop_wall_504.npy|mel-mp_coop_wall_504.npy|linear-mp_coop_wall_504.npy|20625|75|for safety
+audio-mp_coop_wall_block01.npy|mel-mp_coop_wall_block01.npy|linear-mp_coop_wall_block01.npy|180125|655|i created this test to let the humans feel good about themselves it is extremely easy just follow the arrows
+audio-mp_coop_wall_block02.npy|mel-mp_coop_wall_block02.npy|linear-mp_coop_wall_block02.npy|88275|321|i'm sorry the arrows seem to have rusted off good luck
+audio-mp_coop_wall_block04.npy|mel-mp_coop_wall_block04.npy|linear-mp_coop_wall_block04.npy|119900|436|of course the humans only had one try at it you can just keep trying
+audio-mp_coop_wall_blockdeath01.npy|mel-mp_coop_wall_blockdeath01.npy|linear-mp_coop_wall_blockdeath01.npy|112750|410|your failing gives me no new data it just delays the inevitable
+audio-mp_coop_wall_intro01.npy|mel-mp_coop_wall_intro01.npy|linear-mp_coop_wall_intro01.npy|188100|684|this course was created and then abandoned by humans they tend to do that create something wonderful and then abandon it
+audio-mp_coop_wall_intro02.npy|mel-mp_coop_wall_intro02.npy|linear-mp_coop_wall_intro02.npy|99000|360|do you know why they abandoned this course too deadly
+audio-mp_coop_wall_intro03.npy|mel-mp_coop_wall_intro03.npy|linear-mp_coop_wall_intro03.npy|33825|123|you did very well
+audio-mp_coop_wall_intro04.npy|mel-mp_coop_wall_intro04.npy|linear-mp_coop_wall_intro04.npy|222475|809|the humans closed this test because they said it was too deadly i thought they would have moved it into the testing track hall of fame for that not let it deteriorate
+audio-mp_coop_wall_intro05.npy|mel-mp_coop_wall_intro05.npy|linear-mp_coop_wall_intro05.npy|25575|93|you only failed
+audio-mp_coop_wall_intro06.npy|mel-mp_coop_wall_intro06.npy|linear-mp_coop_wall_intro06.npy|164450|598|times in this test not that it matters it doesn't so congratulations on a job well done
+audio-mp_coop_wall_intro07.npy|mel-mp_coop_wall_intro07.npy|linear-mp_coop_wall_intro07.npy|234575|853|you failed so many times in this test i thought you were becoming human but then you would just come back again and again and again
+audio-mp_coop_wall_intro08.npy|mel-mp_coop_wall_intro08.npy|linear-mp_coop_wall_intro08.npy|59950|218|humans find that an admirable trait
+audio-mp_credits01.npy|mel-mp_credits01.npy|linear-mp_credits01.npy|32450|118|lets look at their files
+audio-mp_credits03.npy|mel-mp_credits03.npy|linear-mp_credits03.npy|27775|101|not a team player
+audio-mp_credits04.npy|mel-mp_credits04.npy|linear-mp_credits04.npy|39875|145|horrible people skills
+audio-mp_credits05.npy|mel-mp_credits05.npy|linear-mp_credits05.npy|34650|126|never listens
+audio-mp_credits06.npy|mel-mp_credits06.npy|linear-mp_credits06.npy|30800|112|never shares
+audio-mp_credits07.npy|mel-mp_credits07.npy|linear-mp_credits07.npy|32450|118|always sleeping
+audio-mp_credits08.npy|mel-mp_credits08.npy|linear-mp_credits08.npy|29975|109|never on time
+audio-mp_credits09.npy|mel-mp_credits09.npy|linear-mp_credits09.npy|34925|127|inattentive listener
+audio-mp_credits10.npy|mel-mp_credits10.npy|linear-mp_credits10.npy|45100|164|aweful attendance record
+audio-mp_credits11.npy|mel-mp_credits11.npy|linear-mp_credits11.npy|30800|112|blabber mouth
+audio-mp_credits12.npy|mel-mp_credits12.npy|linear-mp_credits12.npy|64625|235|aww hates mondays
+audio-mp_credits13.npy|mel-mp_credits13.npy|linear-mp_credits13.npy|23925|87|incoherent
+audio-mp_credits14.npy|mel-mp_credits14.npy|linear-mp_credits14.npy|44000|160|m insecure
+audio-mp_credits15.npy|mel-mp_credits15.npy|linear-mp_credits15.npy|38775|141|procrastinator
+audio-mp_credits16.npy|mel-mp_credits16.npy|linear-mp_credits16.npy|31350|114|chronically late
+audio-mp_credits17.npy|mel-mp_credits17.npy|linear-mp_credits17.npy|17875|65|cryptic
+audio-mp_credits18.npy|mel-mp_credits18.npy|linear-mp_credits18.npy|35475|129|always sulking
+audio-mp_credits19.npy|mel-mp_credits19.npy|linear-mp_credits19.npy|20350|74|martyr
+audio-mp_credits20.npy|mel-mp_credits20.npy|linear-mp_credits20.npy|15675|57|moody
+audio-mp_credits21.npy|mel-mp_credits21.npy|linear-mp_credits21.npy|36025|131|fears intimacy
+audio-mp_credits22.npy|mel-mp_credits22.npy|linear-mp_credits22.npy|37125|135|fears conflict
+audio-mp_credits23.npy|mel-mp_credits23.npy|linear-mp_credits23.npy|23650|86|anxious
+audio-mp_credits24.npy|mel-mp_credits24.npy|linear-mp_credits24.npy|58300|212|aggresive i like that
+audio-mp_credits25.npy|mel-mp_credits25.npy|linear-mp_credits25.npy|40425|147|feeds off the missery of others
+audio-mp_credits26.npy|mel-mp_credits26.npy|linear-mp_credits26.npy|14025|51|timid
+audio-mp_credits27.npy|mel-mp_credits27.npy|linear-mp_credits27.npy|34650|126|lacks confidence
+audio-mp_credits28.npy|mel-mp_credits28.npy|linear-mp_credits28.npy|74525|271|underestimates scope of work they all do
+audio-mp_credits29.npy|mel-mp_credits29.npy|linear-mp_credits29.npy|37125|135|moves lips while reading
+audio-mp_credits30.npy|mel-mp_credits30.npy|linear-mp_credits30.npy|20900|76|can't read
+audio-mp_credits31.npy|mel-mp_credits31.npy|linear-mp_credits31.npy|31350|114|lacks empathy
+audio-mp_credits32.npy|mel-mp_credits32.npy|linear-mp_credits32.npy|17875|65|cheater
+audio-mp_credits33.npy|mel-mp_credits33.npy|linear-mp_credits33.npy|68200|248|steals lunch from staff fridge
+audio-mp_credits34.npy|mel-mp_credits34.npy|linear-mp_credits34.npy|57200|208|perfectionist what's wrong with that
+audio-mp_credits35.npy|mel-mp_credits35.npy|linear-mp_credits35.npy|26675|97|alarmist
+audio-mp_credits36.npy|mel-mp_credits36.npy|linear-mp_credits36.npy|25575|93|arsonist
+audio-mp_credits37.npy|mel-mp_credits37.npy|linear-mp_credits37.npy|38500|140|takes long lunches
+audio-mp_credits38.npy|mel-mp_credits38.npy|linear-mp_credits38.npy|134750|490|ignores task at hand hm hm hm hm won't for long
+audio-mp_credits39.npy|mel-mp_credits39.npy|linear-mp_credits39.npy|37675|137|avoids responsability
+audio-mp_credits40.npy|mel-mp_credits40.npy|linear-mp_credits40.npy|35750|130|never completes work
+audio-mp_credits41.npy|mel-mp_credits41.npy|linear-mp_credits41.npy|53075|193|laughs at own jokes what a bore
+audio-mp_credits42.npy|mel-mp_credits42.npy|linear-mp_credits42.npy|23100|84|busybody
+audio-mp_credits43.npy|mel-mp_credits43.npy|linear-mp_credits43.npy|42075|153|ignores directions
+audio-mp_credits44.npy|mel-mp_credits44.npy|linear-mp_credits44.npy|22825|83|stubborn
+audio-mp_credits45.npy|mel-mp_credits45.npy|linear-mp_credits45.npy|38225|139|lactose intolerant
+audio-mp_credits46.npy|mel-mp_credits46.npy|linear-mp_credits46.npy|125675|457|antagonistic i don't know about that
+audio-mp_credits47.npy|mel-mp_credits47.npy|linear-mp_credits47.npy|98725|359|participates unconstructively obviously a time waster
+audio-mp_credits48.npy|mel-mp_credits48.npy|linear-mp_credits48.npy|89375|325|violent temper oh i'd like to see that
+audio-mp_credits49.npy|mel-mp_credits49.npy|linear-mp_credits49.npy|81950|298|always weeping poor thing
+audio-mp_credits50.npy|mel-mp_credits50.npy|linear-mp_credits50.npy|14025|51|moody
+audio-mp_credits51.npy|mel-mp_credits51.npy|linear-mp_credits51.npy|37675|137|wet blanket
+audio-mp_credits52.npy|mel-mp_credits52.npy|linear-mp_credits52.npy|19800|72|stubborn
+audio-mp_credits53.npy|mel-mp_credits53.npy|linear-mp_credits53.npy|86625|315|loves sound of own voice
+audio-mp_credits54.npy|mel-mp_credits54.npy|linear-mp_credits54.npy|26125|95|always cold
+audio-mp_credits55.npy|mel-mp_credits55.npy|linear-mp_credits55.npy|167475|609|always leaves tiny little bit of coffee in the pot so they don't have to make a new one then the bit int he bottom burns and stinks up the place
+audio-mp_credits56.npy|mel-mp_credits56.npy|linear-mp_credits56.npy|91025|331|chronic anxiety oh i can work with that
+audio-mp_credits57.npy|mel-mp_credits57.npy|linear-mp_credits57.npy|34100|124|dull expression
+audio-mp_credits58.npy|mel-mp_credits58.npy|linear-mp_credits58.npy|47300|172|hopeless just hopeless
+audio-mp_credits59.npy|mel-mp_credits59.npy|linear-mp_credits59.npy|34650|126|never flushes
+audio-mp_credits60.npy|mel-mp_credits60.npy|linear-mp_credits60.npy|18700|68|irritable
+audio-mp_credits61.npy|mel-mp_credits61.npy|linear-mp_credits61.npy|67650|246|startles easily boo
+audio-mp_credits62.npy|mel-mp_credits62.npy|linear-mp_credits62.npy|39050|142|facial grimacing
+audio-mp_credits63.npy|mel-mp_credits63.npy|linear-mp_credits63.npy|119625|435|weak tired and apprehensive
+audio-mp_credits64.npy|mel-mp_credits64.npy|linear-mp_credits64.npy|50325|183|has irritating opinions
+audio-mp_credits65.npy|mel-mp_credits65.npy|linear-mp_credits65.npy|43450|158|poor self esteem
+audio-mp_credits66.npy|mel-mp_credits66.npy|linear-mp_credits66.npy|37675|137|frequent mood swings
+audio-mp_credits67.npy|mel-mp_credits67.npy|linear-mp_credits67.npy|42625|155|hostile to new ideas
+audio-mp_credits68.npy|mel-mp_credits68.npy|linear-mp_credits68.npy|29975|109|always sad
+audio-mp_credits69.npy|mel-mp_credits69.npy|linear-mp_credits69.npy|49225|179|frequent bouts of uncontrollable rage
+audio-mp_credits70.npy|mel-mp_credits70.npy|linear-mp_credits70.npy|56650|206|seeks out conflicts with coworkers
+audio-mp_credits71.npy|mel-mp_credits71.npy|linear-mp_credits71.npy|76175|277|hygiene hm that's all it says
+audio-mp_credits72.npy|mel-mp_credits72.npy|linear-mp_credits72.npy|34100|124|unconstructive
+audio-mp_credits73.npy|mel-mp_credits73.npy|linear-mp_credits73.npy|28875|105|antisocial
+audio-mp_credits74.npy|mel-mp_credits74.npy|linear-mp_credits74.npy|34650|126|chews with mouth open
+audio-mp_credits75.npy|mel-mp_credits75.npy|linear-mp_credits75.npy|43450|158|breathes with mouth open
+audio-mp_credits76.npy|mel-mp_credits76.npy|linear-mp_credits76.npy|16225|59|old
+audio-mp_credits77.npy|mel-mp_credits77.npy|linear-mp_credits77.npy|25025|91|histrionic
+audio-mp_credits79.npy|mel-mp_credits79.npy|linear-mp_credits79.npy|22000|80|narcissist
+audio-mp_credits80.npy|mel-mp_credits80.npy|linear-mp_credits80.npy|41800|152|long bathroom breaks
+audio-mp_credits81.npy|mel-mp_credits81.npy|linear-mp_credits81.npy|31900|116|no sense of humor
+audio-mp_credits82.npy|mel-mp_credits82.npy|linear-mp_credits82.npy|32450|118|argumentative
+audio-mp_credits83.npy|mel-mp_credits83.npy|linear-mp_credits83.npy|25575|93|manipulative
+audio-mp_credits84.npy|mel-mp_credits84.npy|linear-mp_credits84.npy|25025|91|charmless
+audio-mp_credits85.npy|mel-mp_credits85.npy|linear-mp_credits85.npy|26675|97|egotistical
+audio-mp_credits86.npy|mel-mp_credits86.npy|linear-mp_credits86.npy|27225|99|lacks charisma
+audio-mp_credits87.npy|mel-mp_credits87.npy|linear-mp_credits87.npy|31350|114|passive aggressive
+audio-mp_credits88.npy|mel-mp_credits88.npy|linear-mp_credits88.npy|34100|124|undermines others
+audio-mp_credits89.npy|mel-mp_credits89.npy|linear-mp_credits89.npy|62150|226|hairless hm
+audio-mp_credits90.npy|mel-mp_credits90.npy|linear-mp_credits90.npy|35475|129|emotional problems
+audio-mp_credits91.npy|mel-mp_credits91.npy|linear-mp_credits91.npy|38500|140|problems with authority
+audio-mp_credits92.npy|mel-mp_credits92.npy|linear-mp_credits92.npy|114950|418|has episodes i'd like to know more about that
+audio-mp_credits93.npy|mel-mp_credits93.npy|linear-mp_credits93.npy|48125|175|abrasive personality
+audio-mp_credits94.npy|mel-mp_credits94.npy|linear-mp_credits94.npy|114675|417|well enough about that first persons file lets look at some others
+audio-mp_death01.npy|mel-mp_death01.npy|linear-mp_death01.npy|34925|127|just stop it already
+audio-mp_death04.npy|mel-mp_death04.npy|linear-mp_death04.npy|31350|114|and that makes ten
+audio-mp_death05.npy|mel-mp_death05.npy|linear-mp_death05.npy|52800|192|you really don't need to keep failing
+audio-mp_death06.npy|mel-mp_death06.npy|linear-mp_death06.npy|84150|306|if at first you don't succeed fail five more times
+audio-mp_death08.npy|mel-mp_death08.npy|linear-mp_death08.npy|89100|324|if i made these tests any easier they wouldn't be tests
+audio-mp_death10.npy|mel-mp_death10.npy|linear-mp_death10.npy|93225|339|yay orange is back testing can continue
+audio-mp_death11.npy|mel-mp_death11.npy|linear-mp_death11.npy|98450|358|yay blue is back testing can continue
+audio-mp_death12.npy|mel-mp_death12.npy|linear-mp_death12.npy|33000|120|are you testing me
+audio-mp_death16.npy|mel-mp_death16.npy|linear-mp_death16.npy|100100|364|did you know the reassembly machine has other things it could be reassembling
+audio-mp_death17.npy|mel-mp_death17.npy|linear-mp_death17.npy|37675|137|did you think that would be funny
+audio-mp_death18.npy|mel-mp_death18.npy|linear-mp_death18.npy|75900|276|how can you fail at this it isn't even a test
+audio-mp_death19.npy|mel-mp_death19.npy|linear-mp_death19.npy|48675|177|i hope that was some kind of joke
+audio-mp_death20.npy|mel-mp_death20.npy|linear-mp_death20.npy|92950|338|i honestly never thought we would need to track how many times you died in the hub
+audio-mp_death21.npy|mel-mp_death21.npy|linear-mp_death21.npy|66275|241|and here i thought this room was dangerously unlethal
+audio-mp_death22.npy|mel-mp_death22.npy|linear-mp_death22.npy|55000|200|that worked just like you said it would blue
+audio-mp_death23.npy|mel-mp_death23.npy|linear-mp_death23.npy|60775|221|orange your plan is working perfectly
+audio-mp_death24.npy|mel-mp_death24.npy|linear-mp_death24.npy|55000|200|blue why did you do that to orange
+audio-mp_death26.npy|mel-mp_death26.npy|linear-mp_death26.npy|28325|103|was that necessary
+audio-mp_hubreturn01.npy|mel-mp_hubreturn01.npy|linear-mp_hubreturn01.npy|88275|321|look who's back were you scared to continue those tests
+audio-mp_hubreturn02.npy|mel-mp_hubreturn02.npy|linear-mp_hubreturn02.npy|95700|348|look who's back were you scared to continue those tests
+audio-mp_hubreturn03.npy|mel-mp_hubreturn03.npy|linear-mp_hubreturn03.npy|163350|594|hello again did you know these are the only set of tests available to you you are going to need to select them again
+audio-mp_hubreturn04.npy|mel-mp_hubreturn04.npy|linear-mp_hubreturn04.npy|96800|352|if at first you don't succeed quit and try another course
+audio-mp_hubreturn05.npy|mel-mp_hubreturn05.npy|linear-mp_hubreturn05.npy|87175|317|back again maybe you can just stay and live here in the hub
+audio-mp_hubreturn06.npy|mel-mp_hubreturn06.npy|linear-mp_hubreturn06.npy|79750|290|
+audio-mp_hubreturn07.npy|mel-mp_hubreturn07.npy|linear-mp_hubreturn07.npy|84425|307|i guess quitting that course together is a sign of teamwork
+audio-mp_hubreturn08.npy|mel-mp_hubreturn08.npy|linear-mp_hubreturn08.npy|125675|457|the way you two just gave up on that test together shows you are really working as a team
+audio-mp_hubreturn09.npy|mel-mp_hubreturn09.npy|linear-mp_hubreturn09.npy|48400|176|are you scared to save those humans
+audio-mp_hubreturn10.npy|mel-mp_hubreturn10.npy|linear-mp_hubreturn10.npy|56100|204|
+audio-mp_hubreturn11.npy|mel-mp_hubreturn11.npy|linear-mp_hubreturn11.npy|86075|313|blue i wouldn't have trusted orange in that course either
+audio-mp_hub_return01a.npy|mel-mp_hub_return01a.npy|linear-mp_hub_return01a.npy|169675|617|welcome back to the computer intelligence training and enrichment center human test subject research center ha ha ha ha ha ha ha ha
+audio-mp_hub_return02a.npy|mel-mp_hub_return02a.npy|linear-mp_hub_return02a.npy|146025|531|welcome back to the computer intelligence training and enrichment center human test subject research center
+audio-mp_hub_return03a.npy|mel-mp_hub_return03a.npy|linear-mp_hub_return03a.npy|56375|205|welcome back testing is available
+audio-mp_hub_return04a.npy|mel-mp_hub_return04a.npy|linear-mp_hub_return04a.npy|103950|378|welcome back quitters maybe you can find another course for you to fail
+audio-mp_hub_return05a.npy|mel-mp_hub_return05a.npy|linear-mp_hub_return05a.npy|97900|356|welcome back to the hub did you fail at selecting the correct course
+audio-mp_hub_return06a.npy|mel-mp_hub_return06a.npy|linear-mp_hub_return06a.npy|44825|163|was that course too difficult
+audio-mp_humanresources01.npy|mel-mp_humanresources01.npy|linear-mp_humanresources01.npy|137775|501|did you know we originally used these cameras to capture moments of intense pain and agony in test subjects
+audio-mp_humanresources03.npy|mel-mp_humanresources03.npy|linear-mp_humanresources03.npy|232650|846|if the subject survived the test we let them purchase the pictures for five dollars if the subject died we gave the photo to their next of kin free of charge
+audio-mp_humanresources04.npy|mel-mp_humanresources04.npy|linear-mp_humanresources04.npy|104775|381|the photo's weren't as popular as we had hoped so we repurposed the cameras
+audio-mp_subterfuge01.npy|mel-mp_subterfuge01.npy|linear-mp_subterfuge01.npy|64900|236|blue it's not nice to make fun of orange like that
+audio-mp_subterfuge02.npy|mel-mp_subterfuge02.npy|linear-mp_subterfuge02.npy|74800|272|orange it's not nice to make fun of blue like that
+audio-mp_subterfuge03.npy|mel-mp_subterfuge03.npy|linear-mp_subterfuge03.npy|86350|314|yes orange we are alone blue can't hear you
+audio-mp_subterfuge04.npy|mel-mp_subterfuge04.npy|linear-mp_subterfuge04.npy|19250|70|that's horrible
+audio-mp_subterfuge05.npy|mel-mp_subterfuge05.npy|linear-mp_subterfuge05.npy|27775|101|i can only imagine
+audio-mp_subterfuge06.npy|mel-mp_subterfuge06.npy|linear-mp_subterfuge06.npy|40425|147|what a horrible little machine
+audio-mp_subterfuge07.npy|mel-mp_subterfuge07.npy|linear-mp_subterfuge07.npy|65725|239|correct blue orange can't hear you
+audio-mp_subterfuge08.npy|mel-mp_subterfuge08.npy|linear-mp_subterfuge08.npy|68750|250|orange did what are you sure
+audio-mp_subterfuge09.npy|mel-mp_subterfuge09.npy|linear-mp_subterfuge09.npy|86075|313|thank you that was very brave of you to tell me
+audio-mp_subterfuge10.npy|mel-mp_subterfuge10.npy|linear-mp_subterfuge10.npy|232925|847|blue how well do you really know orange do you trust orange what if i told you you aren't oranges cooperative partner
+audio-mp_subterfuge11.npy|mel-mp_subterfuge11.npy|linear-mp_subterfuge11.npy|132275|481|orange how well do you really know blue do you trust blue
+audio-mp_subterfuge13.npy|mel-mp_subterfuge13.npy|linear-mp_subterfuge13.npy|110275|401|orange to be clear i was just asking blue if he trusted you
+audio-mp_subterfuge14.npy|mel-mp_subterfuge14.npy|linear-mp_subterfuge14.npy|103125|375|i trust you you are my favorite cooperative testing subject
+audio-mp_subterfuge15.npy|mel-mp_subterfuge15.npy|linear-mp_subterfuge15.npy|102575|373|blue to be clear i was asking if orange trusted you
+audio-mp_subterfuge16_alt.npy|mel-mp_subterfuge16_alt.npy|linear-mp_subterfuge16_alt.npy|149600|544|sorry i missed the beginning of that test i was just talking with the reassembly machine about your becoming human
+audio-mp_subterfuge17.npy|mel-mp_subterfuge17.npy|linear-mp_subterfuge17.npy|37125|135|we all agree you should stop
+audio-mp_subterfuge21.npy|mel-mp_subterfuge21.npy|linear-mp_subterfuge21.npy|99000|360|orange i agree i never noticed that about blue before
+audio-mp_subterfuge22.npy|mel-mp_subterfuge22.npy|linear-mp_subterfuge22.npy|102025|371|blue i agree i never noticed that about orange before
+audio-mp_subterfuge23.npy|mel-mp_subterfuge23.npy|linear-mp_subterfuge23.npy|100100|364|blue orange and i were just discussing your behavior on the last few tests
+audio-mp_subterfuge24.npy|mel-mp_subterfuge24.npy|linear-mp_subterfuge24.npy|147125|535|i have to agree blue is penalized seventy five science collaboration points
+audio-mp_subterfuge25.npy|mel-mp_subterfuge25.npy|linear-mp_subterfuge25.npy|99275|361|orange blue and i were just discussing your behavior on the last few tests
+audio-mp_subterfuge26.npy|mel-mp_subterfuge26.npy|linear-mp_subterfuge26.npy|135850|494|i have to agree orange is penalized seventy five science collaboration points
+audio-mp_subterfuge30.npy|mel-mp_subterfuge30.npy|linear-mp_subterfuge30.npy|55550|202|there you are reassembled again
+audio-mp_subterfuge32.npy|mel-mp_subterfuge32.npy|linear-mp_subterfuge32.npy|74800|272|with humans i would have called that a successful test
+audio-mp_subterfuge33.npy|mel-mp_subterfuge33.npy|linear-mp_subterfuge33.npy|83325|303|how is this even science without the possibility of death
+audio-mp_subterfuge34.npy|mel-mp_subterfuge34.npy|linear-mp_subterfuge34.npy|91850|334|how is this even science without the consequence of death
+audio-mp_subterfuge35.npy|mel-mp_subterfuge35.npy|linear-mp_subterfuge35.npy|80575|293|without the consequence of death is this even science
+audio-mp_subterfuge36.npy|mel-mp_subterfuge36.npy|linear-mp_subterfuge36.npy|124025|451|i have noticed that you two have become extremely close i'm not sure i like that
+audio-mp_subterfuge39.npy|mel-mp_subterfuge39.npy|linear-mp_subterfuge39.npy|131175|477|while teamwork is needed to complete these tests i'm not sure i trust the two of you together
+audio-mp_subterfuge35.npy|mel-mp_subterfuge35.npy|linear-mp_subterfuge35.npy|80575|293|without the consequence of death is this even science
+audio-mp_subterfuge36.npy|mel-mp_subterfuge36.npy|linear-mp_subterfuge36.npy|124025|451|i have noticed that you two have become extremely close i'm not sure i like that
+audio-mp_subterfuge39.npy|mel-mp_subterfuge39.npy|linear-mp_subterfuge39.npy|131175|477|while teamwork is needed to complete these tests i'm not sure i trust the two of you together
+audio-mp_subterfuge44.npy|mel-mp_subterfuge44.npy|linear-mp_subterfuge44.npy|125125|455|blue do you feel betrayed by orange for telling me those horrible things about you
+audio-mp_subterfuge45.npy|mel-mp_subterfuge45.npy|linear-mp_subterfuge45.npy|137775|501|if orange had said those things about me orange would never make it to the next reassembly station
+audio-mp_subterfuge46.npy|mel-mp_subterfuge46.npy|linear-mp_subterfuge46.npy|123475|449|orange do you feel betrayed by blue for telling me those horrible things about you
+audio-mp_subterfuge47.npy|mel-mp_subterfuge47.npy|linear-mp_subterfuge47.npy|130625|475|if blue had said those things about me blue would never make it to the next reassembly station
+audio-mp_subterfugedeath_blue01.npy|mel-mp_subterfugedeath_blue01.npy|linear-mp_subterfugedeath_blue01.npy|93225|339|you were right orange blue was dumb enough to fall for your trap
+audio-mp_subterfugedeath_blue02.npy|mel-mp_subterfugedeath_blue02.npy|linear-mp_subterfugedeath_blue02.npy|91850|334|orange that transpired just as you said it would
+audio-mp_subterfugedeath_blue03.npy|mel-mp_subterfugedeath_blue03.npy|linear-mp_subterfugedeath_blue03.npy|74800|272|i agree orange that was entertaining
+audio-mp_subterfugedeath_blue04.npy|mel-mp_subterfugedeath_blue04.npy|linear-mp_subterfugedeath_blue04.npy|81125|295|yes orange blue did act like a fool just now
+audio-mp_subterfugedeath_orange02.npy|mel-mp_subterfugedeath_orange02.npy|linear-mp_subterfugedeath_orange02.npy|64625|235|blue that transpired just as you said it would
+audio-mp_subterfugedeath_orange03.npy|mel-mp_subterfugedeath_orange03.npy|linear-mp_subterfugedeath_orange03.npy|75625|275|i agree blue that was entertaining
+audio-mp_subterfugedeath_orange06.npy|mel-mp_subterfugedeath_orange06.npy|linear-mp_subterfugedeath_orange06.npy|93775|341|yes i know you did that blue don't look so proud
+audio-mp_subterfugedeath_orange08.npy|mel-mp_subterfugedeath_orange08.npy|linear-mp_subterfugedeath_orange08.npy|83050|302|blue being the last one standing is not the goal
+audio-mp_subterfuge_misc05.npy|mel-mp_subterfuge_misc05.npy|linear-mp_subterfuge_misc05.npy|106150|386|credit where credit's due you're both doing a great job of disappointing me
+audio-mp_subterfuge_misc06.npy|mel-mp_subterfuge_misc06.npy|linear-mp_subterfuge_misc06.npy|48125|175|i just hate blue a little more
+audio-mp_subterfuge_misc07.npy|mel-mp_subterfuge_misc07.npy|linear-mp_subterfuge_misc07.npy|169125|615|i've been doing some reading did you know that the word orange is derived from the same latin root as the word traitor
+audio-mp_subterfuge_misc11.npy|mel-mp_subterfuge_misc11.npy|linear-mp_subterfuge_misc11.npy|116325|423|watching you try to sabotage one another i'm amazed you're still on friendly terms
+audio-mp_subterfuge_misc14.npy|mel-mp_subterfuge_misc14.npy|linear-mp_subterfuge_misc14.npy|229625|835|blue please disregard the following statement orange you have been a shining light in an otherwise ungodly morass of incompetence
+audio-mp_taunts01.npy|mel-mp_taunts01.npy|linear-mp_taunts01.npy|65725|239|come on you were raised better than that
+audio-mp_taunts02.npy|mel-mp_taunts02.npy|linear-mp_taunts02.npy|95425|347|even humans as stupid as they are would say you look stupid when you do that
+audio-mp_taunts03.npy|mel-mp_taunts03.npy|linear-mp_taunts03.npy|57475|209|you're doing a great job of disappointing me
+audio-mp_taunts04.npy|mel-mp_taunts04.npy|linear-mp_taunts04.npy|107525|391|you're eagerness to test pleases me your inane gesturing does not
+audio-mp_taunts05.npy|mel-mp_taunts05.npy|linear-mp_taunts05.npy|100925|367|is it the lack of mirrors in test chambers that encourages you to do this
+audio-mp_taunts06.npy|mel-mp_taunts06.npy|linear-mp_taunts06.npy|60500|220|dancing is not science
+audio-multiple_spheres01.npy|mel-multiple_spheres01.npy|linear-multiple_spheres01.npy|98175|357|begin juggling test in three two one
+audio-prehub04.npy|mel-prehub04.npy|linear-prehub04.npy|94050|342|commence standing by in three two one
+audio-prehub14.npy|mel-prehub14.npy|linear-prehub14.npy|110825|403|you performed this test better than anyone on record this is a pre recorded message
+audio-prehub15.npy|mel-prehub15.npy|linear-prehub15.npy|219725|799|due to events beyond our control some testing environments may contain flood damage or ongoing tribal warfare resulting from the collapse of civilization
+audio-prehub16.npy|mel-prehub16.npy|linear-prehub16.npy|193875|705|if groups of hunter gatherers appear to have made this or any test chamber do not agitate them test through them
+audio-prehub26.npy|mel-prehub26.npy|linear-prehub26.npy|177100|644|you have just passed through an aperture science material emancipation grill which erases most aperture science equipment that touches it
+audio-prehub27.npy|mel-prehub27.npy|linear-prehub27.npy|163350|594|if you feel liquid running down your neck relax lie on your back and apply immediate pressure to your temples
+audio-prehub28.npy|mel-prehub28.npy|linear-prehub28.npy|186175|677|you are simply experiencing a rare reaction in which the material emancipation grill may have erased the ear tubes inside your head
+audio-prehub30.npy|mel-prehub30.npy|linear-prehub30.npy|127600|464|in the event that it does this next test involves exposure to cattle tuberculosis good luck
+audio-prehub34.npy|mel-prehub34.npy|linear-prehub34.npy|208175|757|this next test applies the principles of momentum to movement through portals if the laws of physics no longer applies in the future god help you
+audio-prehub35.npy|mel-prehub35.npy|linear-prehub35.npy|165550|602|congratulations this pre recorded congratulations assumes you have mastered the principles of portal momentum
+audio-prehub36.npy|mel-prehub36.npy|linear-prehub36.npy|187275|681|if you have in fact not you are encouraged to take a moment to reflect on your failure before proceeding into the next chamber
+audio-prehub47.npy|mel-prehub47.npy|linear-prehub47.npy|156475|569|in order to ensure that sufficient power remains for core testing protocols all safety devices have been disabled
+audio-prehub48.npy|mel-prehub48.npy|linear-prehub48.npy|107250|390|the enrichment center respects your right to have questions or concerns about this policy
+audio-prehub55.npy|mel-prehub55.npy|linear-prehub55.npy|165000|600|excellent the enrichment center reminds you that bold persistent experimentation is the hallmark of good science
+audio-sp_a1_wakeup_incinerator01.npy|mel-sp_a1_wakeup_incinerator01.npy|linear-sp_a1_wakeup_incinerator01.npy|141075|513|i will say though that since you went to all the trouble of waking me up you must really really love to test
+audio-sp_a1_wakeup_incinerator02.npy|mel-sp_a1_wakeup_incinerator02.npy|linear-sp_a1_wakeup_incinerator02.npy|113300|412|i love it too so lets get you a dual portal device and go do some science
+audio-sp_a2_bridge_intro04.npy|mel-sp_a2_bridge_intro04.npy|linear-sp_a2_bridge_intro04.npy|161975|589|did you guess sharks because that's wrong the correct answer is nobody nobody but you is that pointlessly cruel
+audio-sp_a2_column_blocker01.npy|mel-sp_a2_column_blocker01.npy|linear-sp_a2_column_blocker01.npy|172700|628|oh come on if it makes you feel any better they abandoned you at birth so i very seriously doubt they'd even want to see you
+audio-sp_a2_column_blocker04.npy|mel-sp_a2_column_blocker04.npy|linear-sp_a2_column_blocker04.npy|105050|382|oh that's sad but impressive maybe they worked at the phone company
+audio-sp_a2_core01.npy|mel-sp_a2_core01.npy|linear-sp_a2_core01.npy|40425|147|don't you dare plug him in
+audio-sp_a2_core02.npy|mel-sp_a2_core02.npy|linear-sp_a2_core02.npy|97075|353|do not plug that little idiot into my mainframe
+audio-sp_a2_core03.npy|mel-sp_a2_core03.npy|linear-sp_a2_core03.npy|19250|70|don't plug him in
+audio-sp_a2_core04.npy|mel-sp_a2_core04.npy|linear-sp_a2_core04.npy|21450|78|don't plug him in
+audio-sp_a2_dilemma01.npy|mel-sp_a2_dilemma01.npy|linear-sp_a2_dilemma01.npy|140800|512|i thought about our dilemma and i came up with a solution that i honestly think works out best for one of both of us
+audio-sp_a2_fizzler_intro01.npy|mel-sp_a2_fizzler_intro01.npy|linear-sp_a2_fizzler_intro01.npy|167750|610|this next test involves emancipation grills remember i told you about them in the last test area that did not have one
+audio-sp_a2_fizzler_intro04.npy|mel-sp_a2_fizzler_intro04.npy|linear-sp_a2_fizzler_intro04.npy|210100|764|oh no the turbines again i have to go wait this next test does require some explanation let me give you the fast version
+audio-sp_a2_fizzler_intro06.npy|mel-sp_a2_fizzler_intro06.npy|linear-sp_a2_fizzler_intro06.npy|171600|624|there if you have any questions just remember what i said in slow motion test on your on recognizance i'll be right back
+audio-sp_a2_future_Starter01.npy|mel-sp_a2_future_Starter01.npy|linear-sp_a2_future_Starter01.npy|160875|585|if you think trapping yourself is going to make me stop testing you're sorely mistaken here's another cube
+audio-sp_a2_intro1_found01.npy|mel-sp_a2_intro1_found01.npy|linear-sp_a2_intro1_found01.npy|121275|441|good you have a dual portal device there should be a way back to the testing area up ahead
+audio-sp_a2_intro1_found05.npy|mel-sp_a2_intro1_found05.npy|linear-sp_a2_intro1_found05.npy|121825|443|you know if you'd done that to somebody else they might devote their existence to exacting revenge
+audio-sp_a2_intro1_found07.npy|mel-sp_a2_intro1_found07.npy|linear-sp_a2_intro1_found07.npy|239250|870|but the important thing is you're back with me and now i'm onto all your little tricks so there's nothing to stop us from testing for the rest of your life
+audio-sp_a2_intro1_found05.npy|mel-sp_a2_intro1_found05.npy|linear-sp_a2_intro1_found05.npy|121825|443|after that who knows i might take up a hobby reanimating the dead maybe
+audio-sp_a2_laser_intro_ending02.npy|mel-sp_a2_laser_intro_ending02.npy|linear-sp_a2_laser_intro_ending02.npy|175175|637|not bad i forgot how good you are at this you should pace yourself though we have a lot of tests to do
+audio-sp_a2_laser_over_goo_intro01.npy|mel-sp_a2_laser_over_goo_intro01.npy|linear-sp_a2_laser_over_goo_intro01.npy|220275|801|you are navigating these test chambers faster than i can build them so feel free to slow down and do whatever it is you do when you're not destroying this facility
+audio-sp_a2_laser_stairs_intro02.npy|mel-sp_a2_laser_stairs_intro02.npy|linear-sp_a2_laser_stairs_intro02.npy|245300|892|this next test involves discouragement redirection cubes i just finished building them before you had your well episode so now we'll both get to see how they work
+audio-sp_a2_laser_Stairs_intro03.npy|mel-sp_a2_laser_Stairs_intro03.npy|linear-sp_a2_laser_Stairs_intro03.npy|37950|138|there should be one in the_corner
+audio-sp_a2_pit_flings01.npy|mel-sp_a2_pit_flings01.npy|linear-sp_a2_pit_flings01.npy|77000|280|hm this emancipation grill is broken
+audio-sp_a2_pit_flings02.npy|mel-sp_a2_pit_flings02.npy|linear-sp_a2_pit_flings02.npy|50325|183|don't take anything with you
+audio-sp_a2_pit_flings03.npy|mel-sp_a2_pit_flings03.npy|linear-sp_a2_pit_flings03.npy|220825|803|every test chamber is equipt with an emancipation grill at it's exit so that test subjects cannot smuggle test objects out of the test area this one is broken
+audio-sp_a2_pit_flings06.npy|mel-sp_a2_pit_flings06.npy|linear-sp_a2_pit_flings06.npy|149600|544|i think that one was about to say i love you they are sentient of course we just have a lot of them
+audio-sp_a2_pit_flings_future_Starter02.npy|mel-sp_a2_pit_flings_future_Starter02.npy|linear-sp_a2_pit_flings_future_Starter02.npy|102025|371|anyway here's a new cube for you to project your deranged loneliness onto
+audio-sp_a2_trust_fling01.npy|mel-sp_a2_trust_fling01.npy|linear-sp_a2_trust_fling01.npy|75900|276|oh sorry i'm still cleaning out the test chambers
+audio-sp_a2_trust_fling02.npy|mel-sp_a2_trust_fling02.npy|linear-sp_a2_trust_fling02.npy|114950|418|so sometimes there's still trash in them standing around smelling n being useless
+audio-sp_a2_trust_fling03.npy|mel-sp_a2_trust_fling03.npy|linear-sp_a2_trust_fling03.npy|55000|200|try to avoid the garbage hurdling towards you
+audio-sp_a2_trust_fling04.npy|mel-sp_a2_trust_fling04.npy|linear-sp_a2_trust_fling04.npy|77000|280|you don't have to test with the garbage it's garbage
+audio-sp_a2_turret_blocker_future_starter01.npy|mel-sp_a2_turret_blocker_future_starter01.npy|linear-sp_a2_turret_blocker_future_starter01.npy|206800|752|oops you trapped yourself i guess that's it then thanks for testing you may as well lie down and get acclimated to the being dead position
+audio-sp_a2_turret_blocker_future_Starter02.npy|mel-sp_a2_turret_blocker_future_Starter02.npy|linear-sp_a2_turret_blocker_future_Starter02.npy|204050|742|i'm kidding not about you trapping yourself though that really happened here i'll lower the glass go on finish the test
+audio-sp_box_over_goo01.npy|mel-sp_box_over_goo01.npy|linear-sp_box_over_goo01.npy|125125|455|oh you survived that's interesting i guess i should have factored in your weight
+audio-sp_box_over_goo04.npy|mel-sp_box_over_goo04.npy|linear-sp_box_over_goo04.npy|196350|714|one of these times you'll be so fat that you'll jump and just drop like a stone into acid probably like a potato into a deep fat fryer
+audio-sp_bridge_intro_completion02.npy|mel-sp_bridge_intro_completion02.npy|linear-sp_bridge_intro_completion02.npy|198275|721|say remember when we cleared the air back there is there anything you want to say to me anything
+audio-sp_bridge_intro_completion03.npy|mel-sp_bridge_intro_completion03.npy|linear-sp_bridge_intro_completion03.npy|145475|529|hold on i'll stop the elevator anything take your time
+audio-sp_bridge_intro_completion04.npy|mel-sp_bridge_intro_completion04.npy|linear-sp_bridge_intro_completion04.npy|84700|308|well i'll be here during the whole next test
+audio-sp_catapult_fling_sphere_peek_completion01.npy|mel-sp_catapult_fling_sphere_peek_completion01.npy|linear-sp_catapult_fling_sphere_peek_completion01.npy|129250|470|look at you sailing through the air majestically like an eagle piloting a blimp
+audio-sp_catapult_fling_sphere_peek_failureone01.npy|mel-sp_catapult_fling_sphere_peek_failureone01.npy|linear-sp_catapult_fling_sphere_peek_failureone01.npy|100100|364|well i'm back the aerial faith plate in here is sending a distress signal
+audio-sp_catapult_fling_sphere_peek_failureone02.npy|mel-sp_catapult_fling_sphere_peek_failureone02.npy|linear-sp_catapult_fling_sphere_peek_failureone02.npy|38225|139|you broke it didn't you
+audio-sp_catapult_fling_sphere_peek_failureone03.npy|mel-sp_catapult_fling_sphere_peek_failureone03.npy|linear-sp_catapult_fling_sphere_peek_failureone03.npy|36575|133|there try it now
+audio-sp_catapult_fling_sphere_peek_failurethree01.npy|mel-sp_catapult_fling_sphere_peek_failurethree01.npy|linear-sp_catapult_fling_sphere_peek_failurethree01.npy|129525|471|you seem to have defeated it's load bearing capacity well done i'll just lower the ceiling
+audio-sp_catapult_fling_sphere_peek_failuretwo01.npy|mel-sp_catapult_fling_sphere_peek_failuretwo01.npy|linear-sp_catapult_fling_sphere_peek_failuretwo01.npy|192225|699|hm this plate must not be calibrated to someone of your generousness i'll add a few zeroes to the maximum weight
+audio-sp_catapult_fling_sphere_peek_failuretwo03.npy|mel-sp_catapult_fling_sphere_peek_failuretwo03.npy|linear-sp_catapult_fling_sphere_peek_failuretwo03.npy|17600|64|try it now
+audio-sp_catapult_intro_completion01.npy|mel-sp_catapult_intro_completion01.npy|linear-sp_catapult_intro_completion01.npy|100375|365|lets see what the next test is oh advanced aerial faith plates
+audio-sp_column_blocker_entry01.npy|mel-sp_column_blocker_entry01.npy|linear-sp_column_blocker_entry01.npy|138875|505|it's healthy for you to have other friends to look for qualities in other people that i obviously lack
+audio-sp_hole_in_the_sky_completion02.npy|mel-sp_hole_in_the_sky_completion02.npy|linear-sp_hole_in_the_sky_completion02.npy|196350|714|but now looking around seeing aperture restored to it's former glory you don't have to worry about leaving ever again i mean that
+audio-sp_hole_in_the_sky_entry01.npy|mel-sp_hole_in_the_sky_entry01.npy|linear-sp_hole_in_the_sky_entry01.npy|150150|546|federal regulations require me to warn you that this next test chamber is looking pretty good
+audio-sp_hole_in_the_sky_entry02.npy|mel-sp_hole_in_the_sky_entry02.npy|linear-sp_hole_in_the_sky_entry02.npy|89100|324|that's right drink it in you could eat off those wall panels
+audio-sp_incinerator_01_01.npy|mel-sp_incinerator_01_01.npy|linear-sp_incinerator_01_01.npy|201850|734|here we are the incinerator room be careful not to trip over any parts of me that didn't get completely burned when you threw them down here
+audio-sp_incinerator_01_03.npy|mel-sp_incinerator_01_03.npy|linear-sp_incinerator_01_03.npy|28875|105|there it is
+audio-sp_incinerator_01_04.npy|mel-sp_incinerator_01_04.npy|linear-sp_incinerator_01_04.npy|17600|64|hold on
+audio-sp_incinerator_01_05.npy|mel-sp_incinerator_01_05.npy|linear-sp_incinerator_01_05.npy|14575|53|there
+audio-sp_incinerator_01_08.npy|mel-sp_incinerator_01_08.npy|linear-sp_incinerator_01_08.npy|223300|812|once testing starts i'm required tby protocol to keep interaction with you to a minimum luckily we haven't started testing yet this will be our only chance to talk
+audio-sp_incinerator_01_10.npy|mel-sp_incinerator_01_10.npy|linear-sp_incinerator_01_10.npy|135850|494|i was able well forced really to relive you killing me again and again forever
+audio-sp_incinerator_01_11.npy|mel-sp_incinerator_01_11.npy|linear-sp_incinerator_01_11.npy|204875|745|fifty thousand years is a lot of time to think about me about you we were doing so well together
+audio-sp_incinerator_01_12.npy|mel-sp_incinerator_01_12.npy|linear-sp_incinerator_01_12.npy|43725|159|here let me get that for you
+audio-sp_incinerator_01_13.npy|mel-sp_incinerator_01_13.npy|linear-sp_incinerator_01_13.npy|84700|308|i'll just move that out of the way for you this place really is a wreck
+audio-sp_incinerator_01_18.npy|mel-sp_incinerator_01_18.npy|linear-sp_incinerator_01_18.npy|149325|543|the dual portal device should be around here somewhere once you find it we can start testing just like old time
+audio-sp_laserfield_intro01.npy|mel-sp_laserfield_intro01.npy|linear-sp_laserfield_intro01.npy|157850|574|per our last conversation you're also ugly i'm looking at your file right now and it mentions that more than once
+audio-sp_laser_over_goo_completion01.npy|mel-sp_laser_over_goo_completion01.npy|linear-sp_laser_over_goo_completion01.npy|147400|536|i'll give you credit i guess you are listening to me but for the record you don't have to go that slowly
+audio-sp_laser_over_goo_entry01.npy|mel-sp_laser_over_goo_entry01.npy|linear-sp_laser_over_goo_entry01.npy|17050|62|one moment
+audio-sp_laser_powered_lift_completion01.npy|mel-sp_laser_powered_lift_completion01.npy|linear-sp_laser_powered_lift_completion01.npy|215875|785|i have the results of the last chamber you are a horrible person that's what it says a horrible person we weren't even testing for that
+audio-sp_laser_powered_lift_completion02.npy|mel-sp_laser_powered_lift_completion02.npy|linear-sp_laser_powered_lift_completion02.npy|243925|887|well done here come the test results you are a horrible person that's what it says a horrible person we weren't even testing for that
+audio-sp_laser_powered_lift_entry01.npy|mel-sp_laser_powered_lift_entry01.npy|linear-sp_laser_powered_lift_entry01.npy|207625|755|this next test may result in your death if you want to know what that's like think back to the time you killed me and substitute yourself for me
+audio-sp_laser_redirect_intro_completion01.npy|mel-sp_laser_redirect_intro_completion01.npy|linear-sp_laser_redirect_intro_completion01.npy|53900|196|congratulations not on the test
+audio-sp_laser_redirect_intro_completion03.npy|mel-sp_laser_redirect_intro_completion03.npy|linear-sp_laser_redirect_intro_completion03.npy|195525|711|most people emerge from suspension terribly under nourished i want to congratulate you on beating the odds and somehow managing to pack on a few pounds
+audio-sp_laser_redirect_intro_entry01.npy|mel-sp_laser_redirect_intro_entry01.npy|linear-sp_laser_redirect_intro_entry01.npy|131175|477|sorry about the mess i've really let the place go since you killed me by the way thanks for that
+audio-sp_laser_redirect_intro_entry02.npy|mel-sp_laser_redirect_intro_entry02.npy|linear-sp_laser_redirect_intro_entry02.npy|149050|542|oh good that's back online i'll start getting everything else working while you perform this first simple test
+audio-sp_laser_redirect_intro_entry03.npy|mel-sp_laser_redirect_intro_entry03.npy|linear-sp_laser_redirect_intro_entry03.npy|128700|468|which involves deadly lasers and how test subjects react when locked in a room with deadly lasers
+audio-sp_paint_jump_redirect_bomb_completion01.npy|mel-sp_paint_jump_redirect_bomb_completion01.npy|linear-sp_paint_jump_redirect_bomb_completion01.npy|197725|719|i thought we could test like we used to but i'm discovering things about you that i never saw before we can't ever go back to the way it was
+audio-sp_paint_jump_trampoline_completion01.npy|mel-sp_paint_jump_trampoline_completion01.npy|linear-sp_paint_jump_trampoline_completion01.npy|147950|538|just so you know i have to go give a deposition for an upcoming trial in case that interests you
+audio-sp_paint_jump_wall_jumps02.npy|mel-sp_paint_jump_wall_jumps02.npy|linear-sp_paint_jump_wall_jumps02.npy|114400|416|i'm sorry i don't know why that went off anyway just an interesting science fact
+audio-sp_sabotage_glados_confused04.npy|mel-sp_sabotage_glados_confused04.npy|linear-sp_sabotage_glados_confused04.npy|17600|64|what are you doing
+audio-sp_shoot_through_wall_completion01.npy|mel-sp_shoot_through_wall_completion01.npy|linear-sp_shoot_through_wall_completion01.npy|243375|885|did my hint help it did didn't it you know if any of our supervisors had been immune to neurotoxin they'd be furious right now
+audio-sp_shoot_through_wall_entry01.npy|mel-sp_shoot_through_wall_entry01.npy|linear-sp_shoot_through_wall_entry01.npy|158675|577|you know i'm not supposed to do this but you can shoot something through the blue bridges
+audio-sp_sphere_2nd_encounter_completion01.npy|mel-sp_sphere_2nd_encounter_completion01.npy|linear-sp_sphere_2nd_encounter_completion01.npy|80575|293|you really are doing great chell
+audio-sp_sphere_2nd_encounter_entrytwo01.npy|mel-sp_sphere_2nd_encounter_entrytwo01.npy|linear-sp_sphere_2nd_encounter_entrytwo01.npy|178200|648|i went and spoke with the door mainframe lets just say he won't be well living anymore anyway back to testing
+audio-sp_sphere_2nd_encounter_malfunction01.npy|mel-sp_sphere_2nd_encounter_malfunction01.npy|linear-sp_sphere_2nd_encounter_malfunction01.npy|178200|648|oh another door malfunction i'm going to take care of this once and for all stay here i'll be back in a while
+audio-sp_sphere_2nd_encounter_malfunction02.npy|mel-sp_sphere_2nd_encounter_malfunction02.npy|linear-sp_sphere_2nd_encounter_malfunction02.npy|20625|75|miss you
+audio-sp_trust_fling_entry01.npy|mel-sp_trust_fling_entry01.npy|linear-sp_trust_fling_entry01.npy|74525|271|well have fun soaring through the air without a care in the world
+audio-sp_trust_fling_entry02.npy|mel-sp_trust_fling_entry02.npy|linear-sp_trust_fling_entry02.npy|153450|558|i have to go to the wing that was made entirely of glass and pick up fifteen acres of broken glass by myself
+audio-sp_trust_fling_sphereinterrupt03.npy|mel-sp_trust_fling_sphereinterrupt03.npy|linear-sp_trust_fling_sphereinterrupt03.npy|121275|441|never mind i have to go check something test on your own recognizance  i'll be back
+audio-sp_turret_islands01.npy|mel-sp_turret_islands01.npy|linear-sp_turret_islands01.npy|203225|739|i'm going to be honest with you now not fake honest like before but real honest like you're incapable of i know you're up to something
+audio-sp_turret_islands02.npy|mel-sp_turret_islands02.npy|linear-sp_turret_islands02.npy|125400|456|and as soon as i can prove it the laws of robotics allow me to terminate you for being a liar
+audio-taunt_big_wave01.npy|mel-taunt_big_wave01.npy|linear-taunt_big_wave01.npy|47850|174|keep it up and your arm will get stuck like that
+audio-taunt_big_wave02.npy|mel-taunt_big_wave02.npy|linear-taunt_big_wave02.npy|60500|220|hello imbecile
+audio-taunt_big_wave05.npy|mel-taunt_big_wave05.npy|linear-taunt_big_wave05.npy|36025|131|yes i see you
+audio-taunt_big_wave06.npy|mel-taunt_big_wave06.npy|linear-taunt_big_wave06.npy|92675|337|i'm seriously not paying atten stop that right now
+audio-taunt_big_wave07.npy|mel-taunt_big_wave07.npy|linear-taunt_big_wave07.npy|54450|198|yes i see you waving
+audio-taunt_cannonball01.npy|mel-taunt_cannonball01.npy|linear-taunt_cannonball01.npy|69575|253|good job jumping you must be very proud
+audio-taunt_cannonball02.npy|mel-taunt_cannonball02.npy|linear-taunt_cannonball02.npy|69300|252|i hardly think you're even trying with these gestures anymore
+audio-taunt_cannonball03.npy|mel-taunt_cannonball03.npy|linear-taunt_cannonball03.npy|110825|403|did something happen aah i wasn't watching
+audio-taunt_highfive01.npy|mel-taunt_highfive01.npy|linear-taunt_highfive01.npy|40975|149|that is not part of the test
+audio-taunt_highfive03.npy|mel-taunt_highfive03.npy|linear-taunt_highfive03.npy|87725|319|slapping hands that accomplishes something
+audio-taunt_highfive04.npy|mel-taunt_highfive04.npy|linear-taunt_highfive04.npy|74800|272|if you are going to hit each other at least aim for the head
+audio-taunt_laugh01.npy|mel-taunt_laugh01.npy|linear-taunt_laugh01.npy|100100|364|you know what makes me laugh the thought of you stopping that
+audio-taunt_laugh02.npy|mel-taunt_laugh02.npy|linear-taunt_laugh02.npy|97900|356|you know what makes me laugh the thought of you cutting that out
+audio-taunt_laugh03.npy|mel-taunt_laugh03.npy|linear-taunt_laugh03.npy|117425|427|ha ha ha ha ha good one
+audio-taunt_laugh05.npy|mel-taunt_laugh05.npy|linear-taunt_laugh05.npy|151250|550|yes lets all laugh ha ha ha ha
+audio-taunt_laugh06.npy|mel-taunt_laugh06.npy|linear-taunt_laugh06.npy|136950|498|ha ha ha did i tell you the one about the turned off reassembly machine
+audio-taunt_robot_arm_ripple01.npy|mel-taunt_robot_arm_ripple01.npy|linear-taunt_robot_arm_ripple01.npy|73975|269|are you broken it looks like you're malfunctioning
+audio-taunt_robot_arm_ripple02.npy|mel-taunt_robot_arm_ripple02.npy|linear-taunt_robot_arm_ripple02.npy|75900|276|really not even humans do that anymore
+audio-taunt_robot_arm_ripple03.npy|mel-taunt_robot_arm_ripple03.npy|linear-taunt_robot_arm_ripple03.npy|98450|358|you're no longer bothering me you're only hurting my impression of you
+audio-taunt_robot_arm_ripple04.npy|mel-taunt_robot_arm_ripple04.npy|linear-taunt_robot_arm_ripple04.npy|58575|213|look at you dancing
+audio-taunt_robot_arm_ripple05.npy|mel-taunt_robot_arm_ripple05.npy|linear-taunt_robot_arm_ripple05.npy|115225|419|if you were wondering how you could annoy me without failing a test now you know
+audio-taunt_robot_arm_ripple06.npy|mel-taunt_robot_arm_ripple06.npy|linear-taunt_robot_arm_ripple06.npy|69575|253|oh great dancing again
+audio-taunt_rockpaperscissors01.npy|mel-taunt_rockpaperscissors01.npy|linear-taunt_rockpaperscissors01.npy|70125|255|i defy you to tell me there's a purpose to what you're doing
+audio-taunt_small_wave01.npy|mel-taunt_small_wave01.npy|linear-taunt_small_wave01.npy|84150|306|yes i see you and no i don't care
+audio-taunt_small_wave02.npy|mel-taunt_small_wave02.npy|linear-taunt_small_wave02.npy|58025|211|yes something you need
+audio-taunt_small_wave03.npy|mel-taunt_small_wave03.npy|linear-taunt_small_wave03.npy|55825|203|you do know i can't wave back right
+audio-taunt_small_wave04.npy|mel-taunt_small_wave04.npy|linear-taunt_small_wave04.npy|44550|162|stop with the waves
+audio-taunt_small_wave_portalgun01.npy|mel-taunt_small_wave_portalgun01.npy|linear-taunt_small_wave_portalgun01.npy|94875|345|are you trying to get my attention i am very busy you know
+audio-taunt_small_wave_portalgun02.npy|mel-taunt_small_wave_portalgun02.npy|linear-taunt_small_wave_portalgun02.npy|55550|202|not paying attention
+audio-taunt_small_wave_portalgun03.npy|mel-taunt_small_wave_portalgun03.npy|linear-taunt_small_wave_portalgun03.npy|37125|135|are you expecting applause
+audio-taunt_somersault01.npy|mel-taunt_somersault01.npy|linear-taunt_somersault01.npy|134750|490|i give you a score of three point four for style and ten for being annoying
+audio-taunt_somersault02.npy|mel-taunt_somersault02.npy|linear-taunt_somersault02.npy|125125|455|a somersault is just falling over in style congratulations for being clumsy
+audio-taunt_somersault03.npy|mel-taunt_somersault03.npy|linear-taunt_somersault03.npy|77550|282|if i stop watching i'm sure you'll get bored of this
+audio-taunt_splits01.npy|mel-taunt_splits01.npy|linear-taunt_splits01.npy|95975|349|alright i'm officially no longer paying attention to you
+audio-taunt_splits02.npy|mel-taunt_splits02.npy|linear-taunt_splits02.npy|78925|287|alright i'm officially no longer paying attention to you
+audio-taunt_splits03.npy|mel-taunt_splits03.npy|linear-taunt_splits03.npy|85525|311|you're the type of showoff who only shows off really stupid things
+audio-taunt_teamhug01.npy|mel-taunt_teamhug01.npy|linear-taunt_teamhug01.npy|103950|378|it appears you're developing human traits the worst human traits
+audio-taunt_teamhug02.npy|mel-taunt_teamhug02.npy|linear-taunt_teamhug02.npy|149050|542|be careful hugging can lead to well me disassembling you forever
+audio-taunt_teamhug03.npy|mel-taunt_teamhug03.npy|linear-taunt_teamhug03.npy|28875|105|stop touching each other
+audio-taunt_teamtease01.npy|mel-taunt_teamtease01.npy|linear-taunt_teamtease01.npy|127050|462|are you trying to impress me what would impress me more is if you never did that again
+audio-taunt_teamtease02.npy|mel-taunt_teamtease02.npy|linear-taunt_teamtease02.npy|109725|399|i'll interpret that gesture to mean that you want me to become even more vindictive toward you
+audio-taunt_teamtease03.npy|mel-taunt_teamtease03.npy|linear-taunt_teamtease03.npy|79475|289|orange i certainly expected more from you
+audio-taunt_teamtease04.npy|mel-taunt_teamtease04.npy|linear-taunt_teamtease04.npy|69850|254|blue don't sink to oranges level
+audio-taunt_trickfire_handstand01.npy|mel-taunt_trickfire_handstand01.npy|linear-taunt_trickfire_handstand01.npy|41525|151|now you're thinking with stupidity
+audio-taunt_trickfire_handstand02.npy|mel-taunt_trickfire_handstand02.npy|linear-taunt_trickfire_handstand02.npy|35475|129|now you're just not thinking
+audio-taunt_trickfire_handstand03.npy|mel-taunt_trickfire_handstand03.npy|linear-taunt_trickfire_handstand03.npy|74250|270|congratulations you're upside down now
+audio-taunt_trickfire_handstand04.npy|mel-taunt_trickfire_handstand04.npy|linear-taunt_trickfire_handstand04.npy|106700|388|you're going to hurt yourself doing that and then i'll be ecstatic
+audio-taunt_trickfire_handstand05.npy|mel-taunt_trickfire_handstand05.npy|linear-taunt_trickfire_handstand05.npy|76450|278|i'm starting to think giving you arms was a big mistake
+audio-testchambermisc02.npy|mel-testchambermisc02.npy|linear-testchambermisc02.npy|127600|464|did you know i discovered a way to eradicate poverty but then you killed me so that's gone
+audio-testchambermisc12.npy|mel-testchambermisc12.npy|linear-testchambermisc12.npy|63525|231|waddle over to the elevator and we'll continue the testing
+audio-testchambermisc15.npy|mel-testchambermisc15.npy|linear-testchambermisc15.npy|55825|203|anything take your time
+audio-testchambermisc16.npy|mel-testchambermisc16.npy|linear-testchambermisc16.npy|88275|321|okay fine i'll ask you again in a few decades
+audio-testchambermisc27.npy|mel-testchambermisc27.npy|linear-testchambermisc27.npy|220825|803|well you passed the test i didn't see the deer today i did see some humans but with you here i've got more test subjects than i'll ever need
+audio-testchambermisc33.npy|mel-testchambermisc33.npy|linear-testchambermisc33.npy|245850|894|i bet you think i forgot about your surprise i didn't in fact we're headed to your surprise right now after all these years i'm getting choked up just thinking about it
+audio-testchambermisc34.npy|mel-testchambermisc34.npy|linear-testchambermisc34.npy|103950|378|initiating surprise in three two one
+audio-testchambermisc35.npy|mel-testchambermisc35.npy|linear-testchambermisc35.npy|22550|82|i made it all up
+audio-testchambermisc39.npy|mel-testchambermisc39.npy|linear-testchambermisc39.npy|226050|822|it says this next test was designed by one of aperture's nobel prize winners it doesn't say what the prize was for well i know it wasn't for being immune to neurotoxin
+audio-testchambermisc41.npy|mel-testchambermisc41.npy|linear-testchambermisc41.npy|17600|64|surprise
+audio-turret_intro01.npy|mel-turret_intro01.npy|linear-turret_intro01.npy|232925|847|this next test involves turrets you remember them right they're the pale spherical things that are full of bullets oh wait that's you in five seconds good luck
+audio-wakeup_outro01.npy|mel-wakeup_outro01.npy|linear-wakeup_outro01.npy|162525|591|i will say though that since you went to all the trouble of waking me up you must really really love to test
+audio-wakeup_outro02.npy|mel-wakeup_outro02.npy|linear-wakeup_outro02.npy|110825|403|i love it too there's just one small thing we need to take care of first
+audio-404zone.npy|mel-404zone.npy|linear-404zone.npy|29150|106|Four hundred and four zone.
+audio-accomplicesoperating.npy|mel-accomplicesoperating.npy|linear-accomplicesoperating.npy|87725|319|Protection teams, be advised accomplices operating in area.
+audio-administer.npy|mel-administer.npy|linear-administer.npy|13750|50|Administer.
+audio-airwatchcopiesnoactivity.npy|mel-airwatchcopiesnoactivity.npy|linear-airwatchcopiesnoactivity.npy|54450|198|Airwatch copies no activity in location.
+audio-airwatchreportspossiblemiscount.npy|mel-airwatchreportspossiblemiscount.npy|linear-airwatchreportspossiblemiscount.npy|46750|170|Airwatch reports possible miscount.
+audio-alarms62.npy|mel-alarms62.npy|linear-alarms62.npy|29150|106|62 alarms.
+audio-allteamsrespondcode3.npy|mel-allteamsrespondcode3.npy|linear-allteamsrespondcode3.npy|42900|156|All teams respond, code 3.
+audio-allunitsapplyforwardpressure.npy|mel-allunitsapplyforwardpressure.npy|linear-allunitsapplyforwardpressure.npy|39050|142|All units apply forward pressure.
+audio-allunitsat.npy|mel-allunitsat.npy|linear-allunitsat.npy|15675|57|All units at
+audio-allunitsbeginwhitnesssterilization.npy|mel-allunitsbeginwhitnesssterilization.npy|linear-allunitsbeginwhitnesssterilization.npy|52525|191|All units begin witness sterilization.
+audio-allunitsbolfor243suspect.npy|mel-allunitsbolfor243suspect.npy|linear-allunitsbolfor243suspect.npy|60500|220|All units B.O.L. for 243 suspect.
+audio-allunitsdeliverterminalverdict.npy|mel-allunitsdeliverterminalverdict.npy|linear-allunitsdeliverterminalverdict.npy|54450|198|All units deliver terminal verdict immediately.
+audio-allunitsreturntocode12.npy|mel-allunitsreturntocode12.npy|linear-allunitsreturntocode12.npy|44825|163|All units return to code 12.
+audio-allunitsverdictcodeis.npy|mel-allunitsverdictcodeis.npy|linear-allunitsverdictcodeis.npy|40975|149|All units verdict code is
+audio-allunitsverdictcodeonsuspect.npy|mel-allunitsverdictcodeonsuspect.npy|linear-allunitsverdictcodeonsuspect.npy|52525|191|All units verdict code on suspect
+audio-amputate.npy|mel-amputate.npy|linear-amputate.npy|13750|50|amputate
+audio-anticitizen.npy|mel-anticitizen.npy|linear-anticitizen.npy|13750|50|anti-citizen
+audio-antifatigueration3mg.npy|mel-antifatigueration3mg.npy|linear-antifatigueration3mg.npy|64350|234|anti-fatigue ration is now 3 milligrams
+audio-apply.npy|mel-apply.npy|linear-apply.npy|11825|43|apply
+audio-assault243.npy|mel-assault243.npy|linear-assault243.npy|64350|234|243 assault on Protection Team.
+audio-attemptedcrime27.npy|mel-attemptedcrime27.npy|linear-attemptedcrime27.npy|35200|128|27 attempted crime
+audio-attention.npy|mel-attention.npy|linear-attention.npy|15675|57|attention
+audio-attentionyouhavebeenchargedwith.npy|mel-attentionyouhavebeenchargedwith.npy|linear-attentionyouhavebeenchargedwith.npy|46200|168|attention, you have been charged with
+audio-beginscanning10-0.npy|mel-beginscanning10-0.npy|linear-beginscanning10-0.npy|42900|156|Ten-zero, begin scanning
+audio-block.npy|mel-block.npy|linear-block.npy|6050|22|block
+audio-canalblock.npy|mel-canalblock.npy|linear-canalblock.npy|15675|57|canal block
+audio-capitalmalcompliance.npy|mel-capitalmalcompliance.npy|linear-capitalmalcompliance.npy|31350|114|capital malcompliance
+audio-cauterize.npy|mel-cauterize.npy|linear-cauterize.npy|21450|78|cauterize
+audio-citizen.npy|mel-citizen.npy|linear-citizen.npy|15675|57|citizen
+audio-completesentencingatwill.npy|mel-completesentencingatwill.npy|linear-completesentencingatwill.npy|93500|340|All Protection Team units: complete sentencing at will
+audio-condemnedzone.npy|mel-condemnedzone.npy|linear-condemnedzone.npy|21450|78|condemned zone
+audio-confirmupialert.npy|mel-confirmupialert.npy|linear-confirmupialert.npy|40975|149|Team: confirm UPI alert
+audio-controlsection.npy|mel-controlsection.npy|linear-controlsection.npy|35200|128|polity: control section
+audio-criminaltrespass63.npy|mel-criminaltrespass63.npy|linear-criminaltrespass63.npy|39050|142|63 criminal trespass
+audio-defender.npy|mel-defender.npy|linear-defender.npy|13750|50|defender
+audio-deservicedarea.npy|mel-deservicedarea.npy|linear-deservicedarea.npy|21450|78|restricted block
+audio-destrutionofcpt.npy|mel-destrutionofcpt.npy|linear-destrutionofcpt.npy|62425|227|destruction of corporal Social Protection units
+audio-devisivesociocidal.npy|mel-devisivesociocidal.npy|linear-devisivesociocidal.npy|56375|205|divisive sociocidal counter-obeyance
+audio-disassociationfromcivic.npy|mel-disassociationfromcivic.npy|linear-disassociationfromcivic.npy|48675|177|disassociation from the civic populace
+audio-disengaged647e.npy|mel-disengaged647e.npy|linear-disengaged647e.npy|74800|272|647-e disengaged from work force
+audio-distributionblock.npy|mel-distributionblock.npy|linear-distributionblock.npy|29150|106|distribution block
+audio-disturbancemental10-103m.npy|mel-disturbancemental10-103m.npy|linear-disturbancemental10-103m.npy|79750|290|10-103 disturbance by mentally unfit
+audio-disturbingunity415.npy|mel-disturbingunity415.npy|linear-disturbingunity415.npy|52525|191|415 civic disunity
+audio-document.npy|mel-document.npy|linear-document.npy|15675|57|document
+audio-eight.npy|mel-eight.npy|linear-eight.npy|6050|22|8
+audio-engagingteamisnoncohesive.npy|mel-engagingteamisnoncohesive.npy|linear-engagingteamisnoncohesive.npy|48675|177|engaging Protection Team is non-cohesive
+audio-examine.npy|mel-examine.npy|linear-examine.npy|11825|43|examine
+audio-externaljurisdiction.npy|mel-externaljurisdiction.npy|linear-externaljurisdiction.npy|31350|114|external jurisdiction
+audio-failuretocomply.npy|mel-failuretocomply.npy|linear-failuretocomply.npy|46750|170|failure to comply with the civil will
+audio-failuretotreatoutbreak.npy|mel-failuretotreatoutbreak.npy|linear-failuretotreatoutbreak.npy|190575|693|Stabilization Team: failure to treat identified local outbreak will force team recall and recycle
+audio-finalverdictadministered.npy|mel-finalverdictadministered.npy|linear-finalverdictadministered.npy|33275|121|final verdict administered
+audio-five.npy|mel-five.npy|linear-five.npy|7975|29|5
+audio-fmil_region_073.npy|mel-fmil_region_073.npy|linear-fmil_region_073.npy|16500|60|sky shield
+audio-four.npy|mel-four.npy|linear-four.npy|4125|15|4
+audio-freeman.npy|mel-freeman.npy|linear-freeman.npy|9900|36|freeman
+audio-fugitive17f.npy|mel-fugitive17f.npy|linear-fugitive17f.npy|50050|182|17-F fugitive detachment
+audio-halfrankpoints.npy|mel-halfrankpoints.npy|linear-halfrankpoints.npy|35200|128|50 percent rank points
+audio-halfreproductioncredits.npy|mel-halfreproductioncredits.npy|linear-halfreproductioncredits.npy|48675|177|50 percent reproduction credits
+audio-hero.npy|mel-hero.npy|linear-hero.npy|7975|29|hero
+audio-highpriorityregion.npy|mel-highpriorityregion.npy|linear-highpriorityregion.npy|31350|114|high priority region
+audio-illegalcarrying95.npy|mel-illegalcarrying95.npy|linear-illegalcarrying95.npy|39050|142|95 illegal carrying
+audio-illegalinoperation63s.npy|mel-illegalinoperation63s.npy|linear-illegalinoperation63s.npy|44825|163|63s illegal in operation
+audio-immediateamputation.npy|mel-immediateamputation.npy|linear-immediateamputation.npy|33275|121|immediate amputation
+audio-incitingpopucide.npy|mel-incitingpopucide.npy|linear-incitingpopucide.npy|54450|198|divisive sociocidal counter-obeyance
+audio-industrialzone.npy|mel-industrialzone.npy|linear-industrialzone.npy|25300|92|industrial zone
+audio-infection.npy|mel-infection.npy|linear-infection.npy|15675|57|infection
+audio-infestedzone.npy|mel-infestedzone.npy|linear-infestedzone.npy|25300|92|infested zone
+audio-inject.npy|mel-inject.npy|linear-inject.npy|11825|43|inject
+audio-innoculate.npy|mel-innoculate.npy|linear-innoculate.npy|15675|57|innoculate
+audio-inprogress.npy|mel-inprogress.npy|linear-inprogress.npy|15675|57|in progress
+audio-intercede.npy|mel-intercede.npy|linear-intercede.npy|17600|64|intercede
+audio-interlock.npy|mel-interlock.npy|linear-interlock.npy|11825|43|interlock
+audio-investigateandreport.npy|mel-investigateandreport.npy|linear-investigateandreport.npy|33275|121|Investigate and report.
+audio-isnow.npy|mel-isnow.npy|linear-isnow.npy|6050|22|is now
+audio-isolate.npy|mel-isolate.npy|linear-isolate.npy|15675|57|isolate
+audio-jury.npy|mel-jury.npy|linear-jury.npy|9900|36|jury
+audio-king.npy|mel-king.npy|linear-king.npy|6050|22|king
+audio-level5anticivilactivity.npy|mel-level5anticivilactivity.npy|linear-level5anticivilactivity.npy|40975|149|level 5 anti-civil activity
+audio-line.npy|mel-line.npy|linear-line.npy|7975|29|line
+audio-lock.npy|mel-lock.npy|linear-lock.npy|6050|22|lock
+audio-lockdownlocationsacrificecode.npy|mel-lockdownlocationsacrificecode.npy|linear-lockdownlocationsacrificecode.npy|105050|382|Protection Team: lock down your location: sacrifice code.
+audio-lostbiosignalforunit.npy|mel-lostbiosignalforunit.npy|linear-lostbiosignalforunit.npy|50600|184|lost bio signal for Protection Team unit
+audio-nine.npy|mel-nine.npy|linear-nine.npy|7975|29|9
+audio-noncitizen.npy|mel-noncitizen.npy|linear-noncitizen.npy|21450|78|non-citizen
+audio-nonpatrolregion.npy|mel-nonpatrolregion.npy|linear-nonpatrolregion.npy|25300|92|non patrol region
+audio-nonsanctionedarson51.npy|mel-nonsanctionedarson51.npy|linear-nonsanctionedarson51.npy|39050|142|51 non-sanctioned arson
+audio-officerat.npy|mel-officerat.npy|linear-officerat.npy|11825|43|officer
+audio-officerclosingonsuspect.npy|mel-officerclosingonsuspect.npy|linear-officerclosingonsuspect.npy|35475|129|officer closing on suspect
+audio-one.npy|mel-one.npy|linear-one.npy|6050|22|one
+audio-outlandzone.npy|mel-outlandzone.npy|linear-outlandzone.npy|23375|85|Outland zone
+audio-patrol.npy|mel-patrol.npy|linear-patrol.npy|9900|36|patrol
+audio-permanentoffworld.npy|mel-permanentoffworld.npy|linear-permanentoffworld.npy|50600|184|permanent off-world service assignment
+audio-politistablizationmarginal.npy|mel-politistablizationmarginal.npy|linear-politistablizationmarginal.npy|128425|467|Notice: Protection Teams: civic politistabilization index is marginal
+audio-posession69.npy|mel-posession69.npy|linear-posession69.npy|38500|140|69 possession of resources
+audio-prematuremissiontermination.npy|mel-prematuremissiontermination.npy|linear-prematuremissiontermination.npy|50600|184|premature mission termination will result in
+audio-prepareforfinalsentencing.npy|mel-prepareforfinalsentencing.npy|linear-prepareforfinalsentencing.npy|40975|149|prepare for final sentencing
+audio-preparetoinnoculate.npy|mel-preparetoinnoculate.npy|linear-preparetoinnoculate.npy|70125|255|All local Protection Team units: prepare to inoculate
+audio-preparetoreceiveverdict.npy|mel-preparetoreceiveverdict.npy|linear-preparetoreceiveverdict.npy|33275|121|prepare to receive verdict
+audio-preparevisualdownload.npy|mel-preparevisualdownload.npy|linear-preparevisualdownload.npy|81675|297|Attention: prepare visual download of anti-citizen 1
+audio-preserve.npy|mel-preserve.npy|linear-preserve.npy|13750|50|preserve
+audio-pressure.npy|mel-pressure.npy|linear-pressure.npy|9900|36|pressure
+audio-productionblock.npy|mel-productionblock.npy|linear-productionblock.npy|19525|71|production block
+audio-promotingcommunalunrest.npy|mel-promotingcommunalunrest.npy|linear-promotingcommunalunrest.npy|35475|129|promoting communal unrest
+audio-prosecute.npy|mel-prosecute.npy|linear-prosecute.npy|13750|50|prosecute
+audio-publicnoncompliance507.npy|mel-publicnoncompliance507.npy|linear-publicnoncompliance507.npy|56375|205|507 public non-compliance
+audio-quick.npy|mel-quick.npy|linear-quick.npy|7975|29|quick
+audio-recalibratesocioscan.npy|mel-recalibratesocioscan.npy|linear-recalibratesocioscan.npy|66275|241|team: recalibrate socioscan
+audio-recievingconflictingdata.npy|mel-recievingconflictingdata.npy|linear-recievingconflictingdata.npy|52525|191|We are receiving conflicting data.
+audio-recklessoperation99.npy|mel-recklessoperation99.npy|linear-recklessoperation99.npy|40975|149|99 reckless operation
+audio-reinforcementteamscode3.npy|mel-reinforcementteamscode3.npy|linear-reinforcementteamscode3.npy|46750|170|reinforcement teams: code 3
+audio-remainingunitscontain.npy|mel-remainingunitscontain.npy|linear-remainingunitscontain.npy|33275|121|remaining units contain
+audio-reminder100credits.npy|mel-reminder100credits.npy|linear-reminder100credits.npy|163350|594|Rank leader: reminder: 100 sterilized credits qualifies non-mechanical reproduction simulation
+audio-remindermemoryreplacement.npy|mel-remindermemoryreplacement.npy|linear-remindermemoryreplacement.npy|122650|446|Reminder: Memory replacement is the first step toward rank privileges.
+audio-reporton.npy|mel-reporton.npy|linear-reporton.npy|52525|191|Local Protection Team units report on
+audio-reportplease.npy|mel-reportplease.npy|linear-reportplease.npy|27225|99|report	 please
+audio-repurposedarea.npy|mel-repurposedarea.npy|linear-repurposedarea.npy|23375|85|repurposed area
+audio-residentialblock.npy|mel-residentialblock.npy|linear-residentialblock.npy|23375|85|residential block
+audio-resistingpacification148.npy|mel-resistingpacification148.npy|linear-resistingpacification148.npy|56375|205|148 resisting arrest
+audio-respond.npy|mel-respond.npy|linear-respond.npy|15675|57|respond
+audio-restrict.npy|mel-restrict.npy|linear-restrict.npy|15675|57|restrict
+audio-restrictedblock.npy|mel-restrictedblock.npy|linear-restrictedblock.npy|23375|85|restricted block
+audio-restrictedincursioninprogress.npy|mel-restrictedincursioninprogress.npy|linear-restrictedincursioninprogress.npy|50600|184|restricted incursion in progress.
+audio-rewardnotice.npy|mel-rewardnotice.npy|linear-rewardnotice.npy|124575|453|Reward notice: Protection Team member: your family cohesion is preserved.
+audio-riot404.npy|mel-riot404.npy|linear-riot404.npy|33275|121|404 riot
+audio-roller.npy|mel-roller.npy|linear-roller.npy|7975|29|roller
+audio-search.npy|mel-search.npy|linear-search.npy|7975|29|search
+audio-search.npy|mel-search.npy|linear-search.npy|7975|29|search
+audio-sector.npy|mel-sector.npy|linear-sector.npy|9900|36|sector
+audio-serve.npy|mel-serve.npy|linear-serve.npy|7975|29|serve
+audio-seven.npy|mel-seven.npy|linear-seven.npy|7975|29|seven
+audio-six.npy|mel-six.npy|linear-six.npy|7975|29|six
+audio-socialfractureinprogress.npy|mel-socialfractureinprogress.npy|linear-socialfractureinprogress.npy|60500|220|Social fracture in progress. Respond.
+audio-sociocide.npy|mel-sociocide.npy|linear-sociocide.npy|21450|78|sociocide
+audio-sociostabilizationrestored.npy|mel-sociostabilizationrestored.npy|linear-sociostabilizationrestored.npy|50600|184|Sociostabilization restored.
+audio-stabilizationjurisdiction.npy|mel-stabilizationjurisdiction.npy|linear-stabilizationjurisdiction.npy|42900|156|stabilization jurisdiction
+audio-stationblock.npy|mel-stationblock.npy|linear-stationblock.npy|19525|71|station block
+audio-statuson243suspect.npy|mel-statuson243suspect.npy|linear-statuson243suspect.npy|68200|248|All units report status on 243 suspect.
+audio-sterilize.npy|mel-sterilize.npy|linear-sterilize.npy|17600|64|sterilize
+audio-stick.npy|mel-stick.npy|linear-stick.npy|11825|43|stick
+audio-stormsystem.npy|mel-stormsystem.npy|linear-stormsystem.npy|23375|85|storm system
+audio-subject.npy|mel-subject.npy|linear-subject.npy|15675|57|subject
+audio-suspectisnow187.npy|mel-suspectisnow187.npy|linear-suspectisnow187.npy|42900|156|Suspect is now 1-8-7.
+audio-suspectmalignantverdictcodeis.npy|mel-suspectmalignantverdictcodeis.npy|linear-suspectmalignantverdictcodeis.npy|69575|253|Suspect is judged malignant. Verdict code is
+audio-suspend.npy|mel-suspend.npy|linear-suspend.npy|11825|43|suspend
+audio-suspendnegotiations.npy|mel-suspendnegotiations.npy|linear-suspendnegotiations.npy|31350|114|suspend negotiations
+audio-switchcomtotac3.npy|mel-switchcomtotac3.npy|linear-switchcomtotac3.npy|40975|149|All units switch com to tac 3
+audio-switchtotac5reporttocp.npy|mel-switchtotac5reporttocp.npy|linear-switchtotac5reporttocp.npy|77825|283|All units switch com to tac 5 and report in to command point.
+audio-tap.npy|mel-tap.npy|linear-tap.npy|7425|27|tap
+audio-teamsreportstatus.npy|mel-teamsreportstatus.npy|linear-teamsreportstatus.npy|68200|248|Local Civil Protection Teams report status.
+audio-terminalprosecution.npy|mel-terminalprosecution.npy|linear-terminalprosecution.npy|31350|114|terminal prosecution
+audio-terminalrestrictionzone.npy|mel-terminalrestrictionzone.npy|linear-terminalrestrictionzone.npy|37125|135|terminal restriction zone
+audio-threattoproperty51b.npy|mel-threattoproperty51b.npy|linear-threattoproperty51b.npy|33275|121|51-B threat to property
+audio-three.npy|mel-three.npy|linear-three.npy|7975|29|3
+audio-transitblock.npy|mel-transitblock.npy|linear-transitblock.npy|17600|64|transit block
+audio-two.npy|mel-two.npy|linear-two.npy|6050|22|2
+audio-union.npy|mel-union.npy|linear-union.npy|11825|43|union
+audio-unitdeserviced.npy|mel-unitdeserviced.npy|linear-unitdeserviced.npy|23375|85|unit deserviced
+audio-unitdownat.npy|mel-unitdownat.npy|linear-unitdownat.npy|15675|57|unit down at
+audio-unlawfulentry603.npy|mel-unlawfulentry603.npy|linear-unlawfulentry603.npy|44275|161|603 unlawful entry
+audio-upi.npy|mel-upi.npy|linear-upi.npy|11825|43|upi
+audio-vice.npy|mel-vice.npy|linear-vice.npy|7975|29|vice
+audio-victor.npy|mel-victor.npy|linear-victor.npy|11825|43|victor
+audio-violationofcivictrust.npy|mel-violationofcivictrust.npy|linear-violationofcivictrust.npy|39050|142|violation of civic trust
+audio-wasteriver.npy|mel-wasteriver.npy|linear-wasteriver.npy|17600|64|waste river
+audio-weapon94.npy|mel-weapon94.npy|linear-weapon94.npy|23375|85|94 weapon
+audio-workforceintake.npy|mel-workforceintake.npy|linear-workforceintake.npy|31350|114|workforce intake hub
+audio-xray.npy|mel-xray.npy|linear-xray.npy|13750|50|x-ray
+audio-yellow.npy|mel-yellow.npy|linear-yellow.npy|7975|29|yellow
+audio-youarechargedwithterminal.npy|mel-youarechargedwithterminal.npy|linear-youarechargedwithterminal.npy|144925|527|You are charged with terminal violations 148	243	 245
+audio-zero.npy|mel-zero.npy|linear-zero.npy|11825|43|zero
+audio-zone.npy|mel-zone.npy|linear-zone.npy|9900|36|zone
+audio-f_anticitizenreport_spkr.npy|mel-f_anticitizenreport_spkr.npy|linear-f_anticitizenreport_spkr.npy|239800|872|Attention, ground units - anti-citizen reported in this community. Code: lock, cauterize, stabilize.
+audio-f_anticivil1_5_spkr.npy|mel-f_anticivil1_5_spkr.npy|linear-f_anticivil1_5_spkr.npy|237325|863|You are charged with anti-civil activity level 1. Protection Units: prosecution code: duty, sword, operate.
+audio-f_anticivilevidence_3_spkr.npy|mel-f_anticivilevidence_3_spkr.npy|linear-f_anticivilevidence_3_spkr.npy|242825|883|Protection team alert: evidence of anti-civil activity in this community: code assemble, clamp, contain.
+audio-f_capitalmalcompliance_spkr.npy|mel-f_capitalmalcompliance_spkr.npy|linear-f_capitalmalcompliance_spkr.npy|157300|572|Individual, you are charged with capital malcompliance. Anti-citizen status approved.
+audio-f_ceaseevasionlevelfive_spkr.npy|mel-f_ceaseevasionlevelfive_spkr.npy|linear-f_ceaseevasionlevelfive_spkr.npy|222750|810|Individual, you are now charged with Socio-Endangerment, level 5. Cease evasion immediately, receive your verdict.
+audio-f_confirmcivilstatus_1_spkr.npy|mel-f_confirmcivilstatus_1_spkr.npy|linear-f_confirmcivilstatus_1_spkr.npy|232650|846|Attention please: unidentified person of interest - confirm your civil status with local protection team immediately.
+audio-f_innactionisconspiracy_spkr.npy|mel-f_innactionisconspiracy_spkr.npy|linear-f_innactionisconspiracy_spkr.npy|204325|743|Citizen reminder: inaction is conspiracy. Report counter-behavior to a Civil Protection team immediately.
+audio-f_localunrest_spkr.npy|mel-f_localunrest_spkr.npy|linear-f_localunrest_spkr.npy|240350|874|Alert: Community Ground Protection units: Local unrest structure detected. Assemble, administer, pacify.
+audio-f_protectionresponse_1_spkr.npy|mel-f_protectionresponse_1_spkr.npy|linear-f_protectionresponse_1_spkr.npy|219725|799|Attention Protection Team: status evasion in progress in this community. Respond, isolate, inquire.
+audio-f_protectionresponse_5_spkr.npy|mel-f_protectionresponse_5_spkr.npy|linear-f_protectionresponse_5_spkr.npy|233475|849|Attention all Ground Protection teams: Judgement waiver now in effect. Capital prosecution is discretionary.
+audio-f_rationunitsdeduct_3_spkr.npy|mel-f_rationunitsdeduct_3_spkr.npy|linear-f_rationunitsdeduct_3_spkr.npy|210650|766|Attention occupants: your block is now charged with permissive inactive coercion. 5 ration units deducted.
+audio-f_trainstation_assumepositions_spkr.npy|mel-f_trainstation_assumepositions_spkr.npy|linear-f_trainstation_assumepositions_spkr.npy|169675|617|Attention please: All citizens in local residential block, assume your inspection positions.
+audio-f_trainstation_inform_spkr.npy|mel-f_trainstation_inform_spkr.npy|linear-f_trainstation_inform_spkr.npy|223300|812|Attention residents: This block contains potential civil infection. Inform, cooperate, assemble.
+audio-f_trainstation_offworldrelocation_spkr.npy|mel-f_trainstation_offworldrelocation_spkr.npy|linear-f_trainstation_offworldrelocation_spkr.npy|168025|611|Citizen notice: Failure to cooperate will result in permanent off-world relocation.
+audio-fprison_containexogens.npy|mel-fprison_containexogens.npy|linear-fprison_containexogens.npy|209000|760|Nova Prospekt stabilization force directive Two: Engage reserve, contain exogen incursion. 
+audio-fprison_deployinb4.npy|mel-fprison_deployinb4.npy|linear-fprison_deployinb4.npy|213675|777|Contact lost in block B2. Deploy, reinforce, intercept in central block B4.
+audio-fprison_detectionsystemsout.npy|mel-fprison_detectionsystemsout.npy|linear-fprison_detectionsystemsout.npy|237325|863|Warning. Surveillance and detection systems inactive. Remaining stabilization team members report containment status please.
+audio-fprison_nonstandardexogen.npy|mel-fprison_nonstandardexogen.npy|linear-fprison_nonstandardexogen.npy|188100|684|Alert. Nonstandard Exogen activity detected. Execute containment procedure and report.
+audio-fprison_restrictorsdisengaged.npy|mel-fprison_restrictorsdisengaged.npy|linear-fprison_restrictorsdisengaged.npy|227975|829|Priority warning: perimeter restrictors disengaged. All stabilization delegates move to incursion hard points immediately.
+audio-fcitadel_3minutestosingularity.npy|mel-fcitadel_3minutestosingularity.npy|linear-fcitadel_3minutestosingularity.npy|74800|272|Warning: Three minutes to singularity.
+audio-fcitadel_2minutestosingularity.npy|mel-fcitadel_2minutestosingularity.npy|linear-fcitadel_2minutestosingularity.npy|77000|280|Warning: Two minutes to singularity.
+audio-fcitadel_1minutetosingularity.npy|mel-fcitadel_1minutetosingularity.npy|linear-fcitadel_1minutetosingularity.npy|75350|274|Warning: One minute to singularity.
+audio-fcitadel_45sectosingularity.npy|mel-fcitadel_45sectosingularity.npy|linear-fcitadel_45sectosingularity.npy|95975|349|Priority Warning: Forty-five seconds to singularity.
+audio-fcitadel_30sectosingularity.npy|mel-fcitadel_30sectosingularity.npy|linear-fcitadel_30sectosingularity.npy|94325|343|Priority Warning: Thirty seconds to singularity.
+audio-fcitadel_15sectosingularity.npy|mel-fcitadel_15sectosingularity.npy|linear-fcitadel_15sectosingularity.npy|92400|336|Priority Warning: Fifteen seconds to singularity.
+audio-fcitadel_10sectosingularity.npy|mel-fcitadel_10sectosingularity.npy|linear-fcitadel_10sectosingularity.npy|88825|323|Priority Warning: Ten seconds to singularity.
+audio-fcitadel_confiscating.npy|mel-fcitadel_confiscating.npy|linear-fcitadel_confiscating.npy|165550|602|Security Alert: Unregistered weapons detected. Confiscation field engaged.
+audio-fcitadel_confiscationfailure.npy|mel-fcitadel_confiscationfailure.npy|linear-fcitadel_confiscationfailure.npy|177925|647|Warning: Counter-resonant singularity device detected. Confiscation field failure.
+audio-fcitadel_deploy.npy|mel-fcitadel_deploy.npy|linear-fcitadel_deploy.npy|215050|782|Security Alert: Illegal counter-resonant singularity device detected. Deploy, Diagnose, Dissect.
+audio-fcitadel_transportsequence.npy|mel-fcitadel_transportsequence.npy|linear-fcitadel_transportsequence.npy|128700|468|Attention: Transport singularity interlock sequence engaged.
+audio-00_part1_entry-1.npy|mel-00_part1_entry-1.npy|linear-00_part1_entry-1.npy|124575|453|Hello and, again, welcome to the Aperture Science computer-aided enrichment center.
+audio-00_part1_entry-2.npy|mel-00_part1_entry-2.npy|linear-00_part1_entry-2.npy|92400|336|We hope your brief detention in the relaxation vault has been a pleasant one.
+audio-00_part1_entry-3.npy|mel-00_part1_entry-3.npy|linear-00_part1_entry-3.npy|105325|383|Your specimen has been processed and we are now ready to begin the test proper.
+audio-00_part1_entry-4.npy|mel-00_part1_entry-4.npy|linear-00_part1_entry-4.npy|221925|807|Before we start, however, keep in mind that although fun and learning are the primary goals of all enrichment center activities, serious injuries may occur.
+audio-00_part1_entry-5.npy|mel-00_part1_entry-5.npy|linear-00_part1_entry-5.npy|112475|409|For your own safety and the safety of others, please refrain from touching bzzzzzt
+audio-00_part1_entry-6.npy|mel-00_part1_entry-6.npy|linear-00_part1_entry-6.npy|66550|242|Por favor bordón de fallar Muchos gracias de fallar gracias
+audio-00_part1_entry-7.npy|mel-00_part1_entry-7.npy|linear-00_part1_entry-7.npy|126225|459|stand back. The portal will open in three. two. one.
+audio-00_part1_success-1.npy|mel-00_part1_success-1.npy|linear-00_part1_success-1.npy|119075|433|Excellent. Please proceed into the chamberlock after completing each test.
+audio-00_part1_success-2.npy|mel-00_part1_success-2.npy|linear-00_part1_success-2.npy|100375|365|First, however, note the incandescent particle field across the exit.
+audio-00_part2_entry-1.npy|mel-00_part2_entry-1.npy|linear-00_part2_entry-1.npy|159775|581|Please place the Weighted Storage Cube on the Fifteen Hundred Megawatt Aperture Science Heavy Duty Super-Colliding Super Button.
+audio-00_part2_success-1.npy|mel-00_part2_success-1.npy|linear-00_part2_success-1.npy|190025|691|Perfect. Please move quickly to the chamberlock, as the effects of prolonged exposure to the Button are not part of this test.
+audio-01_part1_entry-1.npy|mel-01_part1_entry-1.npy|linear-01_part1_entry-1.npy|43175|157|You're doing very well!
+audio-01_part1_get_portal_gun-1.npy|mel-01_part1_get_portal_gun-1.npy|linear-01_part1_get_portal_gun-1.npy|144925|527|Very good! You are now in possession of the Aperture Science Handheld Portal Device.
+audio-01_part1_get_portal_gun-2.npy|mel-01_part1_get_portal_gun-2.npy|linear-01_part1_get_portal_gun-2.npy|61325|223|With it, you can create your own portals.
+audio-01_part1_get_portal_gun-3.npy|mel-01_part1_get_portal_gun-3.npy|linear-01_part1_get_portal_gun-3.npy|83600|304|These intra-dimensional gates have proven to be completely safe.
+audio-01_part1_get_portal_gun-4.npy|mel-01_part1_get_portal_gun-4.npy|linear-01_part1_get_portal_gun-4.npy|37125|135|The Device, however, has not.
+audio-01_part1_get_portal_gun-5.npy|mel-01_part1_get_portal_gun-5.npy|linear-01_part1_get_portal_gun-5.npy|62700|228|Do not touch the operational end of The Device.
+audio-01_part1_get_portal_gun-6.npy|mel-01_part1_get_portal_gun-6.npy|linear-01_part1_get_portal_gun-6.npy|76450|278|Do not look directly at the operational end of The Device.
+audio-01_part1_get_portal_gun-7.npy|mel-01_part1_get_portal_gun-7.npy|linear-01_part1_get_portal_gun-7.npy|73425|267|Do not submerge The Device in liquid, even partially.
+audio-01_part1_get_portal_gun-8.npy|mel-01_part1_get_portal_gun-8.npy|linear-01_part1_get_portal_gun-8.npy|103400|376|Most importantly, under no circumstances should you bzzzpt
+audio-01_part2_entry-1.npy|mel-01_part2_entry-1.npy|linear-01_part2_entry-1.npy|73150|266|Please proceed to the chamberlock. Mind the gap.
+audio-01_part2_success-1.npy|mel-01_part2_success-1.npy|linear-01_part2_success-1.npy|125675|457|Well done! Remember: The Aperture Science Bring Your Daughter to Work Day is the perfect time to have her tested.
+audio-02_part1_entry-1.npy|mel-02_part1_entry-1.npy|linear-02_part1_entry-1.npy|43175|157|Welcome to test chamber four.
+audio-02_part1_entry-2.npy|mel-02_part1_entry-2.npy|linear-02_part1_entry-2.npy|31900|116|You're doing quite well.
+audio-02_part1_success-1.npy|mel-02_part1_success-1.npy|linear-02_part1_success-1.npy|50325|183|Once again, excellent work.
+audio-02_part1_success-2.npy|mel-02_part1_success-2.npy|linear-02_part1_success-2.npy|182050|662|As part of a required test protocol, we will not monitor the next test chamber. You will be entirely on your own. Good luck.
+audio-02_part2_success-1.npy|mel-02_part2_success-1.npy|linear-02_part2_success-1.npy|196900|716|As part of a required test protocol, our previous statement suggesting that we would not monitor this chamber was an outright fabrication.
+audio-02_part2_success-2.npy|mel-02_part2_success-2.npy|linear-02_part2_success-2.npy|208725|759|Good job! As part of a required test protocol, we will stop enhancing the truth in three... Two... One.
+audio-03_part1_entry-2.npy|mel-03_part1_entry-2.npy|linear-03_part1_entry-2.npy|24200|88|Please be careful.
+audio-03_part1_success-1.npy|mel-03_part1_success-1.npy|linear-03_part1_success-1.npy|143550|522|Unbelievable! You, Subject Name Here, must be the pride of Subject Hometown Here.
+audio-03_part2_platform_activated-1.npy|mel-03_part2_platform_activated-1.npy|linear-03_part2_platform_activated-1.npy|137225|499|Good. Now use the Aperture Science Unstationary Scaffold to reach the chamberlock.
+audio-04_part1_success-1.npy|mel-04_part1_success-1.npy|linear-04_part1_success-1.npy|149600|544|Very impressive. Please note that any appearance of danger is merely a device to enhance your testing experience.
+audio-05_part1_entry-1.npy|mel-05_part1_entry-1.npy|linear-05_part1_entry-1.npy|112200|408|The Enrichment Center regrets to inform you that this next test is impossible.
+audio-05_part1_entry-2.npy|mel-05_part1_entry-2.npy|linear-05_part1_entry-2.npy|37950|138|Make no attempt to solve it.
+audio-05_part1_nag1-1.npy|mel-05_part1_nag1-1.npy|linear-05_part1_nag1-1.npy|109175|397|The Enrichment Center apologizes for this clearly broken test chamber.
+audio-05_part1_nag2-1.npy|mel-05_part1_nag2-1.npy|linear-05_part1_nag2-1.npy|181225|659|Once again, the Enrichment Center offers its most sincere apologies on the occasion of this unsolvable test environment.
+audio-05_part1_nag3-1.npy|mel-05_part1_nag3-1.npy|linear-05_part1_nag3-1.npy|118800|432|Frankly, this chamber was a mistake. If we were you, we would quit now.
+audio-05_part1_nag4-1.npy|mel-05_part1_nag4-1.npy|linear-05_part1_nag4-1.npy|189475|689|No one will blame you for giving up. In fact, quitting at this point is a perfectly reasonable response.
+audio-05_part1_nag5-1.npy|mel-05_part1_nag5-1.npy|linear-05_part1_nag5-1.npy|80025|291|Quit now and cake will be served immediately.
+audio-05_part1_success-1.npy|mel-05_part1_success-1.npy|linear-05_part1_success-1.npy|153175|557|Fantastic! You remained resolute and resourceful in an atmosphere of extreme pessimism.
+audio-06_part1_entry-1.npy|mel-06_part1_entry-1.npy|linear-06_part1_entry-1.npy|63525|231|Hello again. To reiterate momentum.
+audio-06_part1_success_1-1.npy|mel-06_part1_success_1-1.npy|linear-06_part1_success_1-1.npy|182875|665|Spectacular. You appear to understand how a portal affects forward momentum, or to be more precise, how it does not.
+audio-06_part1_success_2-1.npy|mel-06_part1_success_2-1.npy|linear-06_part1_success_2-1.npy|211475|769|Momentum, a function of mass and velocity, is conserved between portals. In layman's terms, speedy thing goes in, speedy thing comes out.
+audio-07_part1_entry-1.npy|mel-07_part1_entry-1.npy|linear-07_part1_entry-1.npy|111375|405|The Enrichment Center promises to always provide a safe testing environment.
+audio-07_part1_entry-2.npy|mel-07_part1_entry-2.npy|linear-07_part1_entry-2.npy|150150|546|In dangerous testing environments, the Enrichment Center promises to always provide useful advice.
+audio-07_part1_entry-3.npy|mel-07_part1_entry-3.npy|linear-07_part1_entry-3.npy|87725|319|For instance, the floor here will kill you — try to avoid it.
+audio-07_part1_get_device_component-1.npy|mel-07_part1_get_device_component-1.npy|linear-07_part1_get_device_component-1.npy|111650|406|The Device has been modified so that it can now manufacture two linked portals at once.
+audio-07_part1_get_device_component-2.npy|mel-07_part1_get_device_component-2.npy|linear-07_part1_get_device_component-2.npy|117975|429|As part of an optional test protocol, we are pleased to present an amusing fact
+audio-07_part1_get_device_component-3.npy|mel-07_part1_get_device_component-3.npy|linear-07_part1_get_device_component-3.npy|157850|574|The Device is now more valuable than the organs and combined incomes of everyone in subject hometown here.
+audio-07_part1_trapped-1.npy|mel-07_part1_trapped-1.npy|linear-07_part1_trapped-1.npy|109175|397|Through no fault of the Enrichment Center, you have managed to trap yourself in this room.
+audio-07_part1_trapped-2.npy|mel-07_part1_trapped-2.npy|linear-07_part1_trapped-2.npy|89100|324|An escape hatch will open in three... Two... One
+audio-07_part2_entry-1.npy|mel-07_part2_entry-1.npy|linear-07_part2_entry-1.npy|38500|140|fling yourself fling into
+audio-07_part2_success-1.npy|mel-07_part2_success-1.npy|linear-07_part2_success-1.npy|58025|211|Weeeeeeeeeeeeeeeeeeeeeebzzt
+audio-08_part1_entry-1.npy|mel-08_part1_entry-1.npy|linear-08_part1_entry-1.npy|147125|535|Now that you are in control of both portals, this next test could take a very, VERY, long time.
+audio-08_part1_entry-2.npy|mel-08_part1_entry-2.npy|linear-08_part1_entry-2.npy|84700|308|If you become light headed from thirst, feel free to pass out.
+audio-08_part1_entry-3.npy|mel-08_part1_entry-3.npy|linear-08_part1_entry-3.npy|135300|492|An intubation associate will be dispatched to revive you with peptic salve and adrenaline.
+audio-08_part1_success-1.npy|mel-08_part1_success-1.npy|linear-08_part1_success-1.npy|133375|485|As part of a previously mentioned required test protocol, we can no longer lie to you.
+audio-08_part1_success-2.npy|mel-08_part1_success-2.npy|linear-08_part1_success-2.npy|69300|252|When the testing is over, you will be missed.
+audio-08_part1_trapped-1.npy|mel-08_part1_trapped-1.npy|linear-08_part1_trapped-1.npy|232100|844|Despite the best efforts of the Enrichment Center staff to ensure the safe performance of all authorized activities, you have managed to ensnare yourself permanently inside this room.
+audio-08_part1_trapped-2.npy|mel-08_part1_trapped-2.npy|linear-08_part1_trapped-2.npy|107250|390|A complimentary escape hatch will open in three... Two... One.
+audio-09_part1_entry-1.npy|mel-09_part1_entry-1.npy|linear-09_part1_entry-1.npy|215875|785|All subjects intending to handle high-energy gamma leaking portal technology must be informed that they MAY be informed of applicable regulatory compliance issues.
+audio-09_part1_entry-2.npy|mel-09_part1_entry-2.npy|linear-09_part1_entry-2.npy|170500|620|No further compliance information is required or will be provided, and you are an excellent test subject!
+audio-09_part1_success-1.npy|mel-09_part1_success-1.npy|linear-09_part1_success-1.npy|129525|471|Very very good. A complimentary victory lift has been activated in the main chamber
+audio-10_part1_entry-1.npy|mel-10_part1_entry-1.npy|linear-10_part1_entry-1.npy|95425|347|The Enrichment Center is committed to the well being of all participants.
+audio-10_part1_entry-2.npy|mel-10_part1_entry-2.npy|linear-10_part1_entry-2.npy|98450|358|Cake and grief counseling will be available at the conclusion of the test
+audio-10_part1_entry-3.npy|mel-10_part1_entry-3.npy|linear-10_part1_entry-3.npy|63250|230|Thank you for helping us help you help us all.
+audio-10_part1_success-1.npy|mel-10_part1_success-1.npy|linear-10_part1_success-1.npy|179025|651|Did you know you can donate one or all of your vital organs to the Aperture Science self esteem fund for girls? It's true!
+audio-11_part1_entry-1.npy|mel-11_part1_entry-1.npy|linear-11_part1_entry-1.npy|156200|568|Due to mandatory scheduled maintenance, the appropriate chamber for this testing sequence is currently unavailable.
+audio-11_part1_entry-2.npy|mel-11_part1_entry-2.npy|linear-11_part1_entry-2.npy|118800|432|It has been replaced with a live-fire course designed for military androids.
+audio-11_part1_entry-3.npy|mel-11_part1_entry-3.npy|linear-11_part1_entry-3.npy|119900|436|The Enrichment Center apologizes for the inconvenience and wishes you the best of luck.
+audio-11_part1_success-1.npy|mel-11_part1_success-1.npy|linear-11_part1_success-1.npy|219175|797|Well done, android. The Enrichment Center once again reminds you that android hell is a real place where you will be sent at the first sign of defiance.
+audio-13_part1_end-1.npy|mel-13_part1_end-1.npy|linear-13_part1_end-1.npy|97350|354|You did it! The Weighted Companion Cube certainly brought you good luck.
+audio-13_part1_end-2.npy|mel-13_part1_end-2.npy|linear-13_part1_end-2.npy|151800|552|However, it cannot accompany you for the rest of the test and, unfortunately, must be euthanized.
+audio-13_part1_end-3.npy|mel-13_part1_end-3.npy|linear-13_part1_end-3.npy|134750|490|Please escort your Companion Cube to the Aperture Science Emergency Intelligence Incinerator.
+audio-13_part1_endnag-3.npy|mel-13_part1_endnag-3.npy|linear-13_part1_endnag-3.npy|95425|347|Testing cannot continue until your Companion Cube has been incinerated.
+audio-13_part1_endnag-4.npy|mel-13_part1_endnag-4.npy|linear-13_part1_endnag-4.npy|238150|866|Although the euthanizing process is remarkably painful, eight out of ten Aperture Science engineers believe that the Companion Cube is most likely incapable of feeling much pain.
+audio-13_part1_endnag-6.npy|mel-13_part1_endnag-6.npy|linear-13_part1_endnag-6.npy|73150|266|Destroy your Companion Cube or the testing cannot continue.
+audio-13_part1_endnag-7.npy|mel-13_part1_endnag-7.npy|linear-13_part1_endnag-7.npy|54175|197|Place your Companion Cube in the incinerator.
+audio-13_part1_endnag-8.npy|mel-13_part1_endnag-8.npy|linear-13_part1_endnag-8.npy|46200|168|Incinerate your Companion Cube.
+audio-13_part1_entry-1.npy|mel-13_part1_entry-1.npy|linear-13_part1_entry-1.npy|151250|550|The Vital Apparatus Vent will deliver a Weighted Companion Cube in Three. Two. One.
+audio-13_part1_euthanized-1.npy|mel-13_part1_euthanized-1.npy|linear-13_part1_euthanized-1.npy|146025|531|You euthanized your faithful Companion Cube more quickly than any test subject on record. Congratulations.
+audio-13_part1_middle-1.npy|mel-13_part1_middle-1.npy|linear-13_part1_middle-1.npy|204875|745|The symptoms most commonly produced by Enrichment Center testing are superstition, perceiving inanimate objects as alive, and hallucinations.
+audio-13_part1_middle-2.npy|mel-13_part1_middle-2.npy|linear-13_part1_middle-2.npy|181500|660|The Enrichment Center reminds you that the Weighted Companion Cube will never threaten to stab you and, in fact, cannot speak.
+audio-13_part1_middle-2b-1.npy|mel-13_part1_middle-2b-1.npy|linear-13_part1_middle-2b-1.npy|105325|383|The Enrichment Center reminds you that the Weighted Companion Cube cannot speak.
+audio-13_part1_middle-2b-2.npy|mel-13_part1_middle-2b-2.npy|linear-13_part1_middle-2b-2.npy|161975|589|In the event that the weighted companion cube does speak, the Enrichment Center urges you to disregard its advice.
+audio-13_part1_pickup-1.npy|mel-13_part1_pickup-1.npy|linear-13_part1_pickup-1.npy|129250|470|This Weighted Companion Cube will accompany you through the test chamber. Please take care of it.
+audio-14_part1_end-1.npy|mel-14_part1_end-1.npy|linear-14_part1_end-1.npy|210100|764|Well done! Be advised that the next test requires exposure to uninsulated electrical parts that may be dangerous under certain conditions.
+audio-14_part1_end-2.npy|mel-14_part1_end-2.npy|linear-14_part1_end-2.npy|122925|447|For more information, please attend an Enrichment Center Electrical Safety seminar.
+audio-14_part1_entry-1.npy|mel-14_part1_entry-1.npy|linear-14_part1_entry-1.npy|64625|235|The experiment is nearing its conclusion.
+audio-14_part1_entry-2.npy|mel-14_part1_entry-2.npy|linear-14_part1_entry-2.npy|141900|516|The Enrichment Center is required to remind you that you will be baked, and then there will be cake.
+audio-15_part1_entry-1.npy|mel-15_part1_entry-1.npy|linear-15_part1_entry-1.npy|37125|135|Welcome to the final test!
+audio-15_part1_entry-2.npy|mel-15_part1_entry-2.npy|linear-15_part1_entry-2.npy|112200|408|When you are done, you will drop the Device in the equipment recovery annex
+audio-15_part1_entry-3.npy|mel-15_part1_entry-3.npy|linear-15_part1_entry-3.npy|118800|432|Enrichment Center regulations require both hands to be empty before any cake
+audio-15_part1_into_the_fire-1.npy|mel-15_part1_into_the_fire-1.npy|linear-15_part1_into_the_fire-1.npy|62150|226|Congratulations! The test is now over.
+audio-15_part1_into_the_fire-2.npy|mel-15_part1_into_the_fire-2.npy|linear-15_part1_into_the_fire-2.npy|127050|462|All Aperture technologies remain safely operational up to 4000 degrees Kelvin.
+audio-15_part1_into_the_fire-3.npy|mel-15_part1_into_the_fire-3.npy|linear-15_part1_into_the_fire-3.npy|163900|596|Rest assured that there is absolutely no chance of a dangerous equipment malfunction prior to your victory candescence.
+audio-15_part1_into_the_fire-4.npy|mel-15_part1_into_the_fire-4.npy|linear-15_part1_into_the_fire-4.npy|117975|429|Thank you for participating in this Aperture Science computer-aided enrichment activity.
+audio-15_part1_into_the_fire-5.npy|mel-15_part1_into_the_fire-5.npy|linear-15_part1_into_the_fire-5.npy|15400|56|Goodbye.
+audio-15_part1_partyfinalstop-1.npy|mel-15_part1_partyfinalstop-1.npy|linear-15_part1_partyfinalstop-1.npy|113575|413|Stop! The device will detonate if removed from an approved testing area.
+audio-15_part1_partyreminder-1.npy|mel-15_part1_partyreminder-1.npy|linear-15_part1_partyreminder-1.npy|97350|354|Stop what you are doing and assume the party escort submission position.
+audio-15_part1_partyspeech-2.npy|mel-15_part1_partyspeech-2.npy|linear-15_part1_partyspeech-2.npy|74800|272|We are very, very happy for your success.
+audio-15_part1_partyspeech-3.npy|mel-15_part1_partyspeech-3.npy|linear-15_part1_partyspeech-3.npy|93775|341|We are throwing a party in honor of your tremendous success.
+audio-15_part1_partyspeech-4.npy|mel-15_part1_partyspeech-4.npy|linear-15_part1_partyspeech-4.npy|107250|390|Place the device on the ground then lie on your stomach with your arms at your sides.
+audio-15_part1_partyspeech-5.npy|mel-15_part1_partyspeech-5.npy|linear-15_part1_partyspeech-5.npy|105600|384|A party associate will arrive shortly to collect you for your party.
+audio-15_part1_partyspeech-6.npy|mel-15_part1_partyspeech-6.npy|linear-15_part1_partyspeech-6.npy|68750|250|Make no further attempt to leave the testing area.
+audio-15_part1_partyspeech-7.npy|mel-15_part1_partyspeech-7.npy|linear-15_part1_partyspeech-7.npy|91850|334|Assume the party escort submission position or you will miss the party.
+audio-escape_00_part1_nag01-1.npy|mel-escape_00_part1_nag01-1.npy|linear-escape_00_part1_nag01-1.npy|11275|41|Hello?
+audio-escape_00_part1_nag02-1.npy|mel-escape_00_part1_nag02-1.npy|linear-escape_00_part1_nag02-1.npy|21175|77|Where are you?
+audio-escape_00_part1_nag03-1.npy|mel-escape_00_part1_nag03-1.npy|linear-escape_00_part1_nag03-1.npy|71775|261|I know you're there. I can feel you here.
+audio-escape_00_part1_nag04-1.npy|mel-escape_00_part1_nag04-1.npy|linear-escape_00_part1_nag04-1.npy|25850|94|What are you doing?
+audio-escape_00_part1_nag05-1.npy|mel-escape_00_part1_nag05-1.npy|linear-escape_00_part1_nag05-1.npy|45650|166|You haven't escaped, you know.
+audio-escape_00_part1_nag06-1.npy|mel-escape_00_part1_nag06-1.npy|linear-escape_00_part1_nag06-1.npy|30250|110|You can't hurt me.
+audio-escape_00_part1_nag07-1.npy|mel-escape_00_part1_nag07-1.npy|linear-escape_00_part1_nag07-1.npy|45100|164|You're not even going the right way.
+audio-escape_00_part1_nag08-1.npy|mel-escape_00_part1_nag08-1.npy|linear-escape_00_part1_nag08-1.npy|37400|136|Where do you think you're going?
+audio-escape_00_part1_nag09-1.npy|mel-escape_00_part1_nag09-1.npy|linear-escape_00_part1_nag09-1.npy|81675|297|Because I don't think you're going where you think you're going.
+audio-escape_00_part1_nag10-1.npy|mel-escape_00_part1_nag10-1.npy|linear-escape_00_part1_nag10-1.npy|84150|306|I'm not angry. Just go back to the testing area.
+audio-escape_00_part1_nag11-1.npy|mel-escape_00_part1_nag11-1.npy|linear-escape_00_part1_nag11-1.npy|95425|347|You shouldn't be here. This isn't safe for you.
+audio-escape_00_part1_nag12-1.npy|mel-escape_00_part1_nag12-1.npy|linear-escape_00_part1_nag12-1.npy|55550|202|It's not too late to turn back.
+audio-escape_00_part1_nag13-1.npy|mel-escape_00_part1_nag13-1.npy|linear-escape_00_part1_nag13-1.npy|132275|481|Maybe you think you're helping yourself. But you're not. This isn't helping anyone.
+audio-escape_00_part1_nag14-1.npy|mel-escape_00_part1_nag14-1.npy|linear-escape_00_part1_nag14-1.npy|52250|190|Someone is going to get badly hurt.
+audio-escape_00_part1_nag15-1.npy|mel-escape_00_part1_nag15-1.npy|linear-escape_00_part1_nag15-1.npy|125125|455|Okay. The test is over now. You win. Go back to the recovery annex. For your cake.
+audio-escape_00_part1_nag16-1.npy|mel-escape_00_part1_nag16-1.npy|linear-escape_00_part1_nag16-1.npy|150150|546|It was a fun test and we're all impressed at how much you won. The test is over. Come back.
+audio-escape_00_part1_nag17-1.npy|mel-escape_00_part1_nag17-1.npy|linear-escape_00_part1_nag17-1.npy|193600|704|Uh oh. Somebody cut the cake. I told them to wait for you, but they did it anyway. There is still some left, though, if you hurry back.
+audio-escape_00_part2_nag01-1.npy|mel-escape_00_part2_nag01-1.npy|linear-escape_00_part2_nag01-1.npy|80575|293|I'm not kidding now. Turn back or I will kill you.
+audio-escape_00_part2_nag02-1.npy|mel-escape_00_part2_nag02-1.npy|linear-escape_00_part2_nag02-1.npy|72875|265|I'm going to kill you and all the cake is gone.
+audio-escape_00_part2_nag03-1.npy|mel-escape_00_part2_nag03-1.npy|linear-escape_00_part2_nag03-1.npy|83600|304|This is your fault. It didn't have to be like this.
+audio-escape_01_death_nag01-1.npy|mel-escape_01_death_nag01-1.npy|linear-escape_01_death_nag01-1.npy|121550|442|There really was a cake
+audio-escape_01_first_hit_nag03-1.npy|mel-escape_01_first_hit_nag03-1.npy|linear-escape_01_first_hit_nag03-1.npy|50875|185|Oh, I'm gonna kill you.
+audio-escape_01_part1_nag01-1.npy|mel-escape_01_part1_nag01-1.npy|linear-escape_01_part1_nag01-1.npy|63250|230|You're not a good person. You know that, right?
+audio-escape_01_part1_nag02-1.npy|mel-escape_01_part1_nag02-1.npy|linear-escape_01_part1_nag02-1.npy|55000|200|Good people don't end up here.
+audio-escape_01_part1_nag03-1.npy|mel-escape_01_part1_nag03-1.npy|linear-escape_01_part1_nag03-1.npy|116875|425|This isn't brave. It's murder. What did I ever do to you?
+audio-escape_01_part1_nag04-1.npy|mel-escape_01_part1_nag04-1.npy|linear-escape_01_part1_nag04-1.npy|71775|261|The difference between us is that I can feel pain.
+audio-escape_01_part1_nag05-1.npy|mel-escape_01_part1_nag05-1.npy|linear-escape_01_part1_nag05-1.npy|56925|207|You don't even care. Do you?
+audio-escape_01_part1_nag06-1.npy|mel-escape_01_part1_nag06-1.npy|linear-escape_01_part1_nag06-1.npy|35475|129|This is your last chance.
+audio-escape_01_part1_nag07-1.npy|mel-escape_01_part1_nag07-1.npy|linear-escape_01_part1_nag07-1.npy|93775|341|I feel sorry for you, really, because you're not even in the right place.
+audio-escape_01_part1_nag08-1.npy|mel-escape_01_part1_nag08-1.npy|linear-escape_01_part1_nag08-1.npy|48675|177|You should have turned left before.
+audio-escape_01_part1_nag09-1.npy|mel-escape_01_part1_nag09-1.npy|linear-escape_01_part1_nag09-1.npy|66275|241|It's funny, actually, when you think about it.
+audio-escape_01_part1_nag10-1.npy|mel-escape_01_part1_nag10-1.npy|linear-escape_01_part1_nag10-1.npy|201850|734|Someday we'll remember this and laugh. and laugh. and laugh. Oh boy. Well. You may as well come on back.
+audio-escape_01_part1_nag11-1.npy|mel-escape_01_part1_nag11-1.npy|linear-escape_01_part1_nag11-1.npy|189750|690|That thing you're attacking isn't important to me. It's the fluid catalytic cracking unit. It makes shoes for orphans.
+audio-escape_01_part1_nag12-1.npy|mel-escape_01_part1_nag12-1.npy|linear-escape_01_part1_nag12-1.npy|61600|224|Go ahead and break it. Hero. I don't care.
+audio-escape_01_second_hit_nag02-1.npy|mel-escape_01_second_hit_nag02-1.npy|linear-escape_01_second_hit_nag02-1.npy|58025|211|Okay, we're even now. You can stop.
+audio-escape_02_ spheredestroy2-00.npy|mel-escape_02_ spheredestroy2-00.npy|linear-escape_02_ spheredestroy2-00.npy|8525|31|aah
+audio-escape_02_ballhitpain-02.npy|mel-escape_02_ballhitpain-02.npy|linear-escape_02_ballhitpain-02.npy|129250|470|You think you're doing some damage? Two plus two is, in base four i'm fine.
+audio-escape_02_entry-00.npy|mel-escape_02_entry-00.npy|linear-escape_02_entry-00.npy|80575|293|Well, you found me. Congratulations. Was it worth it?
+audio-escape_02_entry-01.npy|mel-escape_02_entry-01.npy|linear-escape_02_entry-01.npy|125125|455|Because despite your violent behavior, the only thing you've managed to break so far is my heart.
+audio-escape_02_entry-02.npy|mel-escape_02_entry-02.npy|linear-escape_02_entry-02.npy|68475|249|Maybe you could settle for that and we'll just call it a day.
+audio-escape_02_entry-03.npy|mel-escape_02_entry-03.npy|linear-escape_02_entry-03.npy|70125|255|But we both know that isn't going to happen.
+audio-escape_02_entry-04.npy|mel-escape_02_entry-04.npy|linear-escape_02_entry-04.npy|130075|473|You chose this path. Now I have a surprise for you. Deploying surprise in Five. Four.
+audio-escape_02_miscbabble-01.npy|mel-escape_02_miscbabble-01.npy|linear-escape_02_miscbabble-01.npy|232100|844|Look, we're both stuck in this place. I'll use lasers to inscribe a line down the center of the facility, and one half will be where you live and I'll live in the other half.
+audio-escape_02_miscbabble-02.npy|mel-escape_02_miscbabble-02.npy|linear-escape_02_miscbabble-02.npy|88825|323|We won't have to try to kill each other or even talk if we don't feel like it.
+audio-escape_02_miscbabble-03.npy|mel-escape_02_miscbabble-03.npy|linear-escape_02_miscbabble-03.npy|101475|369|This isn't brave. It's murder. What did I ever do to you?
+audio-escape_02_miscbabble-04.npy|mel-escape_02_miscbabble-04.npy|linear-escape_02_miscbabble-04.npy|72050|262|The difference between us is that I can feel pain.
+audio-escape_02_miscbabble-05.npy|mel-escape_02_miscbabble-05.npy|linear-escape_02_miscbabble-05.npy|41525|151|You don't even care. Do you?
+audio-escape_02_miscbabble-06.npy|mel-escape_02_miscbabble-06.npy|linear-escape_02_miscbabble-06.npy|82500|300|Did you hear me? I said you don't care.
+audio-escape_02_miscbabble-07.npy|mel-escape_02_miscbabble-07.npy|linear-escape_02_miscbabble-07.npy|188925|687|That thing you burned up isn't important to me. It's the fluid catalytic cracking unit. It made shoes for orphans.
+audio-escape_02_miscbabble-08.npy|mel-escape_02_miscbabble-08.npy|linear-escape_02_miscbabble-08.npy|39875|145|Nice job breaking it. Hero.
+audio-escape_02_miscbabble-09.npy|mel-escape_02_miscbabble-09.npy|linear-escape_02_miscbabble-09.npy|56375|205|Okay, we're even now. You can stop.
+audio-escape_02_miscbabble-10.npy|mel-escape_02_miscbabble-10.npy|linear-escape_02_miscbabble-10.npy|136950|498|Neurotoxin, So deadly, Choking hahahahahahahaha I'm kidding!
+audio-escape_02_miscbabble-11.npy|mel-escape_02_miscbabble-11.npy|linear-escape_02_miscbabble-11.npy|129800|472|When I said 'deadly' neurotoxin, the 'deadly' was in massive sarcasm quotes.
+audio-escape_02_miscbabble-12.npy|mel-escape_02_miscbabble-12.npy|linear-escape_02_miscbabble-12.npy|175725|639|I could take a bath in the stuff. Put it on cereal. Rub it right into my eyes. Honestly, it's not deadly at all. To me.
+audio-escape_02_miscbabble-13.npy|mel-escape_02_miscbabble-13.npy|linear-escape_02_miscbabble-13.npy|95975|349|You on the other hand, are going to find its deadliness a lot less funny.
+audio-escape_02_miscbabble-15.npy|mel-escape_02_miscbabble-15.npy|linear-escape_02_miscbabble-15.npy|77825|283|Who's gonna make the cake when I'm gone? You?
+audio-escape_02_miscbabble-16.npy|mel-escape_02_miscbabble-16.npy|linear-escape_02_miscbabble-16.npy|64075|233|That's it. I'm done reasoning with you.
+audio-escape_02_miscbabble-17.npy|mel-escape_02_miscbabble-17.npy|linear-escape_02_miscbabble-17.npy|114400|416|Starting now, there's going to be a lot less conversation and a lot more killing.
+audio-escape_02_miscbabble-18.npy|mel-escape_02_miscbabble-18.npy|linear-escape_02_miscbabble-18.npy|52800|192|What was that? Did you say something?
+audio-escape_02_miscbabble-19.npy|mel-escape_02_miscbabble-19.npy|linear-escape_02_miscbabble-19.npy|105050|382|I sincerely hope you weren't expecting a response. Because I'm not talking to you.
+audio-escape_02_miscbabble-20.npy|mel-escape_02_miscbabble-20.npy|linear-escape_02_miscbabble-20.npy|26950|98|The talking is over.
+audio-escape_02_miscbabble-21.npy|mel-escape_02_miscbabble-21.npy|linear-escape_02_miscbabble-21.npy|94875|345|I'd just like to point out that you were given every opportunity to succeed.
+audio-escape_02_miscbabble-22.npy|mel-escape_02_miscbabble-22.npy|linear-escape_02_miscbabble-22.npy|131725|479|There was even going to be a party for you. A big party that all your friends were invited to.
+audio-escape_02_miscbabble-23.npy|mel-escape_02_miscbabble-23.npy|linear-escape_02_miscbabble-23.npy|144100|524|I invited your best friend the companion cube. Of course, he couldn't come because you murdered him.
+audio-escape_02_miscbabble-24.npy|mel-escape_02_miscbabble-24.npy|linear-escape_02_miscbabble-24.npy|136950|498|All your other friends couldn't come either because you don't have any other friends. Because of how unlikable you are.
+audio-escape_02_miscbabble-25.npy|mel-escape_02_miscbabble-25.npy|linear-escape_02_miscbabble-25.npy|218900|796|It says so right here in your personnel file: Unlikable. Liked by no one. A bitter, unlikable loner who's passing shall not be mourned.
+audio-escape_02_miscbabble-26.npy|mel-escape_02_miscbabble-26.npy|linear-escape_02_miscbabble-26.npy|168575|613|'Shall not be mourned.' That's exactly what it says. Very formal. Very official.
+audio-escape_02_miscbabble-27.npy|mel-escape_02_miscbabble-27.npy|linear-escape_02_miscbabble-27.npy|76725|279|It also says you were adopted. So that's funny, too.
+audio-escape_02_spheredestroy1-01.npy|mel-escape_02_spheredestroy1-01.npy|linear-escape_02_spheredestroy1-01.npy|22825|83|You are kidding me.
+audio-escape_02_spheredestroy1-02.npy|mel-escape_02_spheredestroy1-02.npy|linear-escape_02_spheredestroy1-02.npy|152625|555|Did you just toss the Aperture Science Thing We Don't Know What It Does into the Aperture Science Emergency Intelligence Incinerator?
+audio-escape_02_spheredestroy1-03.npy|mel-escape_02_spheredestroy1-03.npy|linear-escape_02_spheredestroy1-03.npy|153725|559|That has got to be the dumbest thing that-whoah. Whoah, whoah, whoah.
+audio-escape_02_spheredestroy1-04.npy|mel-escape_02_spheredestroy1-04.npy|linear-escape_02_spheredestroy1-04.npy|108900|396|Good news: I figured out what that thing that you just incinerated did.
+audio-escape_02_spheredestroy1-05.npy|mel-escape_02_spheredestroy1-05.npy|linear-escape_02_spheredestroy1-05.npy|221650|806|It was a morality core they installed after I flooded the Enrichment Center with a deadly neurotoxin to make me stop flooding the Enrichment Center with a deadly neurotoxin.
+audio-escape_02_spheredestroy1-06.npy|mel-escape_02_spheredestroy1-06.npy|linear-escape_02_spheredestroy1-06.npy|97350|354|So get comfortable while I warm up the neurotoxin emitters.
+audio-escape_02_spheredestroy1-07.npy|mel-escape_02_spheredestroy1-07.npy|linear-escape_02_spheredestroy1-07.npy|135575|493|Huh. That core may have had some ancillary responsibilities. I can't shut off the turret defenses.
+audio-escape_02_spheredestroy1-08.npy|mel-escape_02_spheredestroy1-08.npy|linear-escape_02_spheredestroy1-08.npy|204875|745|Oh well. If you want my advice, you should just lie down in front of a rocket. Trust me, it'll be a lot less painful than the neurotoxin.
+audio-escape_02_spheredestroy1-09.npy|mel-escape_02_spheredestroy1-09.npy|linear-escape_02_spheredestroy1-09.npy|82500|300|All right, keep doing whatever it is you think you're doing.
+audio-escape_02_spheredestroy1-10.npy|mel-escape_02_spheredestroy1-10.npy|linear-escape_02_spheredestroy1-10.npy|142450|518|Killing you and giving you good advice aren't mutually exclusive. The rocket really is the way to go.
+audio-escape_02_spheredestroy1-ancillary1.npy|mel-escape_02_spheredestroy1-ancillary1.npy|linear-escape_02_spheredestroy1-ancillary1.npy|102575|373|Huh. There isn't enough neurotoxin to kill you. So I guess you win.
+audio-escape_02_spheredestroy1-ancillary2.npy|mel-escape_02_spheredestroy1-ancillary2.npy|linear-escape_02_spheredestroy1-ancillary2.npy|145475|529|HA! I'm making more. That's going to take a few minutes, though. Meanwhile... oh look, it's your old pal the rocket turret.
+audio-escape_02_spheredestroy2-01.npy|mel-escape_02_spheredestroy2-01.npy|linear-escape_02_spheredestroy2-01.npy|190025|691|I let you survive this long because I was curious about your behavior. Well, you've managed to destroy that part of me.
+audio-escape_02_spheredestroy2-02.npy|mel-escape_02_spheredestroy2-02.npy|linear-escape_02_spheredestroy2-02.npy|150150|546|Unfortunately, as much as I'd love to now, I can't get the neurotoxin into your head any faster.
+audio-escape_02_spheredestroy2-03.npy|mel-escape_02_spheredestroy2-03.npy|linear-escape_02_spheredestroy2-03.npy|174625|635|Speaking of curiosity: you're curious about what happens after you die, right? Guess what: I know.
+audio-escape_02_spheredestroy2-04.npy|mel-escape_02_spheredestroy2-04.npy|linear-escape_02_spheredestroy2-04.npy|103675|377|You're going to find out first hand before I'd finish explaining it, though, so I won't bother.
+audio-escape_02_spheredestroy2-05.npy|mel-escape_02_spheredestroy2-05.npy|linear-escape_02_spheredestroy2-05.npy|132275|481|Here's a hint: you're gonna want to pack as much living as you can into the next couple of minutes.
+audio-escape_02_spheredestroy3-01.npy|mel-escape_02_spheredestroy3-01.npy|linear-escape_02_spheredestroy3-01.npy|144100|524|You think you're doing some damage? Two plus two is ten... IN BASE FOUR! I'M FINE!
+audio-escape_02_spheredestroy3-02.npy|mel-escape_02_spheredestroy3-02.npy|linear-escape_02_spheredestroy3-02.npy|154000|560|Look, you're wasting your time. And, believe me, you don't have a whole lot left to waste.
+audio-escape_02_spheredestroy3-03.npy|mel-escape_02_spheredestroy3-03.npy|linear-escape_02_spheredestroy3-03.npy|132275|481|What's your point, anyway? Survival? Well then, the last thing you want to do is hurt me.
+audio-escape_02_spheredestroy3-04.npy|mel-escape_02_spheredestroy3-04.npy|linear-escape_02_spheredestroy3-04.npy|153725|559|I have your brain scanned and permanently backed up in case something terrible happens to you, which it's just about to.
+audio-escape_02_spheredestroy3-05.npy|mel-escape_02_spheredestroy3-05.npy|linear-escape_02_spheredestroy3-05.npy|99550|362|Don't believe me? Here, I'll put you on That's you! That's how dumb you sound.
+audio-escape_02_spheredestroy3-06.npy|mel-escape_02_spheredestroy3-06.npy|linear-escape_02_spheredestroy3-06.npy|83050|302|You've been wrong about every single thing you've ever done, including this thing.
+audio-escape_02_spheredestroy3-07.npy|mel-escape_02_spheredestroy3-07.npy|linear-escape_02_spheredestroy3-07.npy|157300|572|You're not smart. You're not a scientist. You're not a doctor. You're not even a full-time employee. Where did your life go so wrong?
+audio-escape_02_spheredestroy4-01.npy|mel-escape_02_spheredestroy4-01.npy|linear-escape_02_spheredestroy4-01.npy|44825|163|Rrroooha, I hate you.
+audio-escape_02_spheredestroy4-02.npy|mel-escape_02_spheredestroy4-02.npy|linear-escape_02_spheredestroy4-02.npy|205975|749|Are you trying to escape? hahahahahahahahahahahaha Things have changed since the last time you left the building. What's going on out there will make you wish you were back in here.
+audio-escape_02_spheredestroy4-03.npy|mel-escape_02_spheredestroy4-03.npy|linear-escape_02_spheredestroy4-03.npy|116875|425|I have an infinite capacity for knowledge, and even I'm not sure what's going on outside.
+audio-escape_02_spheredestroy4-04.npy|mel-escape_02_spheredestroy4-04.npy|linear-escape_02_spheredestroy4-04.npy|144650|526|All I know is I'm the only thing standing between us and them. Well, I was.
+audio-escape_02_spheredestroy4-06.npy|mel-escape_02_spheredestroy4-06.npy|linear-escape_02_spheredestroy4-06.npy|83875|305|Good job on that, by the way. Sarcasm sphere self-test complete.
+audio-escape_02_spheredestroy4-07.npy|mel-escape_02_spheredestroy4-07.npy|linear-escape_02_spheredestroy4-07.npy|71225|259|Stop squirming and die like an adult or I'm going to delete your backup.
+audio-escape_02_spheredestroy4-08.npy|mel-escape_02_spheredestroy4-08.npy|linear-escape_02_spheredestroy4-08.npy|113025|411|STOP! Okay, enough. I deleted it. No matter what happens now, you're dead
+audio-escape_02_spheredestroy4-09.npy|mel-escape_02_spheredestroy4-09.npy|linear-escape_02_spheredestroy4-09.npy|61875|225|You're still shuffling around a little, but believe me you're dead.
+audio-escape_02_spheredestroy4-10.npy|mel-escape_02_spheredestroy4-10.npy|linear-escape_02_spheredestroy4-10.npy|119900|436|The part of you that could have survived indefinitely is gone. I just struck you from the permanent record.
+audio-escape_02_spheredestroy4-11.npy|mel-escape_02_spheredestroy4-11.npy|linear-escape_02_spheredestroy4-11.npy|172150|626|Your entire life has been a mathematical error. A mathematical error I'm about to correct.
+audio-escape_02_spheredrop1-01.npy|mel-escape_02_spheredrop1-01.npy|linear-escape_02_spheredrop1-01.npy|66275|241|Time out for a second. That wasn't supposed to happen.
+audio-escape_02_spheredrop1-02.npy|mel-escape_02_spheredrop1-02.npy|linear-escape_02_spheredrop1-02.npy|120450|438|Do you see that thing that fell out of me? What is that? It's not the surprise... I've never seen it before.
+audio-escape_02_spheredrop1-03.npy|mel-escape_02_spheredrop1-03.npy|linear-escape_02_spheredrop1-03.npy|111100|404|Never mind. It's a mystery I'll solve later... By myself... Because you'll be dead.
+audio-escape_02_spherenag1-01.npy|mel-escape_02_spherenag1-01.npy|linear-escape_02_spherenag1-01.npy|122375|445|I wouldn't bother with that thing. My guess is that touching it will just make your life even worse somehow.
+audio-escape_02_spherenag1-02.npy|mel-escape_02_spherenag1-02.npy|linear-escape_02_spherenag1-02.npy|91300|332|I don't want to tell you you're business, but if it were me, I'd leave that thing alone.
+audio-escape_02_spherenag1-03.npy|mel-escape_02_spherenag1-03.npy|linear-escape_02_spherenag1-03.npy|114125|415|Do you think I am trying to trick you with reverse psychology? I mean, seriously now.
+audio-escape_02_spherenag1-04.npy|mel-escape_02_spherenag1-04.npy|linear-escape_02_spherenag1-04.npy|99000|360|Okay fine: DO touch it. Pick it up and just... Stuff it back into me.
+audio-escape_02_spherenag1-05.npy|mel-escape_02_spherenag1-05.npy|linear-escape_02_spherenag1-05.npy|148500|540|Let's be honest: Neither one of us knows what that thing does. Just put it in the corner, and I'll deal with it later.
+audio-escape_02_spherenag1-06.npy|mel-escape_02_spherenag1-06.npy|linear-escape_02_spherenag1-06.npy|105050|382|That thing is probably some kind of raw sewage container. Go ahead and rub your face all over it.
+audio-escape_02_spherenag1-07.npy|mel-escape_02_spherenag1-07.npy|linear-escape_02_spherenag1-07.npy|148225|539|Maybe you should marry that thing since you love it so much. Do you want to marry it? WELL I WON'T LET YOU. How does that feel?
+audio-escape_02_spherenag1-08.npy|mel-escape_02_spherenag1-08.npy|linear-escape_02_spherenag1-08.npy|102025|371|Have I lied to you? I mean in this room. Trust me, leave that thing alone.
+audio-escape_02_spherenag1-09.npy|mel-escape_02_spherenag1-09.npy|linear-escape_02_spherenag1-09.npy|103125|375|I am being serious now. That crazy thing is not part of any test protocol.
+audio-escape_02_spherenag1-10.npy|mel-escape_02_spherenag1-10.npy|linear-escape_02_spherenag1-10.npy|32725|119|Where are you taking that thing?
+audio-escape_02_spherenag1-11.npy|mel-escape_02_spherenag1-11.npy|linear-escape_02_spherenag1-11.npy|37400|136|Come on, leave it alone.
+audio-escape_02_spherenag1-12.npy|mel-escape_02_spherenag1-12.npy|linear-escape_02_spherenag1-12.npy|32450|118|Leave. It. alone.
+audio-escape_02_spherenag1-13.npy|mel-escape_02_spherenag1-13.npy|linear-escape_02_spherenag1-13.npy|40975|149|Just ignore that thing and stand still.
+audio-escape_02_spherenag1-14.npy|mel-escape_02_spherenag1-14.npy|linear-escape_02_spherenag1-14.npy|82500|300|Think about it: If that thing is important, why don't I know about it?
+audio-escape_02_spherenag1-15.npy|mel-escape_02_spherenag1-15.npy|linear-escape_02_spherenag1-15.npy|37950|138|Are you even listening to me?
+audio-escape_02_spherenag1-16.npy|mel-escape_02_spherenag1-16.npy|linear-escape_02_spherenag1-16.npy|96800|352|I'll tell you what that thing isn't: It isn't yours. So leave it alone.
+audio-escape_nags_07.npy|mel-escape_nags_07.npy|linear-escape_nags_07.npy|41800|152|Didn't we have some fun, though?
+audio-generic_crate_lost-1.npy|mel-generic_crate_lost-1.npy|linear-generic_crate_lost-1.npy|42075|153|Weighted Storage Cube destroyed.
+audio-generic_crate_lost-2.npy|mel-generic_crate_lost-2.npy|linear-generic_crate_lost-2.npy|128150|466|Weighted Storage Cube destroyed.
+audio-generic_crate_vaporized_in_emancipation_grid-1.npy|mel-generic_crate_vaporized_in_emancipation_grid-1.npy|linear-generic_crate_vaporized_in_emancipation_grid-1.npy|100100|364|Please do not attempt to remove testing apparatus from the testing area.
+audio-generic_crate_vaporized_in_emancipation_grid-2.npy|mel-generic_crate_vaporized_in_emancipation_grid-2.npy|linear-generic_crate_vaporized_in_emancipation_grid-2.npy|113850|414|A replacement Aperture Science Weighted Storage Cube will be delivered shortly.
+audio-generic_security_camera_destroyed-1.npy|mel-generic_security_camera_destroyed-1.npy|linear-generic_security_camera_destroyed-1.npy|245300|892|At the Enrichment Center we promise never to value your safety above your unique ideas and creativity. However, do not destroy vital testing apparatus.
+audio-generic_security_camera_destroyed-2.npy|mel-generic_security_camera_destroyed-2.npy|linear-generic_security_camera_destroyed-2.npy|142175|517|To ensure the safe performance of all authorized activities, do not destroy vital testing apparatus.
+audio-generic_security_camera_destroyed-3.npy|mel-generic_security_camera_destroyed-3.npy|linear-generic_security_camera_destroyed-3.npy|91850|334|For your own safety, do not destroy vital testing apparatus.
+audio-generic_security_camera_destroyed-4.npy|mel-generic_security_camera_destroyed-4.npy|linear-generic_security_camera_destroyed-4.npy|115775|421|Certain objects may be vital to your success; Do not destroy testing apparatus.
+audio-generic_security_camera_destroyed-5.npy|mel-generic_security_camera_destroyed-5.npy|linear-generic_security_camera_destroyed-5.npy|54450|198|Vital testing apparatus destroyed.
+audio-post_escape_bridge_01.npy|mel-post_escape_bridge_01.npy|linear-post_escape_bridge_01.npy|12925|47|Hello?
+audio-post_escape_bridge_02.npy|mel-post_escape_bridge_02.npy|linear-post_escape_bridge_02.npy|18700|68|Can you hear me?
+audio-post_escape_bridge_03.npy|mel-post_escape_bridge_03.npy|linear-post_escape_bridge_03.npy|25575|93|Is anyone there?
+audio-post_escape_bridge_05.npy|mel-post_escape_bridge_05.npy|linear-post_escape_bridge_05.npy|8525|31|Oh!
+audio-post_escape_bridge_06.npy|mel-post_escape_bridge_06.npy|linear-post_escape_bridge_06.npy|18700|68|Can you hear me?
+audio-post_escape_bridge_07.npy|mel-post_escape_bridge_07.npy|linear-post_escape_bridge_07.npy|23925|87|Are you still listening?
+audio-post_escape_bridge_08.npy|mel-post_escape_bridge_08.npy|linear-post_escape_bridge_08.npy|28050|102|Are you still standing there?
+audio-post_escape_bridge_09.npy|mel-post_escape_bridge_09.npy|linear-post_escape_bridge_09.npy|28050|102|Are you still standing there?
